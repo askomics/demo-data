@@ -1,0 +1,3757 @@
+pathway	COMMON-NAME	TAXONOMIC-RANGE
+PWY-1269	CMP-3-deoxy-D-manno-octulosonate biosynthesis	TAX-1117
+PWY-1269	CMP-Kdo biosynthesis I	TAX-33090
+PWY-1269		TAX-1783257
+PWY-1269		TAX-1224
+PWY-6416	quinate degradation II	TAX-1239
+PWY-6416		TAX-201174
+PWY-6416		TAX-4751
+ASPARAGINESYN-PWY	L-asparagine biosynthesis II	TAX-2759
+ASPARAGINESYN-PWY		TAX-2
+PWY-7093	vicianin bioactivation	TAX-78536
+PWY-5473	hydroxycinnamic acid serotonin amides biosynthesis	TAX-3398
+PWY-5473	hydroxycinnamic acid amides biosynthesis	
+PWY-5903	bacillibactin biosynthesis	TAX-91061
+PWY-5947	lutein biosynthesis	TAX-4751
+PWY-5947		TAX-2763
+PWY-5947		TAX-3041
+PWY-5947		TAX-1117
+PWY-5947		TAX-33090
+PWY0-381	glycerol and glycerophosphodiester degradation	TAX-2
+PWY-6369	inositol pyrophosphates biosynthesis	TAX-2759
+PWY-6369	diphosphorylated inositol polyphosphates biosynthesis	
+PWY-6104	3-chlorotoluene degradation II	TAX-2
+PWY-5515	L-arabinose degradation II	TAX-4751
+PWY-5203	soybean saponin I biosynthesis	TAX-3398
+PWY-6320	phaselate biosynthesis	TAX-3803
+PWY-6320	o-diphenol biosynthesis	
+PWY-6946	cholesterol degradation to androstenedione II (cholesterol dehydrogenase)	TAX-2
+PWY-7579	phycourobilin biosynthesis	TAX-1117
+NADPHOS-DEPHOS-PWY	NAD phosphorylation and dephosphorylation	TAX-33208
+NADPHOS-DEPHOS-PWY		TAX-2
+PWY-6624	salicylate glucosides biosynthesis III	TAX-4097
+PWY-6624	salicylic acid glucosides biosynthesis III	TAX-35883
+PWY-6624	salicylate glucose ester biosynthesis	ORG-5993
+PWY-6624	SA glucose ester biosynthesis	
+PWY-6624	SGE biosynthesis	
+PWY-6168	flavin biosynthesis III (fungi)	TAX-4751
+PWY-6928	superpathway of cholesterol degradation I (cholesterol oxidase)	TAX-2
+P164-PWY	purine nucleobases degradation I (anaerobic)	TAX-1239
+P164-PWY	purine fermentation	
+PWY0-1573	nitrate reduction VIIIb (dissimilatory)	
+PWY0-1573	NADH to nitrate reductase electron transfer	
+PWY-5174	capsanthin and capsorubin biosynthesis	TAX-58024
+GLUGLNSYN-PWY	L-glutamate biosynthesis IV	TAX-33090
+GLUGLNSYN-PWY	L-glutamate biosynthesis from L-glutamine	TAX-4751
+PWY-81	toluene degradation to benzoyl-CoA (anaerobic)	TAX-1224
+PWY-81	toluene oxidation (anaerobic)	
+PWY-4202	arsenate detoxification I (glutaredoxin)	TAX-40674
+PWY-6953	dTDP-3-acetamido-&alpha;-D-fucose biosynthesis	TAX-2
+PWY-6953	dTDP-3-acetamido-3,6-dideoxy-&alpha;-D-galactose biosynthesis	
+PWY-6316	aromatic polyketides biosynthesis	TAX-23216
+PWY-361	phenylpropanoid biosynthesis	TAX-58024
+PWY-361	monolignol biosynthesis	
+PWY-361	lignin biosynthesis	
+PWY-5064	chlorophyll a biosynthesis II	TAX-33090
+PWY-7734	quinoxaline-2-carboxylate biosynthesis	TAX-2
+PWY-7734	quinoxaline-2-carboxylic acid biosynthesis	
+PWY-6040	chlorogenic acid biosynthesis II	TAX-33090
+GLYOXYLATE-BYPASS	glyoxylate cycle	TAX-2157
+GLYOXYLATE-BYPASS	glyoxylate bypass	TAX-2759
+GLYOXYLATE-BYPASS	glyoxylate shunt	TAX-2
+PWY-7323	superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis	TAX-2
+PWY-7323		TAX-2157
+TRYPDEG-PWY	L-tryptophan degradation II (via pyruvate)	TAX-2
+PWY-7727	docosahexaenoate biosynthesis IV (4-desaturase, mammals)	TAX-33208
+PWY-7727		TAX-2759
+PWY-6133	(S)-reticuline biosynthesis II	TAX-40674
+PWY-6371	superpathway of inositol phosphate compounds	TAX-2759
+P341-PWY	glycolysis V (Pyrococcus)	TAX-2157
+P341-PWY	archaeal Embden-Meyerhof pathway	
+P341-PWY	archaeal Embden-Meyerhof-Parnas pathway	
+P341-PWY	archaeal EMP pathway	
+PWY-7389	superpathway of anaerobic energy metabolism (invertebrates)	TAX-6157
+PWY-7389	aspartate-succinate pathway	TAX-6231
+PWY-7389		TAX-6447
+PWY-7389		TAX-6340
+PWY1-3	polyhydroxybutanoate biosynthesis	TAX-2157
+PWY1-3	PHB biosynthesis	TAX-2
+PWY1-3	polyhydroxybutyrate biosynthesis	
+PWY-5981	CDP-diacylglycerol biosynthesis III	TAX-2
+PWY-6454	vancomycin resistance I	TAX-2
+PWY-6454	D-ala-D-lactate biosynthesis	
+PWY-5434	(3E)-4,8-dimethylnona-1,3,7-triene biosynthesis	TAX-33090
+PWY-5434	nerolidol biosynthesis	
+PWY-5434	4,8-dimethyl-1,3(E),7-nonatriene biosynthesis	
+PWY-5434	DMNT biosynthesis	
+PWY-842	starch degradation I	TAX-4479
+PWY-842	starch mobilization from cereal endosperm	
+PWY-842	starch degradation from cereal endosperm	
+PWY-7069	oleanolate biosynthesis	TAX-58024
+CITRULLINE-DEG-PWY	L-citrulline degradation	TAX-2157
+CITRULLINE-DEG-PWY		TAX-2759
+CITRULLINE-DEG-PWY		TAX-2
+PWY-5944	zeaxanthin biosynthesis	TAX-4751
+PWY-5944		TAX-2
+PWY-5944		TAX-2763
+PWY-5944		TAX-3041
+PWY-5944		TAX-33090
+MET-SAM-PWY	superpathway of S-adenosyl-L-methionine biosynthesis	TAX-2
+PWY0-1301	melibiose degradation	TAX-2759
+PWY0-1301		TAX-2
+PWY0-1301		TAX-2157
+PWY-6920	6-gingerol analog biosynthesis (engineered)	
+PWY-5331	taurine biosynthesis	TAX-2
+PWY-5331	L-cysteine degradation IV	TAX-40674
+PWY0-881	superpathway of fatty acid biosynthesis I (E. coli)	
+PWY-3041	monoterpene biosynthesis	TAX-58023
+PWY-3041	limonene biosynthesis	
+PWY-3041	myrcene biosynthesis	
+PWY-3041	(E)-&beta;-ocimene biosynthesis	
+ARG-GLU-PWY	L-arginine degradation VII (arginase 3 pathway)	TAX-1224
+PWY-3881	mannitol biosynthesis	TAX-58023
+TRYPTOPHAN-DEGRADATION-1	L-tryptophan degradation III (eukaryotic)	TAX-4751
+TRYPTOPHAN-DEGRADATION-1	the kynurenine pathway	TAX-33208
+PWY-5912	2'-deoxymugineic acid phytosiderophore biosynthesis	TAX-4479
+PWY-5912	DMA biosynthesis	
+PWY-5912	Fe acquisition	
+PWY-5912	iron acquisition	
+PWY-5912	strategy II Fe-acquisition	
+PWY-5194	siroheme biosynthesis	TAX-183980
+PWY-5194		TAX-33090
+PWY-5194		TAX-4751
+PWY-5194		TAX-2
+PWY-5743	3-hydroxypropanoate cycle	TAX-200795
+PWY-5743	3-hydroxypropionate/malyl-CoA cycle	
+PWY-5743	3-hydroxypropionate cycle	
+PWY-6621	salicylate glucosides biosynthesis I	ORG-5993
+PWY-6621	2,5-dihydroxybenzoate 2-O-&beta;-D-glucoside biosynthesis	
+PWY-6621	2,5-dihydroxybenzoic acid 2-O-&beta;-D-glucoside biosynthesis	
+PWY-6621	salicylic acid glucosides biosynthesis I	
+PWY-7052	cyanophycin metabolism	TAX-2
+CENTBENZCOA-PWY	benzoyl-CoA degradation II (anaerobic)	TAX-2
+CENTBENZCOA-PWY	central benzoyl-CoA pathway (anaerobic)	
+PWY-5403	betaxanthin biosynthesis (via dopamine)	TAX-4751
+PWY-5403		TAX-3524
+PWY66-398	TCA cycle III (animals)	TAX-33208
+PWY66-398	tricarboxylic acid cycle	
+PWY66-398	citric acid cycle	
+PWY66-398	Szent-Gyorgyi-Krebs cycle	
+PWY66-398	Krebs cycle	
+PWY-6797	6-hydroxymethyl-dihydropterin diphosphate biosynthesis II (archaea)	TAX-2157
+PWY-7053	docosahexaenoate biosynthesis I (lower eukaryotes)	TAX-2759
+PWY-7053		TAX-3041
+PWY-7053		TAX-3208
+PWY-6883	pyruvate fermentation to butanol II (engineered)	TAX-2759
+PWY-6883	1-butanol synthesis	TAX-2
+PWY-6008	baruol biosynthesis	TAX-3193
+PWY-7341	superpathway of hyoscyamine and scopolamine biosynthesis	TAX-4070
+PWY-7251	pentacyclic triterpene biosynthesis	TAX-33090
+PWY-7251	pentacyclic triterpenoid biosynthesis	
+PWY-7817	type I lipoteichoic acid biosynthesis (S. aureus)	TAX-1239
+GALACT-GLUCUROCAT-PWY	superpathway of hexuronide and hexuronate degradation	TAX-2
+GALACT-GLUCUROCAT-PWY	galacturonate and glucuronate catabolism	
+GALACT-GLUCUROCAT-PWY	superpathway of galacturonate and glucuronate degradation	
+PWY-7230	ubiquinol-6 biosynthesis from 4-aminobenzoate (eukaryotic)	TAX-4751
+PWY-2941	L-lysine biosynthesis II	TAX-1239
+PWY-13	superpathway of tetrahydroxyxanthone biosynthesis	TAX-58023
+PWY-6698	oxalate degradation V	TAX-4751
+PWY-6698		TAX-2
+PWY-5896	superpathway of menaquinol-10 biosynthesis	TAX-201174
+PWY-5896	vitamin K2 biosynthesis	TAX-976
+PWY-5896	superpathway of menaquinone-10 biosynthesis	
+PWY-7831	biosynthesis of ABH and Lewis epitopes from type 2 precursor disaccharide	TAX-33208
+CAROTENOID-PWY	superpathway of carotenoid biosynthesis	TAX-4751
+CAROTENOID-PWY		TAX-2763
+CAROTENOID-PWY		TAX-1117
+CAROTENOID-PWY		TAX-33090
+PWYQT-4477	indole glucosinolate activation (intact plant cell)	TAX-3699
+PWYQT-4477	indole glucosinolate breakdown (the PEN2 pathway)	
+PWYQT-4477	indole glucosinolate breakdown (intact plant cell)	
+PWY-6957	mandelate degradation to acetyl-CoA	TAX-1224
+PWY0-1303	aminopropylcadaverine biosynthesis	TAX-2
+PWY-7187	pyrimidine deoxyribonucleotides de novo biosynthesis II	TAX-2157
+PWY-7187		TAX-2
+PWY-5838	superpathway of menaquinol-8 biosynthesis I	TAX-183963
+PWY-5838	vitamin K2 biosynthesis I	TAX-2
+PWY-5838	superpathway of menaquinone-8 biosynthesis I	
+PWY-821	superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	TAX-4751
+PWY-5698	allantoin degradation to ureidoglycolate II (ammonia producing)	TAX-2
+PWY-5698		TAX-2759
+PWY-7160	polymethylated myricetin biosynthesis (tomato)	TAX-91827
+PWY-2221	Entner-Doudoroff pathway III (semi-phosphorylative)	TAX-183963
+PWY-2221		TAX-183924
+PWY-6937	superpathway of testosterone and androsterone degradation	TAX-2
+PWY-6516	superpathway of microbial D-galacturonate and D-glucuronate degradation	TAX-4751
+PWY-6516		TAX-2
+MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS	protein N-glycosylation (eukaryotic, high mannose)	TAX-2759
+MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS	mannosyl-chito-dolichol biosynthesis	
+MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS	eukaryotic N-linked glycosylation	
+MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS	dolichyl-diphosphooligosaccharide biosynthesis and attachment	
+PWY-3301	sinapate ester biosynthesis	TAX-3700
+PWY-5668	cardiolipin biosynthesis I	TAX-2
+PWY-4381	fatty acid biosynthesis initiation I	TAX-2759
+PWY-4381	de novo fatty acid biosynthesis, initial reactions	TAX-2
+PWY-5122	geranyl diphosphate biosynthesis	TAX-2157
+PWY-5122	GPP biosynthesis	TAX-2
+PWY-5122		TAX-2759
+PWY-7767	leucine degradation IV	TAX-2
+PWY-5845	superpathway of menaquinol-9 biosynthesis	TAX-2
+PWY-5845	vitamin K2 biosynthesis	
+PWY-5845	superpathway of menaquinone-9 biosynthesis	
+PWY-7795	terephthalate degradation	TAX-2
+PWY-5936	xyloglucan biosynthesis	TAX-33090
+PWY-6132	lanosterol biosynthesis	TAX-33154
+PWY-6132		TAX-1224
+PWY-6132		TAX-203682
+LEUSYN-PWY	L-leucine biosynthesis	TAX-2157
+LEUSYN-PWY		TAX-2
+LEUSYN-PWY		TAX-4751
+LEUSYN-PWY		TAX-33090
+PWY-6894	thiamine diphosphate biosynthesis I (E. coli)	TAX-2
+PWY-6894	vitamin B1 biosynthesis	
+PWY-6894	thiamin diphosphate biosynthesis I (E. coli)	
+PWY-6848	rutin degradation	TAX-4751
+PWY-6848	rutin catabolic pathway	
+PWY-3961	phosphopantothenate biosynthesis II	TAX-3398
+PWY-5390	rutin biosynthesis	TAX-3398
+PWY-7782	plasmalogen biosynthesis	TAX-33208
+3-HYDROXYPHENYLACETATE-DEGRADATION-PWY	4-hydroxyphenylacetate degradation	TAX-1224
+3-HYDROXYPHENYLACETATE-DEGRADATION-PWY	4-HPA degradation	
+3-HYDROXYPHENYLACETATE-DEGRADATION-PWY	homoprotocatechuate degradation	
+PWY-5267	glucosinolate activation	TAX-3699
+PWY-5267	glucosinolate hydrolysis	
+PWY-5267	glucosinolate breakdown	
+PWY-5267	glucosinolate degradation	
+PWY-7199	pyrimidine deoxyribonucleosides salvage	TAX-554915
+PWY-7199		TAX-33208
+PWY-7199		TAX-33090
+PWY-7199		TAX-2
+PWY-7199		TAX-2157
+PWY0-1325	superpathway of L-asparagine biosynthesis	TAX-2759
+PWY0-1325		TAX-2
+PWY-6691	plaunotol biosynthesis	TAX-33090
+PWY-7819	poly(3-O-&beta;-D-glucopyranosyl-N-acetylgalactosamine 1-phosphate) wall teichoic acid biosynthesis	TAX-1239
+PWY-7819	minor teichoic acid biosynthesis	
+PWY-7819	GlcGalNAc-1P teichoic acid biosynthesis	
+PWY-6215	4-chlorobenzoate degradation	TAX-2
+PWY-181	photorespiration	TAX-38254
+PWY-181	C2 photorespiratory carbon oxidation cycle	TAX-2830
+PWY-181	PCO cycle	TAX-543769
+PWY-181		TAX-33634
+PWY-181		TAX-3027
+PWY-181		TAX-33682
+PWY-181		TAX-2763
+PWY-181		TAX-1117
+PWY-181		TAX-33090
+TREHALOSESYN-PWY	trehalose biosynthesis III	TAX-201174
+PWY-6446	benzoate biosynthesis III (CoA-dependent, non-&beta;-oxidative)	TAX-33090
+PWY-6446	benzoic acid biosynthesis	
+PWY-6446	benzoate biosynthesis III (CoA-dependent, &beta;-oxidative-independent)	
+PWY-5257	superpathway of pentose and pentitol degradation	TAX-2157
+PWY-5257		TAX-4751
+PWY-5257		TAX-2
+GLYCLEAV-PWY	glycine cleavage	TAX-2157
+GLYCLEAV-PWY	glycine cleavage system	TAX-2759
+GLYCLEAV-PWY	glycine decarboxylase complex	TAX-2
+GLYCLEAV-PWY	gcv system	
+GLYCLEAV-PWY	glycine cleavage complex	
+PWY-2161	folate polyglutamylation	TAX-2759
+PWY-2161		TAX-2
+PWY-2161		TAX-2157
+PWY-7616	methanol oxidation to carbon dioxide	TAX-2
+PWY-6804	diacylglycerol biosynthesis (PUFA enrichment in oilseed)	TAX-58024
+PWY-6525	stellariose and mediose biosynthesis	TAX-3568
+PWY-6525	galactosyl-oligosaccharides biosynthesis	
+PWY-2723	trehalose degradation V	TAX-4751
+PWY3DJ-11281	sphingomyelin metabolism	TAX-2759
+PWY3DJ-11281		TAX-2
+PWY-5640	nitrobenzene degradation II	TAX-2
+GLUTORN-PWY	L-ornithine biosynthesis I	TAX-2157
+GLUTORN-PWY		TAX-2
+PWY-5423	oleoresin monoterpene volatiles biosynthesis	TAX-3313
+PWY-7622	UDP-galactofuranose biosynthesis	TAX-6231
+PWY-7622		TAX-3052
+PWY-7622		TAX-147538
+PWY-7622		TAX-5654
+PWY-7622		TAX-2
+PWY-5739	GDP-D-perosamine biosynthesis	TAX-2
+PWY-5739	GDP-&alpha;-D-perosamine biosynthesis	
+SPHINGOLIPID-SYN-PWY	sphingolipid biosynthesis (yeast)	TAX-4751
+PWY-6900	(Z)-butanethial-S-oxide biosynthesis	TAX-40553
+PWY-6900	nectroscordum lachrymator biosynthesis	
+PWY-7818	type IV lipoteichoic acid biosynthesis (S. pneumoniae)	TAX-1239
+PWY-5278	sulfite oxidation III	TAX-2
+PWY-4203	volatile benzenoid biosynthesis I (ester formation)	TAX-3398
+GLUCONEO-PWY	gluconeogenesis I	TAX-4751
+GLUCONEO-PWY		TAX-33090
+GLUCONEO-PWY		TAX-2157
+GLUCONEO-PWY		TAX-2
+PWY-5004	superpathway of L-citrulline metabolism	TAX-33090
+PWY-5004		TAX-33208
+PWY-5135	xanthohumol biosynthesis	TAX-3481
+PWY-5410	traumatin and (Z)-3-hexen-1-yl acetate biosynthesis	TAX-3193
+PWY-5410	13-lipoxygenase and 13-hydroperoxide lyase pathway	
+PWY-5410	13-LOX and 13-HPL pathway	
+PWY0-1545	cardiolipin biosynthesis III	
+PWY-101	photosynthesis light reactions	TAX-1117
+PWY-101		TAX-39119
+PWY-101		TAX-38254
+PWY-101		TAX-29197
+PWY-101		TAX-38410
+PWY-101		TAX-5747
+PWY-101		TAX-2864
+PWY-101		TAX-877183
+PWY-101		TAX-2836
+PWY-101		TAX-3027
+PWY-101		TAX-2830
+PWY-101		TAX-2833
+PWY-101		TAX-3041
+PWY-101		TAX-33682
+PWY-101		TAX-2763
+PWY-101		TAX-2870
+PWY-101		TAX-2825
+PWY-101		TAX-2
+PWY-101		TAX-33090
+SULFATE-CYS-PWY	superpathway of sulfate assimilation and cysteine biosynthesis	TAX-2
+PWY-5859	eugenol and isoeugenol biosynthesis	TAX-33090
+PWY-7179	purine deoxyribonucleosides degradation I	TAX-2157
+PWY-7179		TAX-2
+P241-PWY	coenzyme B biosynthesis	TAX-183988
+P241-PWY	7-mecaptoheptanoylthreonine phosphate biosynthesis	TAX-224756
+P241-PWY	CoB biosynthesis	TAX-183939
+P241-PWY		TAX-183925
+PWY-5405	superpathway of betalain biosynthesis	TAX-71240
+PWY-5405		TAX-4751
+PWY-5506	methanol oxidation to formaldehyde IV	TAX-4751
+PWY-6154	autoinducer AI-2 biosynthesis II (Vibrio)	TAX-135623
+PWY-5840	superpathway of menaquinol-7 biosynthesis	TAX-2157
+PWY-5840	vitamin K2 biosynthesis	TAX-2
+PWY-5840	superpathway of menaquinone-7 biosynthesis	
+PWY-6722	candicidin biosynthesis	TAX-1883
+PWY-7398	coumarins biosynthesis (engineered)	TAX-4751
+PWY-7398		TAX-33090
+PWY-7398		TAX-2
+URDEGR-PWY	superpathway of allantoin degradation in plants	TAX-33090
+URDEGR-PWY	ureide degradation	
+THREOCAT-PWY	superpathway of L-threonine metabolism	TAX-2
+PWY-2541	plant sterol biosynthesis	TAX-3398
+PWY-5332	sulfur reduction I	TAX-2
+PWY-5332	sulfur respiration	TAX-2157
+PWY-5332	sulphur respiration	
+PWY-6936	seleno-amino acid biosynthesis	TAX-33090
+PWY-6936	Se-amino acid biosynthesis	
+PWY-6936	selenocysteine and selenomethionine biosynthesis	
+PWY-1882	superpathway of C1 compounds oxidation to CO2	TAX-2
+PWY66-201	nicotine degradation IV	TAX-40674
+PWY0-1415	superpathway of heme biosynthesis from uroporphyrinogen-III	TAX-2
+PWY-7176	UTP and CTP de novo biosynthesis	TAX-2157
+PWY-7176		TAX-2759
+PWY-7176		TAX-2
+PWY-2661	trehalose biosynthesis V	TAX-2157
+PWY-2661		TAX-2
+PWY-3941	&beta;-alanine biosynthesis II	TAX-33090
+PWY-3941	&beta;-alanine biosynthesis from proprionate	TAX-2
+PWY-7758	bacteriochlorophyll d biosynthesis	TAX-191412
+ARGORNPROST-PWY	arginine, ornithine and proline interconversion	TAX-1239
+ARGORNPROST-PWY	Stickland reaction	
+PWY-5279	sulfite oxidation II	TAX-2
+PWY-6789	(1,3)-&beta;-D-xylan degradation	TAX-4751
+PWY-6789		TAX-2
+PWY-5032	ent-kaurene biosynthesis I	TAX-33090
+PWY-5032		TAX-4751
+NAD-BIOSYNTHESIS-II	NAD salvage pathway III	TAX-2
+NAD-BIOSYNTHESIS-II	nicotinamide adenine dinucleotide salvage	
+PWY66-388	fatty acid &alpha;-oxidation III	TAX-33208
+PWY-7129	quercetin glucoside biosynthesis (Allium)	TAX-58024
+PWY-7212	baicalein metabolism	TAX-33090
+PWY-7560	methylerythritol phosphate pathway II	TAX-5794
+PWY-7560	nonmevalonate isopentenyl diphosphate biosynthesis	TAX-1117
+PWY-7560	methylerythritol phosphate degradation	TAX-33090
+PWY-7560	MEP degradation	
+PWY-7560	deoxyxylulose phosphate pathway	
+PWY-7560	DOXP pathway	
+PWY-7560	Rohmer pathway	
+PWY-7560	isopentenyl diphosphate biosynthesis -- mevalonate-independent	
+PWY-7560	nonmevalonate isoprenoid pathway	
+PWY-7560	MEP pathway	
+ANAGLYCOLYSIS-PWY	glycolysis III (from glucose)	TAX-2759
+ANAGLYCOLYSIS-PWY	anaerobic glycolysis	TAX-2
+ANAGLYCOLYSIS-PWY	Embden-Meyerhof-Parnas pathway	
+ANAGLYCOLYSIS-PWY	EMP pathway	
+ANAGLYCOLYSIS-PWY	glycolysis III (glucokinase)	
+PWY-7586	&beta;-1,4-D-mannosyl-N-acetyl-D-glucosamine degradation	TAX-68336
+PWY6666-1	anandamide degradation	TAX-33208
+PWY-881	trehalose biosynthesis II	TAX-4751
+PWY-881	trehalose biosynthesis 2	TAX-201174
+PWY-241	C4 photosynthetic carbon assimilation cycle, NADP-ME type	TAX-3193
+PWY-241	PCA cycle	
+PWY-241	C4 photosynthesis, NADP-ME type	
+PWY-5290	secologanin and strictosidine biosynthesis	TAX-24966
+PWY-5290		TAX-26468
+PWY-5290		TAX-4056
+PWY-7580	phycoerythrobilin biosynthesis II	TAX-35237
+PWY-7580		TAX-1117
+PWY-7227	adenosine deoxyribonucleotides de novo biosynthesis	TAX-2759
+PWY-7227		TAX-2157
+PWY-7227		TAX-2
+PWY-6961	L-ascorbate degradation II (bacterial, aerobic)	TAX-2
+PWY-7283	wybutosine biosynthesis	TAX-2759
+PWY-6578	8-amino-7-oxononanoate biosynthesis III	TAX-2
+PWY-6578	7-keto-8-aminopelargonate biosynthesis III	
+PWY-6901	superpathway of glucose and xylose degradation	TAX-2
+TRPIAACAT-PWY	L-tryptophan degradation VII (via indole-3-pyruvate)	TAX-183924
+TRPIAACAT-PWY		TAX-1224
+PWY-5254	methanofuran biosynthesis	TAX-183980
+PWY-5254		TAX-183988
+PWY-5254		TAX-224756
+PWY-5254		TAX-183939
+PWY-5254		TAX-183925
+PWY-5458	methylglyoxal degradation V	TAX-4751
+PWY-5324	L-lysine degradation IX	TAX-4751
+PWY-5317	hyoscyamine and scopolamine biosynthesis	TAX-4070
+PWY-6620	guanine and guanosine salvage	TAX-33154
+PWY-6620		TAX-2157
+PWY-6620		TAX-2
+FASYN-ELONG-PWY	fatty acid elongation -- saturated	TAX-33090
+FASYN-ELONG-PWY		TAX-2
+PWY-6293	L-cysteine biosynthesis IV (fungi)	TAX-4751
+PWY-5738	GDP-6-deoxy-D-talose biosynthesis	TAX-2
+PWY-5100	pyruvate fermentation to acetate and lactate II	TAX-2
+PWY-7288	fatty acid &beta;-oxidation (peroxisome, yeast)	TAX-4751
+PWY-6064	methylquercetin biosynthesis	TAX-58023
+PWY-6064		TAX-3195
+PWY-6064		TAX-3208
+PWY-4722	creatinine degradation II	TAX-2
+PWY-6348	phosphate acquisition	TAX-2759
+PWY-6348		TAX-2
+PWY66-162	ethanol degradation IV	TAX-33208
+PWY-622	starch biosynthesis	TAX-2763
+PWY-622		TAX-1117
+PWY-622		TAX-33090
+PWY-4181	glutathione amide metabolism	TAX-2
+P185-PWY	formaldehyde assimilation III (dihydroxyacetone cycle)	TAX-4751
+P185-PWY	dihydroxyacetone cycle	
+P185-PWY	xylulose-monophosphate cycle	
+PWY-4101	D-sorbitol degradation I	TAX-4751
+PWY-4101	sorbitol utilization	TAX-2
+PWY-4101		TAX-71275
+CHOLINE-BETAINE-ANA-PWY	choline degradation I	TAX-33208
+CHOLINE-BETAINE-ANA-PWY	choline betaine anabolism	TAX-33090
+CHOLINE-BETAINE-ANA-PWY		TAX-1224
+PWY-7518	atromentin biosynthesis	TAX-5204
+PWY-7518		TAX-4751
+PWY-5907	homospermidine biosynthesis	TAX-131567
+PWY-5907	polyamine biosynthesis	
+PWY-5907	triaminic polyamine biosynthesis	
+PWY-6536	4-aminobutanoate degradation III	TAX-4751
+PWY-6536	&gamma;-amino-butyrate shunt	TAX-2
+PWY-6536	GABA degradation	
+PWY-5708	ethiin metabolism	TAX-40553
+PRPP-PWY	superpathway of histidine, purine, and pyrimidine biosynthesis	TAX-2
+PWY-5655	L-tryptophan degradation IX	TAX-2
+PWY-6959	L-ascorbate degradation V	TAX-33090
+PWY-7411	phosphatidate biosynthesis (yeast)	TAX-2759
+PWY-7693	guadinomine B biosynthesis	TAX-2
+PWY-3162	L-tryptophan degradation V (side chain pathway)	TAX-1224
+P21-PWY	pentose phosphate pathway (partial)	TAX-2093
+P21-PWY	pentose phosphate pathway, Mycoplasma pneumonia	
+PWY-5901	2,3-dihydroxybenzoate biosynthesis	TAX-2
+ETHYL-PWY	ethylene biosynthesis I (plants)	TAX-3193
+ETHYL-PWY	ethene biosynthesis from methionine	
+PWY-7290	Escherichia coli serotype O86 O-antigen biosynthesis	TAX-1236
+PWY-7290	&alpha;-D-galactosyl-(1&rarr;3)-&alpha;-L-fucosyl-(1&rarr;2)-&beta;-D-galactosaminyl-(1&rarr;3)-N-acetyl-&alpha;-D-galactosaminyl-(1&rarr;3)-N-acetyl-&alpha;-D-galactosaminyl-diphospho-ditrans,octacis-undecaprenol biosynthesis	
+PWY-7290	&alpha;-D-Gal-(1&rarr;3)-&alpha;-L-Fuc-(1&rarr;2)-&beta;-D-Gal-(1&rarr;3)-&alpha;-D-GalNAc-(1&rarr;3)-&alpha;-D-GalNAc-diphospho-ditrans,octacis-undecaprenol biosynthesis	
+PWY0-166	superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)	TAX-2157
+PWY0-166		TAX-2
+PWY-5283	L-lysine degradation V	TAX-2
+PWY-5283	2-aminoadipate pathway	
+PWY-7297	octopamine biosynthesis	TAX-33317
+PWY-7297		TAX-7735
+PWY-7297		TAX-6157
+PWY-7297		TAX-7586
+PWY0-1479	tRNA processing	TAX-2
+PWY-6659	fusicoccin A biosynthesis	TAX-4751
+PWY0-1313	acetate conversion to acetyl-CoA	TAX-33154
+PWY0-1313		TAX-2157
+PWY0-1313		TAX-2
+SER-GLYSYN-PWY	superpathway of L-serine and glycine biosynthesis I	TAX-2759
+SER-GLYSYN-PWY		TAX-2
+SER-GLYSYN-PWY		TAX-2157
+PWY-7618	ricinoleate biosynthesis	TAX-33090
+PWY-7058	esculetin modification	TAX-58024
+PWY-7559		TAX-4751
+PWY-7434	terminal O-glycans residues modification (via type 2 precursor disaccharide)	TAX-2759
+PWY-6361	1D-myo-inositol hexakisphosphate biosynthesis I  (from Ins(1,4,5)P3)	TAX-4751
+PWY-6361	phytate biosynthesis	
+PWY-7382	lipoate biosynthesis and incorporation (yeast)	TAX-4751
+PWY-5326	sulfite oxidation IV	TAX-33090
+PWY-5326		TAX-33208
+PWY-7255	ergothioneine biosynthesis I (bacteria)	TAX-28221
+PWY-7255		TAX-1236
+PWY-7255		TAX-28216
+PWY-7255		TAX-28211
+PWY-7255		TAX-976
+PWY-7255		TAX-1117
+PWY-7255		TAX-201174
+PWY0-1466	trehalose degradation VI (periplasmic)	TAX-4751
+PWY0-1466		TAX-2
+ORNDEG-PWY	superpathway of ornithine degradation	TAX-2
+COLANSYN-PWY	colanic acid building blocks biosynthesis	TAX-1224
+PWY-6098	diploterol and cycloartenol biosynthesis	TAX-13819
+PWY-6098	22-hydroxyphopane-1 biosynthesis	
+PWY-6098	cycloartenol biosynthesis	
+PWY-6098	diploterol biosynthesis	
+PWY-7374	1,4-dihydroxy-6-naphthoate biosynthesis I	TAX-2
+PWY-7374	futalosine pathway	
+PWY-6899	base-degraded thiamine salvage	TAX-4751
+PWY-6899	formylaminopyrimidine salvage	TAX-2157
+PWY-6899	base-degraded thiamin salvage	TAX-2
+PWY-6610	adenine salvage	TAX-33682
+PWY-6610		TAX-4751
+PWY-6610		TAX-2157
+PWY-6610		TAX-2
+PWY-7820	teichuronic acid biosynthesis (B. subtilis 168)	TAX-1239
+PWY-116	coniferin metabolism	TAX-2
+PWY-116		TAX-58024
+PWYQT-4471	glucosinolate biosynthesis from dihomomethionine	TAX-3699
+PWY-3462	L-phenylalanine biosynthesis II	TAX-33090
+PWY-3462		TAX-2
+PWY-3462		TAX-4751
+PWY-7346	UDP-&alpha;-D-glucuronate biosynthesis (from UDP-glucose)	TAX-2157
+PWY-7346	UDP-&alpha;-D-glucuronate biosynthesis	TAX-2759
+PWY-7346	UDP-glucuronic acid biosynthesis (from UDP-glucose)	TAX-2
+PWY-7346	UDP-GlcA biosynthesis	
+PWY-7245		TAX-4751
+PWY-7746	mycobacterial sulfolipid biosynthesis	TAX-1762
+PWY-6840	homoglutathione biosynthesis	TAX-3803
+PWY0-1586	peptidoglycan maturation (meso-diaminopimelate containing)	TAX-2
+PWY-5943	&beta;-carotene biosynthesis	TAX-4751
+PWY-5943		TAX-2
+PWY-5943		TAX-2763
+PWY-5943		TAX-3041
+PWY-5943		TAX-33090
+HOMOSER-THRESYN-PWY	L-threonine biosynthesis	TAX-2157
+HOMOSER-THRESYN-PWY		TAX-4751
+HOMOSER-THRESYN-PWY		TAX-2
+HOMOSER-THRESYN-PWY		TAX-33090
+PWY-6964	ammonia assimilation cycle II	TAX-1117
+PWY-6964	GS/GOGAT pathway	TAX-2836
+PWY-6964		TAX-33090
+CALVIN-PWY	Calvin-Benson-Bassham cycle	TAX-1117
+CALVIN-PWY	photosynthetic dark reactions	TAX-39119
+CALVIN-PWY	photosynthetic CO2 fixation	TAX-38254
+CALVIN-PWY	reductive pentose phosphate pathway	TAX-29197
+CALVIN-PWY	Calvin cycle	TAX-38410
+CALVIN-PWY	carbon fixation	TAX-5747
+CALVIN-PWY	Calvin-Benson cycle	TAX-2864
+CALVIN-PWY		TAX-877183
+CALVIN-PWY		TAX-2836
+CALVIN-PWY		TAX-3027
+CALVIN-PWY		TAX-2830
+CALVIN-PWY		TAX-2833
+CALVIN-PWY		TAX-3041
+CALVIN-PWY		TAX-33682
+CALVIN-PWY		TAX-2763
+CALVIN-PWY		TAX-2870
+CALVIN-PWY		TAX-2825
+CALVIN-PWY		TAX-2
+CALVIN-PWY		TAX-33090
+ARGDEG-V-PWY	L-arginine degradation X (arginine monooxygenase pathway)	TAX-2759
+ARGDEG-V-PWY		TAX-201174
+GLUCOSE1PMETAB-PWY	glucose and glucose-1-phosphate degradation	TAX-2157
+GLUCOSE1PMETAB-PWY		TAX-2759
+GLUCOSE1PMETAB-PWY		TAX-2
+PWY-6758	hydrogen production II	TAX-2
+PWY-6758		TAX-2157
+PWY-6395	superpathway of seleno-compound metabolism	TAX-2
+PWY-6395	superpathway of seleno-compound detoxification	TAX-4751
+PWY-6395	superpathway of selenium uptake and metabolism	TAX-33090
+PWY-6395	superpathway of seleno-amino acid biosynthesis and detoxification	
+PWY-7032	alkane biosynthesis I	TAX-1117
+PWY-5487	4-nitrophenol degradation I	TAX-1224
+PWY-5487	p-nitrophenol degradation I	
+PWY-6731	starch degradation III	TAX-2157
+ANAEROFRUCAT-PWY	homolactic fermentation	TAX-2157
+ANAEROFRUCAT-PWY	anaerobic fructose catabolism	TAX-2759
+ANAEROFRUCAT-PWY	anaerobic fructose degradation	TAX-2
+ANAEROFRUCAT-PWY	fructose fermentation to lactate	
+PWY-7049	icosapentaenoate biosynthesis II (6-desaturase, mammals)	TAX-33208
+PWY-7049	eicosapentaenoic acid biosynthesis II	TAX-4751
+PWY-7049	eicosapentaenoate biosynthesis II (metazoa)	
+PWY-7049	iicosapentaenoic acid biosynthesis II	
+PWY-7807	glyphosate degradation III	TAX-2
+PWY-5451	acetone degradation I (to methylglyoxal)	TAX-40674
+PWY-6762	salicylate glucosides biosynthesis IV	TAX-3193
+PWY-6762	SA glucosides biosynthesis IV	
+PWY-6762	salicylate 2-O-&beta;-D-glucoside biosynthesis	
+PWY-6762	salicylic acid glucosides biosynthesis IV	
+PWY-6762	SAG-&beta;-D-glucoside biosynthesis	
+PWY-6762	salicylic acid 2-O-&beta;-D-glucoside biosynthesis	
+PWY-6676	superpathway of sulfide oxidation (phototrophic sulfur bacteria)	TAX-191412
+PWY-6676		TAX-72276
+PWY-6676		TAX-1046
+PWY3O-6	dehydro-D-arabinono-1,4-lactone biosynthesis	TAX-4751
+PWY3O-6	previously called D-erythroascorbate (erythroascorbate, erythroascorbic acid) biosynthesis	
+PWY-6876	isopropanol biosynthesis (engineered)	TAX-2
+PWY-7307	oleate &beta;-oxidation (reductase-dependent, yeast)	TAX-4751
+PWY-6792	scopoletin biosynthesis	TAX-33090
+PWY-6852	senecionine N-oxide biosynthesis	TAX-7088
+PWY-6987	lipoate biosynthesis and incorporation III (Bacillus)	TAX-2
+PWY-5195	artemisinin biosynthesis	TAX-4219
+PWY-7663	gondoate biosynthesis (anaerobic)	TAX-2
+PWY-7663	cis-11-icosenoate biosynthesis	
+PWY-7663	(11Z)-icos-11-enoate biosynthesis	
+PWY-7663	(11Z)-icosenoate biosynthesis	
+PWY-7663	gondoic acid biosynthesis	
+PWY-7663	11-eicosenoic acid biosynthesis	
+PWY-6131	glycerol degradation II	TAX-4895
+PWY-6131		TAX-2
+COA-PWY	coenzyme A biosynthesis I	TAX-2759
+COA-PWY	CoA biosynthesis	TAX-2157
+COA-PWY		TAX-2
+GLYOXDEG-PWY	glycolate and glyoxylate degradation II	TAX-2
+GLYOXDEG-PWY	glyoxylate degradation	
+PWY-6591	manganese oxidation I	TAX-4751
+PWY-6591		TAX-2
+PHOSLIPSYN2-PWY	superpathway of phospholipid biosynthesis II (plants)	TAX-33090
+PHOSLIPSYN2-PWY	phosphoglyceride biosynthesis	
+PWY-7130	L-glucose degradation	TAX-2
+PWY-7440	dTDP-&beta;-L-4-epi-vancosamine biosynthesis	TAX-2037
+PWYQT-4474	glucosinolate biosynthesis from pentahomomethionine	TAX-3699
+PWY-5044	purine nucleotides degradation I (plants)	TAX-3193
+PWY-5044	purine nucleotide catabolism (aerobic)	
+PWY-7170	phytochromobilin biosynthesis	TAX-3041
+PWY-7170		TAX-33090
+PWY-6660	2-heptyl-3-hydroxy-4(1H)-quinolone biosynthesis	TAX-2
+PWY-6660	2-heptyl-3,4-dihydroxyquinoline biosynthesis	
+PWY-6660	Pseudomonas quinolone signal biosynthesis	
+PWY-6660	PQS biosynthesis	
+PWY-7274	D-cycloserine biosynthesis	TAX-2062
+PWY-6343	ferulate degradation	TAX-2
+PWY-6343	ferulic acid degradation	
+PWY-6343	vanillin biosynthesis II	
+PWY-5789	3-hydroxypropanoate/4-hydroxybutanate cycle	TAX-28889
+PWY-5789	3-HP/4-HB cycle	
+PWY-5789	3-hydroxypropionate/4-hydroxybutyrate cycle	
+PWY-841	superpathway of purine nucleotides de novo biosynthesis I	TAX-2157
+PWY-841	purine biosynthesis 2	TAX-2
+PWY-841		TAX-2759
+ALL-CHORISMATE-PWY	superpathway of chorismate metabolism	TAX-2
+PWY-7371	1,4-dihydroxy-6-naphthoate biosynthesis II	TAX-2
+PWY-7371	modified futalosine pathway	
+PWY-3621	&gamma;-butyrobetaine degradation	TAX-1224
+PWY-6897	thiamine salvage II	TAX-2
+PWY-6897	thiamin salvage II	
+TOLUENE-DEG-CATECHOL-PWY	toluene degradation to benzoate	TAX-1224
+TOLUENE-DEG-CATECHOL-PWY	toluene degradation via catechol	
+NAD-BIOSYNTHESIS-III	NAD biosynthesis III	TAX-2
+NAD-BIOSYNTHESIS-III	nicotinamide adenine dinucleotide biosynthesis	
+PWY-5742	L-arginine degradation IX (arginine:pyruvate transaminase pathway)	TAX-1224
+PWY-5747	2-methylcitrate cycle II	TAX-2
+PWY-6141	archaetidylserine and archaetidylethanolamine biosynthesis	TAX-2157
+PWY-7401	crotonate fermentation (to acetate and cyclohexane carboxylate)	TAX-2
+PWY-6595	superpathway of guanosine nucleotides degradation (plants)	TAX-3193
+PWY-0	putrescine degradation III	TAX-40674
+P165-PWY	superpathway of purines degradation in plants	TAX-33090
+PWY-882	L-ascorbate biosynthesis I (L-galactose pathway)	TAX-33090
+PWY-882	vitamin C biosynthesis	
+PWY-882	ascorbic acid biosynthesis	
+PWY-882	L-ascorbic acid biosynthesis I	
+PWY-882	Smirnoff-Wheeler pathway	
+PWY-5669	phosphatidylethanolamine biosynthesis I	TAX-33090
+PWY-5669		TAX-4751
+PWY-5669		TAX-2
+PWY0-823	L-arginine degradation III (arginine decarboxylase/agmatinase pathway)	TAX-2
+PWY-7625	phosphatidylinositol biosynthesis II (eukaryotes)	TAX-2759
+PWY-7625	L-1-phosphatidyl-inositol biosynthesis II (eukaryotes)	
+PWY-1881	formate oxidation to CO2	TAX-2157
+PWY-1881		TAX-4751
+PWY-1881		TAX-2
+PWY-5973	cis-vaccenate biosynthesis	TAX-2
+PWY-5973	cis vaccenic acid acid biosynthesis	TAX-3398
+PWY-5942	trans-lycopene biosynthesis I (bacteria)	TAX-4751
+PWY-5942		TAX-2157
+PWY-5942		TAX-2
+PWY-4081	glutathione-peroxide redox reactions	TAX-2
+PWY-4081		TAX-2759
+PWY-2881	cytokinins 7-N-glucoside biosynthesis	TAX-3193
+PWY-2881	cytokinins conjugates biosynthesis	
+PWY-7724	icosapentaenoate biosynthesis III (8-desaturase, mammals)	TAX-33208
+PWY-7724	eicosapentaenoic acid biosynthesis III	TAX-4751
+PWY-7724	eicosapentaenoate biosynthesis III (metazoa)	
+PWY-7724	iicosapentaenoic acid biosynthesis III	
+GOLPDLCAT-PWY	superpathway of glycerol degradation to 1,3-propanediol	TAX-1224
+GOLPDLCAT-PWY		TAX-1239
+PWY-5806	all-trans-decaprenyl diphosphate biosynthesis	TAX-2759
+PWY-5806		TAX-2
+PWY-5692	allantoin degradation to glyoxylate II	TAX-33090
+PWY-6672	cis-genanyl-CoA degradation	TAX-2
+PWY-6672	acyclic terpene utilization pathway	
+PWY-5484	glycolysis II (from fructose 6-phosphate)	TAX-2759
+PWY-5484		TAX-2
+PWY-5484		TAX-2157
+DETOX1-PWY-1	reactive oxygen species degradation	TAX-2
+DETOX1-PWY-1	removal of superoxide radicals	TAX-2157
+DETOX1-PWY-1		TAX-2759
+PWY-7402	benzoate fermentation (to acetate and cyclohexane carboxylate)	TAX-2
+PWY-7003	glycerol degradation to butanol	TAX-2
+PWY-6571	dermatan sulfate biosynthesis	TAX-33208
+PWY-7592	arachidonate biosynthesis III (6-desaturase, mammals)	TAX-33208
+PWY-7592	arachidonic acid biosynthesis III (metazoa)	
+PWY-4	UDP-D-galacturonate biosynthesis II (from D-galacturonate)	TAX-33090
+PWY-4	UDP-D-galacturonate biosynthesis (salvage pathway)	TAX-2
+ADENOSYLHOMOCYSCAT-PWY	L-methionine salvage from L-homocysteine	TAX-40674
+PWY-5534	propene degradation	TAX-2
+PWY-5534	propylene degradation	
+ASPARAGINE-DEG1-PWY-1	L-asparagine degradation III (mammalian)	TAX-40674
+PWY-6861	the visual cycle I (vertebrates)	TAX-33208
+PWY-5140	cannabinoid biosynthesis	TAX-3481
+PWY-6981	chitin biosynthesis	TAX-6447
+PWY-6981		TAX-6231
+PWY-6981		TAX-6073
+PWY-6981		TAX-6040
+PWY-6981		TAX-5758
+PWY-6981		TAX-6656
+PWY-6981		TAX-4751
+PWY-1781	&beta;-alanine degradation II	TAX-1224
+PWY66-375	leukotriene biosynthesis	TAX-7742
+THRDLCTCAT-PWY	L-threonine degradation III (to methylglyoxal)	TAX-2
+PWY0-1338	polymyxin resistance	TAX-1224
+PWY0-1338	L-Ara4N-modified lipid A biosynthesis	
+PWY0-1338	4-amino-4-deoxy-L-arabinose-modified lipid A biosynthesis	
+PWY-6606	guanosine nucleotides degradation II	TAX-4751
+PWY-6606		TAX-3193
+ALKANEMONOX-PWY	two-component alkanesulfonate monooxygenase	TAX-2
+ALKANEMONOX-PWY	alkanesulfonate monooxygenase two-component system	
+ALKANEMONOX-PWY	alkanesulfonate monooxygenase	
+PWY-6587	pyruvate fermentation to ethanol III	TAX-2
+PWY-6802	salidroside biosynthesis	TAX-33090
+PWY-7701	4-hydroxy-4-methyl-L-glutamate biosynthesis	TAX-33090
+PWY-7701	4-hydroxy-4-methylglutamate biosynthesis	TAX-4751
+COA-PWY-1	coenzyme A biosynthesis II (mammalian)	TAX-40674
+COA-PWY-1	CoA biosynthesis	
+GLUTAMINDEG-PWY	L-glutamine degradation I	TAX-2759
+GLUTAMINDEG-PWY		TAX-2
+PWY-7158	L-phenylalanine degradation V	TAX-33090
+PWY66-395	aspirin triggered resolvin D biosynthesis	TAX-40674
+ANAPHENOXI-PWY	L-phenylalanine degradation II (anaerobic)	TAX-4751
+ANAPHENOXI-PWY	anaerobic L-phenylalanine oxidation	TAX-1224
+PWY-7783	plasmalogen degradation	TAX-33208
+HOMOSERSYN-PWY	L-homoserine biosynthesis	TAX-33090
+HOMOSERSYN-PWY		TAX-4751
+HOMOSERSYN-PWY		TAX-2
+PWY-7591	okenone biosynthesis	TAX-1046
+PWY-6402	superpathway of melatonin degradation	TAX-7742
+PWY0-1581	nitrate reduction IX (dissimilatory)	TAX-2
+PWY0-1581	glycerol-3-phosphate to nitrate electron transfer	TAX-2157
+PWY-6661	4-hydroxy-2(1H)-quinolone biosynthesis	TAX-2
+PWY-6661	DHQ biosynthesis	
+PWY-6661	4-hydroxy-2-quinolone biosynthesis	
+CYSTEINE-DEG-PWY	L-cysteine degradation I	TAX-40674
+CYSTEINE-DEG-PWY	cysteine degradation I	
+PWY-5883	ephedrine biosynthesis	TAX-3387
+PWY-7222	guanosine deoxyribonucleotides de novo biosynthesis II	TAX-2
+PWY3O-246	(R,R)-butanediol degradation	TAX-4751
+PWY3O-246	(R,R)-butylene-glycol degradation	TAX-2
+PWY-7793	dimethyl sulfide biosynthesis from methionine	TAX-2
+PWY-7793	methanethiol methylation	
+PWY-6363	D-myo-inositol (1,4,5)-trisphosphate degradation	TAX-2759
+PWY-735	jasmonic acid biosynthesis	TAX-33090
+PWY-735	jasmonate biosynthesis	
+PWY-6559	spermidine biosynthesis II	TAX-2
+PWY-6406	salicylate biosynthesis I	TAX-3193
+PWY-6406	salicylic acid biosynthesis	TAX-2
+PWY-4921	protein citrullination	TAX-68336
+PWY-4921		TAX-33208
+PWY-5499	vitamin B6 degradation	TAX-1224
+PWY-5499	pyridoxine degradation	
+PWY-5499	pyridoxamine degradation	
+PWY-5499	pyridoxal degradation	
+PWY-5005	biotin biosynthesis II	TAX-2
+PWY-5005	vitamin H biosynthesis	
+PWY0-1507	biotin biosynthesis from 8-amino-7-oxononanoate I	TAX-4751
+PWY0-1507	biotin biosynthesis from 7-keto-8-aminopelargonate	TAX-33090
+PWY0-1507		TAX-2
+PWY-6423	hemoglobin degradation	TAX-5820
+COMPLETE-ARO-PWY	superpathway of aromatic amino acid biosynthesis	TAX-2
+COMPLETE-ARO-PWY	superpathway of L-phenylalanine, L-tyrosine, and L-tryptophan biosynthesis	
+PWY-1782	superpathway of indole-3-acetate conjugate biosynthesis	TAX-3193
+PWY-1782	superpathway of IAA conjugation	
+PWY-1782	superpathway of indole-3-acetic acid conjugate biosynthesis	
+PWY-1782	superpathway of IAA conjugate biosynthesis	
+PWY-6167	flavin biosynthesis II (archaea)	TAX-2157
+PWY-6330	acetaldehyde biosynthesis II	TAX-33090
+PWY-6330	PDH-bypass	
+PWY-6330	ligt-dark transition acetaldehyde biosynthesis	
+ALANINE-VALINESYN-PWY	L-alanine biosynthesis I	TAX-2
+PWY-3101	flavonol biosynthesis	TAX-58024
+OXIDATIVEPENT-PWY	pentose phosphate pathway (oxidative branch) I	TAX-2759
+OXIDATIVEPENT-PWY		TAX-2
+PWY-5347	superpathway of L-methionine biosynthesis (transsulfuration)	TAX-2
+FAO-PWY	fatty acid &beta;-oxidation I	TAX-33084
+FAO-PWY		TAX-33208
+FAO-PWY		TAX-2
+PWY-6140	CMP-2-keto-3-deoxy-D-glycero-D-galacto-nononate biosynthesis	TAX-2
+PWY-6140	CMP-2-keto-3-deoxy-D-glycero-D-galacto-nononic acid biosynthesis	TAX-2759
+PWY-6140	CMP-3-deoxy-D-glycero-D-galacto-nonulosonic acid biosynthesis	
+PWY-6140	CMP-3-deoxy-D-glycero-D-galacto-nonulosonate biosynthesis	
+PWY-6140	CMP-KDN biosynthesis	
+PWY-5115	GDP-L-galactose biosynthesis	TAX-3193
+LARABITOLUTIL-PWY	xylitol degradation	TAX-7742
+LARABITOLUTIL-PWY	L-arabitol and xylitol utilization	TAX-4751
+LARABITOLUTIL-PWY	L-arabitol and xylitol degradation	TAX-1224
+TCA	TCA cycle I (prokaryotic)	TAX-2
+TCA	tricarboxylic acid cycle	TAX-2157
+TCA	citric acid cycle	
+TCA	Krebs cycle	
+TCA	Szent-Gyorgyi-Krebs cycle	
+PWY0-1182	trehalose degradation II (trehalase)	TAX-6656
+PWY0-1182		TAX-4751
+PWY0-1182		TAX-2
+PWY-5431	aromatic compounds degradation via &beta;-ketoadipate	TAX-1224
+PWY-5431	&beta;-ketoadipate pathway	
+PWY-6374	vibriobactin biosynthesis	TAX-666
+PWY-5407	9-lipoxygenase and 9-allene oxide synthase pathway	TAX-33090
+PWY-5407	9-LOX and 9-AOS pathway	
+PWY-1723	formaldehyde oxidation V (H4MPT pathway)	TAX-2
+PWY-6642	(R)-cysteate degradation	TAX-2
+PWY0-1335	NADH to cytochrome bo oxidase electron transfer I	TAX-2
+PWY-7312	dTDP-D-&beta;-fucofuranose biosynthesis	TAX-543
+PWY-5898	superpathway of menaquinol-12 biosynthesis	TAX-33877
+PWY-5898	vitamin K2 biosynthesis	TAX-33882
+PWY-5898	superpathway of menaquinone-12 biosynthesis	TAX-838
+PWY-5741	ethylmalonyl-CoA pathway	TAX-2
+PWY-5741	ethylmalonyl pathway	
+PWY-5864	superpathway of plastoquinol biosynthesis	TAX-1117
+PWY-5864	superpathway of plastoquinone biosynthesis	TAX-2870
+PWY-5864		TAX-2763
+PWY-5864		TAX-33090
+PWY-6945	cholesterol degradation to androstenedione I (cholesterol oxidase)	TAX-2
+PWY-6692	Fe(II) oxidation	TAX-2
+PWY-6692	iron oxidation	
+PROSYN-PWY	L-proline biosynthesis I	TAX-4751
+PROSYN-PWY		TAX-33154
+PROSYN-PWY		TAX-2
+PWY-561	superpathway of glyoxylate cycle and fatty acid degradation	TAX-33090
+PWY-6129	dolichol and dolichyl phosphate biosynthesis	TAX-2759
+PWY-7686	L-malate degradation II	TAX-33154
+PWY-7686	(S)--malate degradation II	TAX-2
+PWY-7754	bile acids degradation	TAX-2
+PWY-7754	secondary bile acid biosynthesis	
+PWY-7527	L-methionine salvage cycle III	TAX-2157
+PWY-7527	5'-methylthioadenosine cycle	TAX-2
+PWY-7527	MTA cycle	TAX-33208
+GLYCOLYSIS-E-D	superpathway of glycolysis and Entner-Doudoroff	TAX-2759
+GLYCOLYSIS-E-D		TAX-2
+PWY-1622	formaldehyde assimilation I (serine pathway)	TAX-2
+PWY-5928	(4R)-carvone biosynthesis	TAX-4136
+PWY-6196	D-serine metabolism	TAX-131567
+PWY-6196	serine racemization	
+PHOSLIPSYN-PWY	superpathway of phospholipid biosynthesis I (bacteria)	TAX-2
+PWY-5837	1,4-dihydroxy-2-naphthoate biosynthesis	TAX-33090
+PWY-5837		TAX-2
+PWY-6199	quercetin sulfate biosynthesis	TAX-33090
+PWY-6199	quercetin sulphate biosynthesis	
+PWY-5951	(R,R)-butanediol biosynthesis	TAX-4751
+PWY-5951	(R,R)-butylene glycol fermentation	TAX-2
+PWY-5951	(R,R)-butanediol fermentation	
+PWY-5675	nitrate reduction V (assimilatory)	TAX-2
+PWY-5675	nitrate assimilation	TAX-4751
+PWY-801	L-homocysteine and L-cysteine interconversion	TAX-33090
+PWY-801	transsulfuration pathway	TAX-4751
+PWY-7751	shinorine biosynthesis	TAX-2
+PWY-4161	superpathway of benzoxazinoid glucosides biosynthesis	TAX-3398
+PWY-4161	benzoxazinoids biosynthesis	
+PWY-4161	DIBOA / DIMBOA biosynthesis	
+CO2FORM-PWY	methanogenesis from methanol	TAX-28890
+PWY-7399	methylphosphonate degradation II	TAX-2
+PWY-7733	3-hydroxyquinaldate biosynthesis	TAX-2
+PWY-7733	3-hydroxyquinaldic acid biosynthesis	
+PWY-2504	superpathway of aromatic compound degradation via 3-oxoadipate	TAX-2
+PWY-6765	hydrogen production IV	TAX-2157
+PWY-5364	sulfur reduction II (via polysulfide)	TAX-2
+PWY-5364	polysulfide respiration	TAX-2157
+PWY-5364	polysulphide respiration	
+PWY-7291	oleate &beta;-oxidation (isomerase-dependent, yeast)	TAX-4751
+PWY-7337	10-cis-heptadecenoyl-CoA degradation (yeast)	TAX-4751
+PWY-5704	urea degradation II	TAX-2
+PWY-5704		TAX-33090
+PWY-5704		TAX-4751
+PWY3O-355	stearate biosynthesis III (fungi)	TAX-4751
+PWY3O-355	fatty acid biosynthesis	
+PWY3O-355	stearic acid biosynthesis	
+PWY3O-355	octadecanoate biosynthesis	
+PWY3O-355	saturated fatty acid biosynthesis	
+P621-PWY	nylon-6 oligomer degradation	TAX-2
+P621-PWY	caprolactam degradation	
+PWY-4762	superpathway of choline biosynthesis	TAX-33090
+ALACAT2-PWY	L-alanine degradation II (to D-lactate)	TAX-33090
+ALACAT2-PWY		TAX-1239
+PWY-6824	justicidin B biosynthesis	TAX-33090
+PWY-5505	L-glutamate and L-glutamine biosynthesis	TAX-2759
+PWY-5505		TAX-2
+PWY-5505		TAX-2157
+PWY-6398	melatonin degradation I	TAX-7742
+FERMENTATION-PWY	mixed acid fermentation	TAX-4751
+FERMENTATION-PWY	fermentation	TAX-2
+MGLDLCTANA-PWY	methylglyoxal degradation VI	TAX-40674
+PWY-6002	lotaustralin degradation	TAX-3465
+PWY-6002		TAX-4004
+PWY-6002		TAX-3803
+PWY-6002		TAX-3977
+PWY-6002		TAX-4210
+PWY-922	mevalonate pathway I	TAX-2157
+PWY-922	isoprenoid pathway	TAX-33208
+PWY-922	MVA pathway	TAX-4751
+PWY-922	isopentenyl diphosphate biosynthesis	TAX-2
+PWY-922	dimethylallyl diphosphate biosynthesis	TAX-33090
+PWY-5483	pyruvate fermentation to acetate III	TAX-554915
+PWY-5483		TAX-2157
+PWY-6538	caffeine degradation III (bacteria, via demethylation)	TAX-2
+PWY-6538	caffeine degradation (bacteria)	
+PWY-6558	heparan sulfate biosynthesis (late stages)	TAX-33208
+PWY-7294	xylose degradation IV	TAX-2157
+PWY-7016	neomycin biosynthesis	TAX-2
+PWY-6539	(Z)-phenylmethanethial S-oxide biosynthesis	TAX-3524
+PHENYLALANINE-DEG1-PWY	L-phenylalanine degradation I (aerobic)	TAX-4751
+PHENYLALANINE-DEG1-PWY		TAX-40674
+PHENYLALANINE-DEG1-PWY		TAX-2
+PWY-6032	cardenolide biosynthesis	TAX-4163
+PWY-7760	bacteriochlorophyll e biosynthesis	TAX-191412
+PWY-6947	superpathway of cholesterol degradation II (cholesterol dehydrogenase)	TAX-2
+PYRIDOXSYN-PWY	pyridoxal 5'-phosphate biosynthesis I	TAX-2
+PYRIDOXSYN-PWY	vitamin B6 biosynthesis	
+PWY-7456	&beta;-(1,4)-mannan degradation	TAX-2
+PWY-7456	plant mannan degradation	
+PWY-6447	trichome monoterpenes biosynthesis	TAX-4070
+PWY-5026	indole-3-acetate biosynthesis V (bacteria and fungi)	TAX-1224
+PWY-5026	IAA biosynthesis V (bacteria and fungi)	TAX-4751
+PWY-6458	benzoyl-CoA biosynthesis	TAX-3193
+PWY-6458	benzoyl-coenzyme A biosynthesis	TAX-2
+PWY-7736	stellatic acid biosynthesis	TAX-4751
+PWY3O-1109	superpathway of 4-hydroxybenzoate biosynthesis (yeast)	TAX-4751
+PWY-5877	beta-carboline biosynthesis	TAX-2759
+PWY0-845	superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	TAX-2
+PWY0-845	vitamin B6 biosynthesis and salvage	
+PWY-5754	4-hydroxybenzoate biosynthesis I (eukaryotes)	TAX-2759
+PWY-5754	p-hydroxybenzoate biosynthesis I (eukaryotes)	
+PYRIDNUCSYN-PWY	NAD biosynthesis I (from aspartate)	TAX-2759
+PYRIDNUCSYN-PWY	nicotinamide adenine dinucleotide biosynthesis	TAX-2
+PWY-6978	plastoquinol-9 biosynthesis II	TAX-1117
+PWY-6978	plastoquinone biosynthesis II	
+PWY-6978	plastoquinone-9 biosynthesis II	
+PWY-6978	plastoquinol biosynthesis II	
+PWY-6444	benzoate biosynthesis II (CoA-independent, non-&beta;-oxidative)	TAX-3193
+PWY-6444	benzoate biosynthesis (non-oxidative)	
+PWY-6444	benzoic acid biosynthesis	
+GLUT-REDOX-PWY	glutathione-glutaredoxin redox reactions	TAX-2759
+GLUT-REDOX-PWY		TAX-2
+PWY-7216	(R)- and (S)-3-hydroxybutanoate biosynthesis (engineered)	TAX-2
+PWY-7216	(R)- and (S)-3-hydroxybutyrate biosynthesis	
+PWY-6969	TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)	TAX-1117
+PWY-6969	citric acid cycle	TAX-3035
+PWY-6969	tricarboxylic acid cycle	TAX-1224
+PWY-6969	Szent-Gyorgyi-Krebs cycle	TAX-201174
+PWY-6969	Krebs cycle	
+PWY-5850	superpathway of menaquinol-6 biosynthesis I	TAX-2
+PWY-5850	superpathway of menaquinone-6 biosynthesis I	
+AMMASSIM-PWY	ammonia assimilation cycle III	TAX-4751
+AMMASSIM-PWY	ammonia assimilation III	TAX-2
+AMMASSIM-PWY	GS/GOGAT pathway	
+PWY-7200	superpathway of pyrimidine deoxyribonucleoside salvage	TAX-2759
+PWY-7200		TAX-2
+PWY-7200		TAX-2157
+PWY-6308	L-cysteine biosynthesis II (tRNA-dependent)	TAX-28890
+PWY-6308	L-cysteinyl-tRNAcys biosynthesis via tRNA modification	
+PWY-6435	4-hydroxybenzoate biosynthesis V	TAX-33090
+PWY-6386	UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)	TAX-201174
+PWY-6386		TAX-1239
+P4-PWY	superpathway of L-lysine, L-threonine and L-methionine biosynthesis I	TAX-2
+GAMMAHEXCHLORDEG-PWY	&gamma;-hexachlorocyclohexane degradation	TAX-1224
+GALLATE-DEGRADATION-I-PWY	gallate degradation II	TAX-2
+PWY-581	indole-3-acetate biosynthesis II	TAX-33090
+PWY-581	auxin biosynthesis	
+PWY-581	indole-3-acetic acid biosynthesis	
+PWY-581	IAA de novo synthesis	
+PWY-581	IAA biosynthesis II	
+PWY-5770	phenazine-1-carboxylate biosynthesis	TAX-2207
+PWY-5770		TAX-1236
+PWY-5770		TAX-28216
+PWY-5770		TAX-201174
+PWY-3161	indole-3-acetate biosynthesis III (bacteria)	TAX-1224
+PWY-3161	IAA biosynthesis III (bacteria)	
+PWY-6027	capsiconiate biosynthesis	TAX-4071
+PWY-5176	coumarin biosynthesis (via 2-coumarate)	TAX-3398
+GLYCOLYSIS	glycolysis I (from glucose 6-phosphate)	TAX-2759
+GLYCOLYSIS	Embden-Meyerhof pathway	TAX-2
+GLYCOLYSIS	Embden-Meyerhof-Parnas pathway	TAX-2157
+GLYCOLYSIS	EMP pathway	
+GLYCOLYSIS	glycolysis (plastidic)	
+GALACTUROCAT-PWY	D-galacturonate degradation I	TAX-2
+GALACTUROCAT-PWY	D-galacturonate catabolism	
+GALACTUROCAT-PWY	D-galacturonate degradation	
+PWY-5417	catechol degradation III (ortho-cleavage pathway)	TAX-4751
+PWY-5417	&beta;-ketoadipate pathway	TAX-1224
+PWY-7562	3,6-anhydro-&alpha;-L-galactopyranose degradation	TAX-2
+PWY66-341	cholesterol biosynthesis I	TAX-33208
+TREDEGLOW-PWY	trehalose degradation I (low osmolarity)	TAX-2
+PWY-6181	histamine degradation	TAX-33208
+PWY-1061	homogalacturonan biosynthesis	TAX-3193
+PWY-1061	pectin biosynthesis	
+PWY-7242	D-fructuronate degradation	TAX-2
+PWY-6963	ammonia assimilation cycle I	TAX-2836
+PWY-6963	GS/GOGAT pathway	TAX-4751
+PWY-6963		TAX-33090
+PWY-5538	pyruvate fermentation to acetate VI	TAX-4751
+PWY-5538	acetate fermentation	TAX-5719
+PWY-7688	dTDP-D-ravidosamine and dTDP-4-acetyl-D-ravidosamine biosynthesis	TAX-2
+PWY-5120	geranylgeranyl diphosphate biosynthesis	TAX-2759
+PWY-5120	GGPP biosynthesis	TAX-2
+PWY-5120		TAX-2157
+PWY-6829	tRNA methylation (yeast)	TAX-2759
+PWY-7124	ethylene biosynthesis V (engineered)	TAX-4930
+PWY-7124		TAX-2
+PWY0-1319	CDP-diacylglycerol biosynthesis II	TAX-33090
+PWY0-1319		TAX-1224
+PWY-4841	UDP-&alpha;-D-glucuronate biosynthesis (from myo-inositol)	TAX-3193
+PWY-4841	UDP-D-GlcA biosynthesis	
+PWY-4841	UDP-D-glucuronic acid biosynthesis	
+PWY-4841	inositol oxidation pathway	
+PWY-7237	myo-, chiro- and scillo-inositol degradation	TAX-2
+PWY-7141	(3S)-linalool biosynthesis	TAX-2759
+PWY-7141	(S)-linalool biosynthesis	
+PWY-7141	S-(+)-linalool biosynthesis	
+PWY66-425	L-lysine degradation II (L-pipecolate pathway)	TAX-40674
+ARGSYNBSUB-PWY	L-arginine biosynthesis II (acetyl cycle)	TAX-33090
+ARGSYNBSUB-PWY		TAX-4751
+ARGSYNBSUB-PWY		TAX-2
+ARGSYNBSUB-PWY		TAX-2157
+PWY-3097	superpathway of isoflavonoids (via naringenin)	TAX-3803
+PWY-66	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	TAX-2
+PWY-66	GDP-L-fucose biosynthesis I (de novo synthesis)	TAX-2759
+PWY-6569	chondroitin sulfate biosynthesis	TAX-33208
+REDCITCYC	TCA cycle VIII (helicobacter)	TAX-2
+REDCITCYC	Krebs cycle	
+REDCITCYC	tricarboxylic acid cycle	
+REDCITCYC	TCA cycle	
+REDCITCYC	citric acid cycle	
+PWY-5872	ubiquinol-10 biosynthesis (eukaryotic)	TAX-2759
+PWY-5872	Q10 biosynthesis	
+PWY-5872	ubiquinone-10 biosynthesis (eukaryotic)	
+PWY-7397	naringenin biosynthesis (engineered)	TAX-4751
+PWY-7397		TAX-33090
+PWY-5294	superpathway of sulfide oxidation (Acidithiobacillus ferrooxidans)	TAX-1224
+ASPASN-PWY	superpathway of L-aspartate and L-asparagine biosynthesis	TAX-2
+ASPASN-PWY	Interconversion of L-aspartate and L-asparagine	
+RIBOKIN-PWY	ribose degradation	TAX-2
+RIBOKIN-PWY	ribose catabolism	TAX-2157
+PWY-6265	zerumbone biosynthesis	TAX-4642
+PWY-6564	heparan sulfate biosynthesis	TAX-33208
+SULFUROX-PWY	sulfur oxidation I (aerobic)	TAX-2
+PWY-5315	N-methyl-&Delta;1-pyrrolinium cation biosynthesis	TAX-4070
+PWY-5315	nicotine and tropane alkaloids precursor biosynthesis	
+PWY0-1300	2-O-&alpha;-mannosyl-D-glycerate degradation	TAX-2
+PWY-7039	phosphatidate metabolism, as a signaling molecule	TAX-33090
+PWY-7039	PA metabolism	
+PWY-6071	superpathway of phenylethylamine degradation	TAX-2
+PWY-6397	mycolyl-arabinogalactan-peptidoglycan complex biosynthesis	TAX-1762
+PWY-6397	arabinogalactan biosynthesis	
+PWY-5035	gibberellin biosynthesis III (early C-13 hydroxylation)	TAX-58023
+PWY-5035		TAX-3195
+PWY-5939	(R)-acetoin biosynthesis II	TAX-2
+PWY-5939	D-acetoin biosynthesis II	
+SAM-PWY	S-adenosyl-L-methionine biosynthesis	TAX-33090
+SAM-PWY	S-adenosylmethionine biosynthesis	TAX-4751
+SAM-PWY		TAX-2157
+SAM-PWY		TAX-2
+PWY-5001	tetrahydroxyxanthone biosynthesis (from benzoate)	TAX-58023
+PWY0-1433	tetrahydromonapterin biosynthesis	TAX-2
+PWY-6544	superpathway of C28 brassinosteroid biosynthesis	TAX-33090
+ALADEG-PWY	L-alanine degradation I	TAX-2
+PWY-5142	acyl-ACP thioesterase pathway	TAX-2759
+PWY-5142		TAX-2
+PWY-5142		TAX-2157
+PWY-6519	8-amino-7-oxononanoate biosynthesis I	TAX-2
+PWY-6519	7-keto-8-aminopelargonate biosynthesis I	
+PWY-7575	superpathway of candicidin biosynthesis	TAX-2
+PWY-5651	L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	TAX-2
+PWY-5651		TAX-4751
+PWY-5651		TAX-33208
+PWY-6325	echinatin biosynthesis	TAX-3803
+PWY-6598	sciadonate biosynthesis	TAX-131567
+PWY-6598	5,11,14-eicosatrienoic acid biosynthesis	
+PWY-6598	5,11,14-eicosatrienoate biosynthesis	
+PWY-6598	sciadonic acid biosynthesis	
+PWY-5071	superpathway of rosmarinic acid biosynthesis	TAX-58023
+PWY-6608	guanosine nucleotides degradation III	TAX-2
+PWY-6608		TAX-33208
+PWY-6784	cellulose and hemicellulose degradation (cellulolosome)	TAX-2
+PWY-5940	streptomycin biosynthesis	TAX-201174
+PWY-5946	&delta;-carotene biosynthesis	TAX-4751
+PWY-5946		TAX-2763
+PWY-5946		TAX-3041
+PWY-5946		TAX-1117
+PWY-5946		TAX-33090
+PWY-2083	isoflavonoid biosynthesis II	TAX-91827
+PWY-7798	protein S-nitrosylation and denitrosylation	TAX-2759
+PWY-7798		TAX-2
+PWY-7798		TAX-2157
+PWY1F-467	phenylpropanoid biosynthesis, initial reactions	TAX-3398
+GLYSYN-THR-PWY	glycine biosynthesis IV	TAX-4751
+PWY-5537	pyruvate fermentation to acetate V	TAX-33682
+PWY-5537	acetate fermentation	TAX-33154
+PWY-5537	acetate:succinate CoA transferase/SCoAS cycle	
+PWY-5537	ASCT cycle	
+PWY-6385	peptidoglycan biosynthesis III (mycobacteria)	TAX-1762
+PWY0-42	2-methylcitrate cycle I	TAX-4751
+PWY0-42		TAX-2
+PWY-5108	L-isoleucine biosynthesis V	TAX-224756
+PWY-5108		TAX-2
+PWY-5108		TAX-183925
+PWY-5392	reductive TCA cycle II	TAX-200783
+PWY-5392	reductive tricarboxylic acid cycle	
+PWY-5392	reductive tricarboxylic acid pathway	
+PWY-5392	reductive citric acid cycle	
+PWY-5392	reverse citric acid cycle	
+PWY-5392	carbon fixation	
+PWY-5392	CO2 fixation	
+PWY-5392	reductive carboxylic acid cycle	
+4AMINOBUTMETAB-PWY	superpathway of 4-aminobutanoate degradation	TAX-4751
+4AMINOBUTMETAB-PWY	&gamma;-amino-butyrate shunt	TAX-2
+4AMINOBUTMETAB-PWY	GABA degradation	
+PWY-6935	seleno-amino acid detoxification and volatilization II	TAX-33090
+PWY-6935	Se volatilization II	
+PWY-6935	Se-compound volatilization II	
+PWY-6935	selenium compound volatilization II	
+PWY-6935	Se-amino acid detoxification and volatilization II	
+PWY-6935	dimethyl selenide biosynthesis II	
+PWY-6935	seleno-amino acid detoxification and volatilization via DMSeP	
+P221-PWY	octane oxidation	TAX-4751
+P221-PWY		TAX-2
+SULFMETII-PWY	sulfate reduction II (assimilatory)	TAX-2
+SULFMETII-PWY	sulfur metabolism	TAX-33090
+SULFMETII-PWY	sulfur assimilation	
+PWY-2781	cis-zeatin biosynthesis	TAX-3193
+PWY-2781	cis-cytokinins biosynthesis	
+PWY-2781	tRNA-dependent cytokinin biosynthesis	
+PWY-5885	wax esters biosynthesis II	TAX-2
+PWY-5885	WS/DGAT biosynthesis	TAX-33090
+PWY-5885	petunia wax biosynthesis	TAX-4751
+DETOX1-PWY	superoxide radicals degradation	TAX-2759
+DETOX1-PWY	removal of superoxide radicals	TAX-2
+PWY-6531	mannitol cycle	TAX-2870
+PWY-6531		TAX-5794
+CENTFERM-PWY	pyruvate fermentation to butanoate	TAX-1224
+CENTFERM-PWY	central fermentation pathway	TAX-1239
+CENTFERM-PWY	acetobutylicum fermentation	
+CENTFERM-PWY	pyruvate fermentation to butyrate	
+PWY0-862	(5Z)-dodec-5-enoate biosynthesis	TAX-2
+PWY0-862	(5Z)-dodecenoate biosynthesis	
+PWY0-862	cis-dodecenoate biosynthesis	
+PWY490-3	nitrate reduction VI (assimilatory)	TAX-1117
+PWY490-3	nitrate assimilation	
+PWY-5	canavanine biosynthesis	TAX-3803
+PWY-6993	nicotine degradation II (pyrrolidine pathway)	TAX-2
+PWY-4661	1D-myo-inositol hexakisphosphate biosynthesis III (Spirodela polyrrhiza)	TAX-33090
+PWY-4661	lipid-independent phytic acid biosynthesis	
+PWY-4661	lipid-independent InsP6 biosynthesis	
+PWY-4661	lipid-independent phytate biosynthesis	
+PWY-4661	hexakisphosphate biosynthesis (lipid-independent)	
+PWY-4661	phytate biosynthesis	
+PWY-5052	superpathway of gibberellin biosynthesis	TAX-396
+PWY-5052		TAX-55087
+PWY-5052		TAX-192
+PWY-5052		TAX-193
+PWY-5052		TAX-434
+PWY-5052		TAX-49222
+PWY-5052		TAX-55067
+PWY-5052		TAX-5127
+PWY-5052		TAX-131221
+PWY-5665	vanillin biosynthesis I	TAX-73496
+PWY-5327	superpathway of L-lysine degradation	TAX-2759
+PWY-5327		TAX-2
+PWY-6030	serotonin and melatonin biosynthesis	TAX-33090
+PWY-6030		TAX-33208
+P181-PWY	nicotine degradation I (pyridine pathway)	TAX-201174
+PWY-5138	unsaturated, even numbered fatty acid &beta;-oxidation	TAX-33090
+PWY-5138	fatty acid &beta;-oxidation IV (unsaturated, even number)	
+PWY-5642	2,4-dinitrotoluene degradation	TAX-2
+PWY-6854	ethylene biosynthesis III (microbes)	TAX-4751
+PWY-6854		TAX-2
+PWY-6517	N-acetylglucosamine degradation II	TAX-33208
+PWY-6517		TAX-4751
+PWY-6517		TAX-2
+TRPSYN-PWY	L-tryptophan biosynthesis	TAX-4751
+TRPSYN-PWY		TAX-2157
+TRPSYN-PWY		TAX-2
+TRPSYN-PWY		TAX-3193
+PWY-7137	quercetin gentiotetraside biosynthesis	TAX-3398
+PWY-5805	nonaprenyl diphosphate biosynthesis I	TAX-2759
+PWY-5805	solanesyl diphosphate biosynthesis	TAX-2
+PWY-5805	solanesyl pyrophosphate biosynthesis	TAX-2157
+PWY-7163	polymethylated kaempferol biosynthesis	TAX-91827
+PWY-7533	gliotoxin biosynthesis	TAX-1131492
+PWY-7533		TAX-4751
+PWY-5368	dimorphecolate biosynthesis	TAX-3398
+PWY-5368	dimorphecolic acid biosynthesis	
+PWY-7024	superpathway of the 3-hydroxypropanoate cycle	TAX-200795
+PWY-7024	superpathway of the 3-hydroxypropionate cycle	
+PWY-5306	superpathway of thiosulfate metabolism (Desulfovibrio sulfodismutans)	TAX-1224
+PWY-4781	phytate degradation II	TAX-33090
+PWY-3121	linamarin degradation	TAX-3465
+PWY-3121	linamarin cyanogenesis	TAX-4004
+PWY-3121		TAX-3803
+PWY-3121		TAX-3977
+PWY-3121		TAX-4210
+PWY-7678	anthocyanidin sambubioside biosynthesis	TAX-3398
+PWY-7046	4-coumarate degradation (anaerobic)	TAX-2
+PWY-7046	p-coumarate degradation (anaerobic)	
+PWY-5833	CDP-4-dehydro-3,6-dideoxy-D-glucose biosynthesis	TAX-91347
+PWY-5833	CDP-3,6-dideoxyhexose biosynthesis	
+PWY-6886	1-butanol autotrophic biosynthesis (engineered)	TAX-186801
+PWY-6886		TAX-33682
+PWY-6886		TAX-1117
+PWY-7007	methyl ketone biosynthesis (engineered)	TAX-2759
+PWY-7007		TAX-2
+PWYQT-4476	indole glucosinolate activation (herbivore attack)	TAX-3699
+PWYQT-4476	indole glucosinolate breakdown (herbivore attack)	
+PWYQT-4476	glucosinolate degradation	
+PWY-5429	p-xylene degradation to p-toluate	TAX-2
+PWY-7384	anaerobic energy metabolism (invertebrates, mitochondrial)	TAX-6231
+PWY-7384		TAX-6157
+PWY-7384		TAX-6340
+PWY-7384		TAX-6447
+PWY-6855	chitin degradation I (archaea)	TAX-2157
+PWY-6855	chitin degradation (archaea)	
+PWY-5314	L-lysine degradation VIII	TAX-1224
+PWY-5314		TAX-1239
+PWY-2181	free phenylpropanoid acid biosynthesis	TAX-58024
+PWY-1921	indole-3-acetate activation II	TAX-33090
+PWY-1921	IAA biosynthesis from ester-conjugates	
+PWY-1921	indole-3-acetic acid biosynthesis from ester-conjugates	
+PWY-1921	IAA activation II	
+PWY-7115	C4 photosynthetic carbon assimilation cycle, NAD-ME type	TAX-33090
+PWY-7115	C4 photosynthesis, NAD-ME type	
+PWY-7270	L-methionine salvage cycle II (plants)	TAX-33090
+PWY-7270	5'-methylthioadenosine cycle	
+PWY-7270	superpathway of L-methionine recycling (plants)	
+PWY-7270	MTA cycle	
+PWY-7270	Yang cycle	
+PWY-7409	phospholipid remodeling (phosphatidylethanolamine, yeast)	TAX-2759
+PWY-1361	benzoyl-CoA degradation I (aerobic)	TAX-2
+PWY-6575	juvenile hormone III biosynthesis I	TAX-7147
+PWY-6575	JH III biosynthesis	TAX-6993
+PWY-6575	methyl-10R,11-epoxy-3,7,11-trimethyl-2E,6E-dodecadienoate biosynthesis	TAX-6970
+PWY-6575	methyl (2E,6E)-(10R)-10,11-epoxy-3,7,11-trimethyl-2,6-dodecadienoate biosynthesis	TAX-4610
+PWY-5288	astaxanthin biosynthesis (bacteria, fungi, algae)	TAX-2
+PWY-5288		TAX-3042
+PWY-5288		TAX-4751
+GLUDEG-II-PWY	L-glutamate degradation VII (to butanoate)	TAX-1239
+GLUDEG-II-PWY	L-glutamate fermentation	TAX-1224
+GLUDEG-II-PWY	mesaconate pathway	
+GLUDEG-II-PWY	L-glutamate degradation VII (to butyrate)	
+PWYQT-4475	glucosinolate biosynthesis from hexahomomethionine	TAX-3699
+PWY-7183	pyrimidine nucleobases salvage I	TAX-4751
+PWY-7183	uracil salvage	TAX-33090
+PWY-7183		TAX-2157
+PWY-7183		TAX-2
+PWY-6326	camptothecin biosynthesis	TAX-16921
+PWY-6326		TAX-4321
+PWY-6326		TAX-4289
+PWY-6326		TAX-24966
+PWY-6326		TAX-4056
+PWY-5152	leucodelphinidin biosynthesis	TAX-58024
+CAMALEXIN-SYN	camalexin biosynthesis	TAX-3699
+PWY-6415	L-ascorbate biosynthesis V	TAX-3038
+PWY-6415	L-ascorbic acid biosynthesis V	
+PWY-6415	vitamin c biosynthesis	
+PWY-6654	phosphopantothenate biosynthesis III	TAX-2157
+GLUCARGALACTSUPER-PWY	superpathway of D-glucarate and D-galactarate degradation	TAX-2
+GLUCARGALACTSUPER-PWY	D-glucarate and D-galactarate catabolism super-pathway	
+GLUCARGALACTSUPER-PWY	aldarate catabolism	
+PWY-5076	L-leucine degradation III	TAX-4751
+PWY-5076	Ehrlich pathway	
+PWY-6809	neoxanthin biosynthesis	TAX-33090
+PWY-112	lupeol biosynthesis	TAX-33090
+PWY-6684	aromatic  glucosinolate activation	TAX-3699
+PWY-6684	glucotropeolin breakdown	
+PWY0-321	phenylacetate degradation I (aerobic)	TAX-4751
+PWY0-321		TAX-2
+PWY-7134	rutin degradation (plants)	TAX-3398
+PWY-6362	1D-myo-inositol hexakisphosphate biosynthesis II (mammalian)	TAX-33208
+PWY-6362	phytate biosynthesis	
+PWY-7247	&beta;-D-glucuronide and D-glucuronate degradation	TAX-2
+PWY-7247	D-glucuronate catabolism	
+PWY-7247	D-glucuronate degradation	
+PWY-7247	glucuronic acid degradation	
+PWY-7247	glucuronate degradation	
+PWY-7247	&beta;-D-glucuronide degradation	
+PWY-7193	pyrimidine ribonucleosides salvage I	TAX-2759
+PWY-7193		TAX-2
+PWY-7193		TAX-2157
+NONMEVIPP-PWY	methylerythritol phosphate pathway I	TAX-2
+NONMEVIPP-PWY	nonmevalonate isopentenyl diphosphate biosynthesis	
+NONMEVIPP-PWY	methylerythritol phosphate degradation	
+NONMEVIPP-PWY	MEP degradation	
+NONMEVIPP-PWY	deoxyxylulose phosphate pathway	
+NONMEVIPP-PWY	DOXP pathway	
+NONMEVIPP-PWY	Rohmer pathway	
+NONMEVIPP-PWY	isopentenyl diphosphate biosynthesis -- mevalonate-independent	
+NONMEVIPP-PWY	nonmevalonate isoprenoid pathway	
+NONMEVIPP-PWY	MEP pathway	
+PWY-7177	UTP and CTP dephosphorylation II	TAX-2
+PWY-7177	pyrimidine nucleotides dephosphorylation	TAX-2759
+PWY-5491	diethylphosphate degradation	TAX-2
+PWY-3081	L-lysine biosynthesis V	TAX-2157
+PWY-3081		TAX-2
+P281-PWY	3-phenylpropanoate degradation	TAX-2157
+P281-PWY	3-phenylpropionate degradation	TAX-2
+P281-PWY	3-phenylpropionic acid degradation	
+PWY-5441	S-methyl-L-methionine cycle	TAX-3193
+PWY-5441	SMM cycle	
+DARABITOLUTIL-PWY	D-arabitol degradation	TAX-1224
+DARABITOLUTIL-PWY	D-arabitol utilization	
+PWY-6863	pyruvate fermentation to hexanol (engineered)	TAX-2759
+PWY-6863		TAX-2
+PWY-5466	matairesinol biosynthesis	TAX-33090
+PWY-6313	serotonin degradation	TAX-33208
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY	protocatechuate degradation II (ortho-cleavage pathway)	TAX-2
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY	protocatechuate branch of the 3-oxoadipate pathway	
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY	protocatechuate branch of the 3-ketoadipate pathway	
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY	protocatechuate branch of the &beta;-ketoadipate pathway	
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY	protocatechuate degradation via ortho-cleavage	
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY	protocatechuate degradation via the &beta;-ketoadipate pathway	
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY	protocatechuate 3,4-cleavage	
+PWY-6389	(S)-acetoin biosynthesis	TAX-4751
+PWY-6389	L-acetoin biosynthesis	TAX-2
+PWY-6579	superpathway of guanine and guanosine salvage	
+PWY3DJ-35471	L-ascorbate biosynthesis IV	TAX-7742
+PWY3DJ-35471	vitamin C biosynthesis	
+PWY3DJ-35471	L-ascorbic acid biosynthesis IV	
+TCA-GLYOX-BYPASS	superpathway of glyoxylate bypass and TCA	TAX-2157
+TCA-GLYOX-BYPASS		TAX-2
+PWY-6853	ethylene biosynthesis II (microbes)	TAX-2
+PWY-6853		TAX-4751
+PWY-6628	superpathway of L-phenylalanine biosynthesis	TAX-2
+PWY66-378	androgen biosynthesis	TAX-7742
+PWY66-378	testosterone biosynthesis	
+ASPARAGINE-BIOSYNTHESIS	L-asparagine biosynthesis I	TAX-2
+ASPARAGINE-BIOSYNTHESIS		TAX-2759
+PWY-7728	(4Z,7Z,10Z,13Z,16Z)-docosa-4,7,10,13,16-pentaenoate biosynthesis II (4-desaturase)	TAX-2759
+PWY-5083	NAD/NADH phosphorylation and dephosphorylation	TAX-4751
+PWY-5083		TAX-33090
+P184-PWY	protocatechuate degradation I (meta-cleavage pathway)	TAX-1224
+P184-PWY	protocatechuate degradation via meta-cleavage	
+P184-PWY	protocatechuate 4,5-cleavage	
+PWY-2981	diterpene phytoalexins precursors biosynthesis	TAX-4479
+PWY-5507	adenosylcobalamin biosynthesis I (anaerobic)	TAX-2157
+PWY-5507	adenosylcobalamin biosynthesis I (early cobalt insertion)	TAX-2
+PWY-5507	vitamin B12 biosynthesis	
+PWY-6185	4-methylcatechol degradation (ortho cleavage)	TAX-4751
+PWY-6185		TAX-2
+PWY-7814	dTDP-L-daunosamine biosynthesis	TAX-2062
+PWY-6005	marneral biosynthesis	TAX-3193
+PWY-4341	L-glutamate biosynthesis V	TAX-33090
+PWY-4341		TAX-1117
+PWY0-1534	hydrogen sulfide biosynthesis I	TAX-2
+PWY-3641	L-carnitine degradation III	TAX-1224
+PWY-5970	fatty acids biosynthesis (yeast)	TAX-4751
+PWY-5970	type I fatty acids biosynthesis	
+PWY-6604	superpathway of Clostridium acetobutylicum acidogenic and solventogenic fermentation	TAX-1239
+PWY-5760	&beta;-alanine biosynthesis IV	TAX-4751
+PWY-2242	ammonia oxidation III	TAX-1224
+PWY-6807	xyloglucan degradation II (exoglucanase)	TAX-4751
+PWY-7840	gala-series glycosphingolipids biosynthesis	TAX-33208
+PWY-7840	ganglioside GM4 biosynthesis	
+PWY-7840	galaglycosphingolipids biosynthesis	
+PWY-7765	3-hydroxy-4-methyl-anthranilate biosynthesis II	TAX-2
+PWY-7765	3-hydroxy-4-methyl-anthranilic acid biosynthesis II	
+PWY-401	galactolipid biosynthesis I	TAX-33090
+PWY-401	galactosylglyceride biosynthesis I	
+PWY-7587	oleate biosynthesis III (cyanobacteria)	TAX-1117
+PWY-7112	4-hydroxy-2-nonenal detoxification	TAX-33154
+PWY-3861	mannitol degradation II	TAX-58023
+PWY-5436	L-threonine degradation IV	TAX-2
+PWY-5436		TAX-4751
+PWY-7731	superpathway of photosynthetic hydrogen production	TAX-3041
+PWY-7731	photosynthetic hydrogen generation	TAX-1117
+P41-PWY	pyruvate fermentation to acetate and lactate I	TAX-2
+P41-PWY	pyruvate metabolism	
+PWY-6890	4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis	TAX-4751
+PWY-6890	HMP-PP biosynthesis	TAX-33090
+PWY-6890		TAX-33630
+PWY-6890		TAX-2157
+PWY-6890		TAX-2
+PWY-7481	oryzalide A biosynthesis	TAX-4479
+PWY-7481		TAX-3398
+PWY-6285	superpathway of fatty acids biosynthesis (E. coli)	TAX-2
+PWY-321	cutin biosynthesis	TAX-33090
+PWY-321	cutin monomer biosynthesis	
+PWY-7268	NAD/NADP-NADH/NADPH cytosolic interconversion (yeast)	TAX-4751
+PWY-724	superpathway of L-lysine, L-threonine and L-methionine biosynthesis II	TAX-33090
+PWY-6470	peptidoglycan biosynthesis V (&beta;-lactam resistance)	TAX-201174
+PWY-6470	penicillin resistance	TAX-1239
+PWY-6470	&beta;-lactam resistance	
+PWY-7357	thiamine formation from pyrithiamine and oxythiamine (yeast)	TAX-4751
+PWY-6467	Kdo transfer to lipid IVA III (Chlamydia)	TAX-1783257
+PWY-7764	chlorophyll a biosynthesis III	TAX-3041
+PWY-7764		TAX-33634
+PWY-7764		TAX-2763
+PWY-7764		TAX-1117
+PWY-7764		TAX-33682
+PWY-6668	(E,E)-4,8,12-trimethyltrideca-1,3,7,11-tetraene biosynthesis	TAX-35493
+PWY-6668	TMTT biosynthesis	
+PWY-6825	phosphatidylcholine biosynthesis V	TAX-4751
+PWY-6825		TAX-33154
+PWY-6825		TAX-2
+PWY-6163	chorismate biosynthesis from 3-dehydroquinate	TAX-2157
+PWY-6163		TAX-3041
+PWY-6163		TAX-2763
+PWY-6163		TAX-287987
+PWY-6163		TAX-5204
+PWY-6163		TAX-2836
+PWY-6163		TAX-4762
+PWY-6163		TAX-4890
+PWY-6163		TAX-5794
+PWY-6163		TAX-33090
+PWY-6163		TAX-2
+PWY-6845	nitric oxide biosynthesis (plants)	TAX-33090
+PWY-5663	tetrahydrobiopterin biosynthesis I	TAX-33682
+PWY-5663		TAX-68336
+PWY-5663		TAX-33208
+PWY-5663		TAX-4751
+PWY-5663		TAX-1117
+PWY-6892	thiazole biosynthesis I (facultative anaerobic bacteria)	TAX-2
+PWY-6892	(R,Z)-2-(2-carboxy-4-methylthiazol-5(2H)-ylidene)ethyl phosphate biosynthesis	
+PWY1G-0	mycothiol biosynthesis	TAX-201174
+PWY1G-0	MSH biosynthesis	
+PWY-7295	L-arabinose degradation IV	TAX-2157
+PWY-5087	L-glutamate degradation VI (to pyruvate)	TAX-2
+PWY-5087	L-glutamate fermentation	
+PWY-5087	mesaconate pathway	
+PWY-5087	methylaspartate pathway	
+CODH-PWY	reductive acetyl coenzyme A pathway I (homoacetogenic bacteria)	TAX-2157
+CODH-PWY	Wood pathway	TAX-2
+CODH-PWY	acetate synthesis	
+CODH-PWY	acetyl-CoA pathway	
+CODH-PWY	carbon monoxide dehydrogenase pathway	
+CODH-PWY	carbon fixation	
+CODH-PWY	CO2 fixation	
+CODH-PWY	Ljungdahl-Wood pathway	
+CODH-PWY	Wood-Ljungdahl pathway	
+CODH-PWY	reductive acetyl CoA pathway	
+PWY-7233	ubiquinol-6 bypass biosynthesis (eukaryotic)	TAX-4751
+PWY-5081	L-tryptophan degradation VIII (to tryptophol)	TAX-4751
+PWY-5081	Ehrlich pathway	
+PWY-6895	superpathway of thiamine diphosphate biosynthesis II	TAX-2
+PWY-6895	superpathway of thiamine diphosphate biosynthesis (Bacillus)	
+PWY-6895	superpathway of vitamin B1 biosynthesis (Bacillus)	
+PWY-5184	toluene degradation VI (anaerobic)	TAX-1224
+PWY-6588	pyruvate fermentation to acetone	TAX-2
+PWY-6588	acetone fermentation	
+PWY-3061	menthol biosynthesis	TAX-4136
+PWY-7218	photosynthetic 3-hydroxybutanoate biosynthesis (engineered)	TAX-2
+PWY-7218	photosynthetic 3-hydroxybutyrate biosynthesis (engineered)	
+PWY-5107	phytol salvage pathway	TAX-3398
+PWY-5107	phytyl-PP biosynthesis (from phytol)	
+PWY-5107	phytyl-diphosphate biosynthesis (from phytol)	
+PWY-2821	glucosinolate biosynthesis from phenylalanine	TAX-3699
+PWY-7721	methyl phomopsenoate biosynthesis	TAX-4751
+BIOTIN-BIOSYNTHESIS-PWY	biotin biosynthesis I	TAX-2
+BIOTIN-BIOSYNTHESIS-PWY	vitamin H biosynthesis	
+PWY-7376	cob(II)yrinate a,c-diamide biosynthesis II (late cobalt incorporation)	TAX-2
+PWY-7376		TAX-2157
+PWY-6629	superpathway of L-tryptophan biosynthesis	TAX-2
+P122-PWY	heterolactic fermentation	TAX-1239
+P122-PWY	lactate heterofermentation	
+P122-PWY	glucose fermentation to lactate	
+P122-PWY	phosphoketolase pathway	
+PWY-5384	sucrose degradation IV (sucrose phosphorylase)	TAX-201174
+PWY4FS-12	VTC2 cycle	TAX-33090
+PWY4FS-12	GDP-D-mannose biosynthesis	
+PWY-5705	allantoin degradation to glyoxylate III	TAX-33090
+PWY-5705		TAX-2
+PYRIDNUCSAL-PWY	NAD salvage pathway I	TAX-4751
+PYRIDNUCSAL-PWY	pyridine nucleotide cycling	TAX-2
+PYRIDNUCSAL-PWY	PNC VI pathway	
+PYRIDNUCSAL-PWY	nicotinamide adenine dinucleotide salvage	
+PWY-5426	betaxanthin biosynthesis	TAX-4751
+PWY-5426		TAX-3524
+PWY0-1517	sedoheptulose bisphosphate bypass	TAX-2759
+PWY0-1517		TAX-2
+PWY-5125	anthocyanin biosynthesis	TAX-58024
+PWY-5125	cyanidin 3-O-glucoside biosynthesis	
+PWY-5706	alliin metabolism	TAX-40553
+PWY-5706	allium thiosulfinates metabolism	
+PWY-5706	garlic thiosulfinate metabolism	
+PWY-7235	superpathway of ubiquinol-6 biosynthesis (eukaryotic)	TAX-4751
+PWY-5285	sulfide oxidation III (persulfide dioxygenase)	TAX-1224
+PWY0-1021	L-alanine biosynthesis III	TAX-2759
+PWY0-1021		TAX-2
+PWY0-1391	S-methyl-5'-thioadenosine degradation IV	TAX-2
+PWY0-1391	methylthioadenosine degradation IV	
+PWY-5469	sesamin biosynthesis	TAX-33090
+PWY-5459	methylglyoxal degradation IV	TAX-2
+PWY-6803	phosphatidylcholine acyl editing	TAX-58024
+PWY0-1561	glycerol-3-phosphate to cytochrome bo oxidase electron transfer	TAX-2
+PWY0-1561		TAX-2157
+PWY0-1355	formate to trimethylamine N-oxide electron transfer	TAX-2
+ARGDEG-III-PWY	L-arginine degradation IV (arginine decarboxylase/agmatine deiminase pathway)	TAX-1224
+PWY66-394	aspirin triggered resolvin E biosynthesis	TAX-40674
+PWY-5535	acetate formation from acetyl-CoA II	TAX-207245
+PWY-5535		TAX-554915
+PWY-5535		TAX-33154
+PWY-5535		TAX-2
+PWY-5535		TAX-2157
+PWY-2161B	glutamate removal from folates	TAX-2759
+PWY0-1315	L-lactaldehyde degradation (anaerobic)	TAX-2
+PWY-6370	ascorbate recycling (cytosolic)	TAX-7742
+PWY-6370	vitamin C recycling (cytosolic)	
+PWY-5756	saponin biosynthesis II	TAX-3193
+PWY-5756	oleanolate glucuronide triterpene saponin biosynthesis	
+PWY-5756	oleanolate glucuronide biosynthesis	
+PWY-5756	triterpene saponin biosynthesis II	
+PWY-7383	anaerobic energy metabolism (invertebrates, cytosol)	TAX-6231
+PWY-7383		TAX-6157
+PWY-7383		TAX-6340
+PWY-7383		TAX-6447
+NONOXIPENT-PWY	pentose phosphate pathway (non-oxidative branch)	TAX-2759
+NONOXIPENT-PWY		TAX-2
+PWY3O-4108	L-tyrosine degradation III	TAX-4751
+PWY-6871	3-methylbutanol biosynthesis (engineered)	TAX-4891
+PWY-6871		TAX-2
+PWY-6713	L-rhamnose degradation II	TAX-2
+PWY-6713	aldolase pathway	TAX-4751
+PWY-4261	glycerol degradation I	TAX-2157
+PWY-4261		TAX-2
+PWY-4261		TAX-33090
+PWY-4261		TAX-4751
+CHLOROPHYLL-SYN	3,8-divinyl-chlorophyllide a biosynthesis I (aerobic, light-dependent)	TAX-2763
+CHLOROPHYLL-SYN	light-dependent aerobic 3,8-divinyl-chlorophyllide a biosynthesis I	TAX-33682
+CHLOROPHYLL-SYN		TAX-2
+CHLOROPHYLL-SYN		TAX-33090
+PWY-6125	superpathway of guanosine nucleotides de novo biosynthesis II	TAX-2
+P321-PWY	benzoyl-CoA degradation III (anaerobic)	TAX-2
+P321-PWY	anaerobic benzoyl-CoA degradation	
+PWY-7155	7-dehydroporiferasterol biosynthesis	TAX-3041
+PWY-5175	lactucaxanthin biosynthesis	TAX-3398
+PWY-6364	D-myo-inositol (1,3,4)-trisphosphate biosynthesis	TAX-2759
+PWY-1861	formaldehyde assimilation II (RuMP Cycle)	TAX-2
+PWY-1861	ribulose monophosphate cycle	
+PWY-1861	formaldehyde assimilation	
+PWY-1861	RuMP pathway	
+PWY-4821	UDP-D-xylose biosynthesis	TAX-82115
+PWY-4821	UDP-xylose biosynthesis	TAX-2759
+PWY-4821	UDPXyl biosynthesis	
+ILEUSYN-PWY	L-isoleucine biosynthesis I (from threonine)	TAX-2759
+ILEUSYN-PWY		TAX-2
+PWY-6786	detoxification of reactive carbonyls in chloroplasts	TAX-3193
+PWY-6786	detoxification of small reactive electrophile species in chloroplasts	
+PWY-7002	4-hydroxyacetophenone degradation	TAX-2
+PWY0-1221	putrescine degradation II	TAX-2
+PWY-7574	propanoyl-CoA degradation II	TAX-2
+PWY-7574	propionyl-CoA degradation II	TAX-33208
+PWY-7574		TAX-4751
+PWY-7574		TAX-33090
+PWY-5667	CDP-diacylglycerol biosynthesis I	TAX-2759
+PWY-5667	CDP-diacylglycerol biosynthesis	TAX-2
+PWY-5884	wax esters biosynthesis I	TAX-3998
+PWY-5884	jojoba wax biosynthesis	
+PWY-5884	liquid seed wax biosynthesis	
+PWY66-399	gluconeogenesis III	TAX-33208
+PWY-5992	thalianol and derivatives biosynthesis	TAX-3700
+PWY-6146	Methanobacterium thermoautotrophicum biosynthetic metabolism	TAX-2157
+HOMOSER-METSYN-PWY	L-methionine biosynthesis I	TAX-2
+HOMOSER-METSYN-PWY	L-methionine biosynthesis from L-homoserine	
+HOMOSER-METSYN-PWY	L-methionine biosynthesis by transsulfuration	
+PWY-7104	dTDP-L-megosamine biosynthesis	TAX-2
+PWY-5337	stachyose biosynthesis	TAX-3398
+PWY-5337	raffinose biosynthesis	
+PWY-6275	&beta;-caryophyllene biosynthesis	TAX-33090
+PWY-6433	hydroxylated fatty acid biosynthesis (plants)	TAX-33090
+PWY66-366	flavin biosynthesis IV (mammalian)	TAX-33208
+PWY66-366	riboflavin (vitamin B2) metabolism	
+PWY4FS-8	phosphatidylglycerol biosynthesis II (non-plastidic)	TAX-2759
+PWY4FS-8		TAX-2
+PWY-6	GDP-L-fucose biosynthesis II (from L-fucose)	TAX-2759
+PWY-6	GDP-L-fucose biosynthesis (salvage pathway)	
+LEU-DEG2-PWY	L-leucine degradation I	TAX-2759
+LEU-DEG2-PWY		TAX-2
+PWY-7431	aromatic biogenic amine degradation (bacteria)	TAX-2
+PWY-5381	pyridine nucleotide cycling (plants)	TAX-33090
+PWY-6707	gallate biosynthesis	TAX-4751
+PWY-6707		TAX-33090
+PWY-6707		TAX-2
+PWY-5068	chlorophyll cycle	TAX-1117
+PWY-5068	chlorophyll b biosynthesis	TAX-33682
+PWY-5068		TAX-33090
+PWY-6891	thiazole biosynthesis II (aerobic bacteria)	TAX-2
+PWY-6891	2-(2-carboxy-4-methylthiazol-5-yl)ethyl phosphate biosynthesis	
+PWY-6949	DIBOA-glucoside biosynthesis	TAX-3398
+PWY-6949	DIBOA biosynthesis	
+PWY-6949	DIBOA-Glc biosynthesis	
+PENTOSE-P-PWY	pentose phosphate pathway	TAX-2
+PENTOSE-P-PWY	pentose shunt	TAX-2759
+PENTOSE-P-PWY	hexose monophosphate shunt	
+PENTOSE-P-PWY	phosphogluconate pathway	
+PENTOSE-P-PWY	superpathway of oxidative and non-oxidative branches of pentose phosphate pathway	
+RUMP-PWY	formaldehyde oxidation I	TAX-2
+PWY0-1317	L-lactaldehyde degradation (aerobic)	TAX-2157
+PWY0-1317		TAX-2
+PWY66-409	superpathway of purine nucleotide salvage	TAX-40674
+PWY66-409		TAX-2759
+PWY-5856	ubiquinol-9 biosynthesis (prokaryotic)	TAX-2
+PWY-5856	Q9 biosynthesis	
+PWY-5856	ubiquinone-9 biosynthesis (prokaryotic)	
+PWY-6545	pyrimidine deoxyribonucleotides de novo biosynthesis III	TAX-5782
+PWY-6545		TAX-10239
+PWY-6545		TAX-2
+PWY-6545		TAX-2157
+PWY-6368	3-phosphoinositide degradation	TAX-2759
+PWY-6368	phosphatidyl-inositol 3,4,5-trisphosphate degradation	
+PWY-5995	linoleate biosynthesis I (plants)	TAX-33090
+PWY-5664	tetrahydrobiopterin biosynthesis II	TAX-33208
+PWY-6534	phenylethylamine degradation II	TAX-2
+PWY-7181	pyrimidine deoxyribonucleosides degradation	TAX-33208
+PWY-7181		TAX-2157
+PWY-7181		TAX-2
+PWY-6482	diphthamide biosynthesis (archaea)	TAX-2157
+PWY66-3	cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	TAX-33208
+PWY-6123	inosine-5'-phosphate biosynthesis I	TAX-2
+PWY-6123	IMP biosynthesis I	
+PWY-4041	&gamma;-glutamyl cycle	TAX-33208
+PWY-4041	glutathione metabolism	TAX-4751
+PWY-7055	daphnetin modification	TAX-58024
+PWY-5054	sorbitol biosynthesis I	TAX-3745
+PWY-6745	phytochelatins biosynthesis	TAX-3193
+PWY-6745	biosynthesis of heavy metal-binding ligands	
+PWY-7092	neolinustatin bioactivation	TAX-58024
+PWY-6365	D-myo-inositol (3,4,5,6)-tetrakisphosphate biosynthesis	TAX-2759
+PWY-6931	seleno-amino acid detoxification and volatilization I	TAX-33090
+PWY-6931	Se volatilization I	
+PWY-6931	Se-compound volatilization I	
+PWY-6931	Se-amino acid detoxification and volatilization I	
+PWY-6931	dimethyl selenide biosynthesis 	
+P441-PWY	superpathway of N-acetylneuraminate degradation	TAX-2
+P441-PWY	N-acetylneuraminate catabolism	
+P441-PWY	sialic acid degradation	
+PWY-6164	3-dehydroquinate biosynthesis I	TAX-3041
+PWY-6164		TAX-2763
+PWY-6164		TAX-287987
+PWY-6164		TAX-5204
+PWY-6164		TAX-2836
+PWY-6164		TAX-4762
+PWY-6164		TAX-4890
+PWY-6164		TAX-5794
+PWY-6164		TAX-33090
+PWY-6164		TAX-2
+PWY-2902	cytokinin-O-glucosides biosynthesis	TAX-3193
+PWY-7343	UDP-glucose biosynthesis	TAX-2759
+PWY-7343	UDP-D-glucose biosynthesis	TAX-2
+PWY-7343	UDP-&alpha;-D-glucose biosynthesis	TAX-2157
+PWY-5406	divinyl ether biosynthesis I	TAX-33090
+PWY-5406	9-lipoxygenase and divinyl ether synthase pathway	
+PWY-5406	9-LOX and DES pathway	
+PWY-5406	colneleate biosynthesis	
+PWY-5406	colnelenate biosynthesis	
+PWY-5660	taxol biosynthesis	TAX-4751
+PWY-5660	paclitaxel biosynthesis	TAX-3313
+PWY-6966	methanol oxidation to formaldehyde I	TAX-1224
+PWY-6966	methylotrophy	
+PWY0-1305	L-glutamate degradation IX (via 4-aminobutanoate)	TAX-2
+PWY0-1305	glutamate dependent acid resistance	TAX-33154
+COBALSYN-PWY	adenosylcobalamin salvage from cobinamide I	TAX-1224
+COBALSYN-PWY	vitamin B12 biosynthesis	
+PWY-7589	palmitoleate biosynthesis III (cyanobacteria)	TAX-33090
+PWY-7589	palmitoleic acid biosynthesis III (cyanobacteria)	TAX-1117
+PWY-6952	glycerophosphodiester degradation	TAX-2
+PWY-3001	superpathway of L-isoleucine biosynthesis I	TAX-4751
+PWY-3001		TAX-33090
+PWY-3001		TAX-2
+XYLCAT-PWY	xylose degradation I	TAX-4751
+XYLCAT-PWY	xylose catabolism	TAX-2
+PWY-5082	L-methionine degradation III	TAX-4751
+PWY-5082	Ehrlich pathway	
+PWY-6011	amygdalin and prunasin degradation	TAX-2
+PWY-6011		TAX-721805
+PWY-5516	xylose degradation II	TAX-4751
+PWY-1741	indole-3-acetyl-ester conjugate biosynthesis	TAX-3193
+PWY-1741	indole-3-acetic acid-ester conjugate biosynthesis	
+PWY-1741	IAA-ester conjugation	
+PWY-1741	IAA-ester conjugate biosynthesis	
+SUCSYN-PWY	sucrose biosynthesis I (from photosynthesis)	TAX-1117
+SUCSYN-PWY	sucrose biosynthesis I (from Calvin cycle intermediates)	TAX-33090
+SUCSYN-PWY	sucrose biosynthesis I	
+PWY-6893	thiamine diphosphate biosynthesis II (Bacillus)	TAX-2
+PWY-6893	vitamin B1 biosynthesis II	
+PWY-6893	thiamin diphosphate biosynthesis II (Bacillus)	
+PWY-6053	dimethylsulfoniopropanoate biosynthesis III (algae)	TAX-2830
+PWY-6053	DMSP biosynthesis	TAX-33634
+PWY-6053	dimethylsulfoniopropionate biosynthesis III (algae)	TAX-2763
+PWY-6053		TAX-3041
+ACETOACETATE-DEG-PWY	acetoacetate degradation (to acetyl CoA)	TAX-4751
+ACETOACETATE-DEG-PWY		TAX-2
+PWY-6061	bile acid biosynthesis, neutral pathway	TAX-7742
+PWY-6061	bile acid biosynthesis (classic pathway)	
+PWY-695	abscisic acid biosynthesis	TAX-3193
+PWY-695	ABA synthesis	
+PWY-6303	methyl indole-3-acetate interconversion	TAX-3193
+PWY-6303	MeIAA interconversion	
+PWY-6303	Methyl IAA biosynthesis	
+PWY-3661-1	glycine betaine degradation II (mammalian)	TAX-40674
+PWY-5766	L-glutamate degradation X	TAX-33208
+PWY-5766		TAX-2157
+PWY-5766		TAX-2
+PWY0-1295	pyrimidine ribonucleosides degradation	TAX-33208
+PWY0-1295		TAX-2157
+PWY0-1295		TAX-2
+PWY-6801	volatile esters biosynthesis (during fruit ripening)	TAX-33090
+PWY-6801	ethylene-stimulated fruit ester biosynthesis	
+PWY-6638	sulfolactate degradation III	TAX-2
+PWY-6689	tRNA splicing I	TAX-33090
+PWY-6689		TAX-4751
+PWY-5047	gibberellin biosynthesis IV (Gibberella fujikuroi)	TAX-4751
+PWY-5047	GA3 biosynthesis	
+P163-PWY	L-lysine fermentation to acetate and butanoate	TAX-2
+P163-PWY	3-keto-5-aminohexanoate pathway	
+P163-PWY	L-lysine fermentation to acetate and butyrate	
+PWY-2201	folate transformations I	TAX-2759
+PWY-2201		TAX-2
+PWY-2201		TAX-2157
+PWY-2261	ascorbate glutathione cycle	TAX-33682
+PWY-2261	hydrogen peroxide detoxification	TAX-33090
+PWY-2261		TAX-1117
+PWY-5938	(R)-acetoin biosynthesis I	TAX-4751
+PWY-5938	D-acetoin biosynthesis I	TAX-2
+PWY-7614	methiin metabolism	TAX-40553
+PWY-7835	super pathway of glycosphingolipids biosynthesis	TAX-33208
+PWY-5481	pyruvate fermentation to lactate	TAX-2759
+PWY-5481		TAX-2
+PWY-6613	tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate	TAX-2759
+PWY-6613	folic acid salvage	TAX-2
+PWY-6613	folate salvage	
+PWY-6613	THF salvage	
+PWY4FS-3	phosphatidylcholine biosynthesis III	TAX-33090
+PWY-5114	UDP-sugars interconversion	TAX-3193
+PWY-5905	hypusine biosynthesis	TAX-2759
+PWY-822	fructan biosynthesis	TAX-2
+PWY-822		TAX-3193
+PWY-7841	neolacto-series glycosphingolipids biosynthesis	TAX-33208
+PWY-7841	neolactoglycosphingolipids biosynthesis	
+PWY-6611	adenine and adenosine salvage V	TAX-2
+PWY-6611	adenosine nucleosides salvage V	
+P101-PWY	ectoine biosynthesis	TAX-2
+PWY-6148	tetrahydromethanopterin biosynthesis	TAX-578822
+PWY-6148	H4MPT biosynthesis	TAX-224756
+PWY-6148		TAX-183925
+PWY-6148		TAX-183939
+PWY-7416	phospholipid remodeling (phosphatidylcholine, yeast)	TAX-2759
+PWY-7385	1,3-propanediol biosynthesis (engineered)	TAX-4751
+PWY-7385	1,3-PDO biosynthesis	TAX-2
+FASYN-INITIAL-PWY	superpathway of fatty acid biosynthesis initiation (E. coli)	TAX-33084
+FASYN-INITIAL-PWY		TAX-33208
+FASYN-INITIAL-PWY		TAX-4751
+FASYN-INITIAL-PWY		TAX-2
+PWY-5272	abscisic acid glucose ester metabolism	TAX-3193
+PWY-5272	abscisic acid inactivation	
+PWY-5272	abscisic acid degradation II	
+PWY-5272	ABA conjugation pathway	
+PWY-5272	abscisic acid conjugation pathway	
+PWY-6748	nitrate reduction VII (denitrification)	TAX-2
+PWY-6748	denitrification	
+PWY-6748	nitrate respiration	
+PWY-2681	trans-zeatin biosynthesis	TAX-3193
+PWY-2681	trans-cytokinin biosynthesis	
+PWY-2681	AMP-dependent cytokinin biosynthesis	
+PWY0-662	PRPP biosynthesis I	TAX-2759
+PWY0-662	5-phosphoribosyl 1-pyrophosphate biosynthesis	TAX-2157
+PWY0-662		TAX-2
+PWY-7185	UTP and CTP dephosphorylation I	TAX-2157
+PWY-7185	pyrimidine nucleotides dephosphorylation	TAX-2759
+PWY-7185		TAX-2
+PWY-4221	pantothenate and coenzyme A biosynthesis II (plants)	TAX-33090
+PWY-6554	1D-myo-inositol hexakisphosphate biosynthesis V (from Ins(1,3,4)P3)	TAX-33090
+PWY-6554	phytate biosynthesis	
+PWY-7342	superpathway of nicotine biosynthesis	TAX-4070
+PWY3O-440	acetoin biosynthesis III	TAX-3398
+PWY3O-440		TAX-4751
+PWY3O-440		TAX-2
+PWY-1641	methane oxidation to methanol I	TAX-1224
+PWY-1641	methanotrophy	
+PWY-7539	6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)	TAX-810
+PWY-7657	dTDP-&beta;-L-digitoxose biosynthesis	TAX-2
+PWY-7147	8-amino-7-oxononanoate biosynthesis II	TAX-2
+PWY-7147	7-keto-8-aminopelargonate biosynthesis II	
+PWY-6827	gellan degradation	TAX-2
+PWY-7156	superpathway of ergosterol biosynthesis II	TAX-3041
+PWY-7156	superpathway of ergosterol biosynthesis II (green algae)	
+PWY-5367	petroselinate biosynthesis	TAX-3398
+PWY-5367	petroselinic acid biosynthesis	
+GLUDEG-I-PWY	GABA shunt	TAX-33208
+PWY0-1061	superpathway of L-alanine biosynthesis	TAX-2
+VALSYN-PWY	L-valine biosynthesis	TAX-2157
+VALSYN-PWY		TAX-2
+VALSYN-PWY		TAX-2759
+PWY-6477	gibberellin inactivation II (methylation)	TAX-33090
+PWY-6477	gibberellin carboxymethylation	
+PWY-6477	gibberellin methylation	
+PWY-5749	itaconate degradation	TAX-33154
+PWY-5749	2-methylsuccinate degradation	TAX-2
+PWY-7826	Amaryllidacea alkaloids biosynthesis	TAX-4668
+SERDEG-PWY	L-serine degradation	TAX-4751
+SERDEG-PWY		TAX-33208
+SERDEG-PWY		TAX-2
+PWY-6580	phosphatidylinositol biosynthesis I (bacteria)	TAX-2
+PWY-6580	L-1-phosphatidyl-inositol biosynthesis I (bacteria)	
+PWY-7822	chitin degradation III (Serratia)	TAX-2
+PWY-3385	choline biosynthesis I	TAX-33090
+PWY-7282	4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis (yeast)	TAX-4751
+PWY-7524	mevalonate pathway III (archaea)	TAX-2157
+CYSTSYN-PWY	L-cysteine biosynthesis I	TAX-2157
+CYSTSYN-PWY		TAX-2
+CYSTSYN-PWY		TAX-33090
+PWY-6837	fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)	TAX-33154
+PWY-6837		TAX-33090
+PWY-5270	morphine biosynthesis	TAX-40674
+PWY-5270		TAX-3465
+PWY-3481	superpathway of L-phenylalanine and L-tyrosine biosynthesis	TAX-33090
+PWYQT-4473	glucosinolate biosynthesis from tetrahomomethionine	TAX-3699
+PWY-2361	3-oxoadipate degradation	TAX-201174
+PWY-2361	&beta;-ketoadipate degradation	TAX-4751
+PWY-2361		TAX-1224
+PWY-6373	acrylate degradation	TAX-2
+PWY-5269	cardiolipin biosynthesis II	TAX-2759
+PWY-5030	L-histidine degradation III	TAX-40674
+PWY-6679	jadomycin biosynthesis	TAX-2062
+PWY-1081	homogalacturonan degradation	TAX-3193
+PWY-1081	pectin degradation	
+PWY-7666	galactolipid biosynthesis II	TAX-1117
+PWY-7666	galactosylglyceride biosynthesis II	
+PWY-7517	brassicicene C biosynthesis	TAX-4890
+PWY-7517		TAX-4751
+GLUTAMATE-SYN2-PWY	L-glutamate biosynthesis II	TAX-33154
+GLUTAMATE-SYN2-PWY		TAX-2
+GLUTAMATE-SYN2-PWY		TAX-2157
+BGALACT-PWY	lactose degradation III	TAX-2
+BGALACT-PWY	lactose degradation 3	
+PWY-5437	L-threonine degradation I	TAX-2
+PWY-6763	salicortin biosynthesis	TAX-40685
+PWY-6763		TAX-3689
+PWY-3461	L-tyrosine biosynthesis II	TAX-33090
+PWY-3461	pretyrosine pathway	TAX-4751
+PWY-3461		TAX-2
+PWY-6000	&gamma;-linolenate biosynthesis II (animals)	TAX-33154
+PWY-7020	superpathway of butirocin biosynthesis	TAX-2
+FESULFOX-PWY	sulfur oxidation II (Fe+3-dependent)	TAX-2
+ARGDEG-IV-PWY	L-arginine degradation VIII (arginine oxidase pathway)	TAX-1224
+PWY-5710	capsaicin biosynthesis	TAX-4070
+PWY-5710	capsaicinoids biosynthesis	
+PWY-5710	hot pepper biosynthesis	
+PWY-7143	kaempferol gentiobioside biosynthesis	TAX-3398
+PWY-83	monolignol glucosides biosynthesis	TAX-58024
+PWY-7725	arachidonate biosynthesis V (8-detaturase, mammals)	TAX-2759
+PWY-7044	5-nitroanthranilate degradation	TAX-2
+PWY-7140	myricetin gentiobioside biosynthesis	TAX-3398
+PWY-7769	phosalacine biosynthesis	TAX-201174
+CITRULBIO-PWY	L-citrulline biosynthesis	TAX-40674
+PWY-702	L-methionine biosynthesis II	TAX-3193
+PWY-702	L-methionine biosynthesis via O-phospho-homoserine	
+PWY-7325	salvigenin biosynthesis	TAX-33090
+NPGLUCAT-PWY	Entner-Doudoroff pathway II (non-phosphorylative)	TAX-183924
+NPGLUCAT-PWY	non-phosphorylated glucose catabolism	TAX-183967
+NPGLUCAT-PWY	glucose degradation	
+NPGLUCAT-PWY	non-phosphorylated glucose degradation	
+PWY-6700	queuosine biosynthesis	TAX-2
+DAPLYSINESYN-PWY	L-lysine biosynthesis I	TAX-2
+DAPLYSINESYN-PWY	L-lysine and L-diaminopimelate biosynthesis	
+PWY-5088	L-glutamate degradation VIII (to propanoate)	TAX-1239
+PWY-5088	L-glutamate fermentation	
+PWY-5088	mesaconate pathway	
+PWY-5328	superpathway of L-methionine salvage and degradation	TAX-40674
+PWY-5363	chrysin biosynthesis	TAX-4037
+PWY-7254	TCA cycle VII (acetate-producers)	TAX-2
+PWY-7254	tricarboxylic acid cycle	
+PWY-7254	citric acid cycle	
+PWY-7254	Krebs cycle	
+PWY-7254	Szent-Gyorgyi-Krebs cycle	
+PWY-7573	GDP-mycosamine biosynthesis	TAX-2
+PWY-7656	Spodoptera littoralis pheromone biosynthesis	TAX-7088
+PWY-7656	(9Z,11E)-tetradeca-9,11-dien-1-yl acetate biosynthesis	
+PWY-5965	fatty acid biosynthesis initiation III	TAX-2
+PWY-5670	epoxysqualene biosynthesis	TAX-2157
+PWY-5670		TAX-203682
+PWY-5670		TAX-1224
+PWY-5670		TAX-2759
+PWY-7221	guanosine ribonucleotides de novo biosynthesis	TAX-2
+PWY-7400	L-arginine biosynthesis IV (archaebacteria)	TAX-2157
+PWY-7400		TAX-2
+PWY-7210	pyrimidine deoxyribonucleotides biosynthesis from CTP	TAX-4751
+PWY-7210		TAX-33208
+PWY-7210		TAX-1239
+PWY-7210		TAX-201174
+PWY-5408	9-lipoxygenase and 9-hydroperoxide lyase pathway	TAX-33090
+PWY-5408	9-LOX and 9-HPL pathway	
+PWY-5408	9-oxo-nonanoate biosynthesis	
+BSUBPOLYAMSYN-PWY	spermidine biosynthesis I	TAX-2759
+BSUBPOLYAMSYN-PWY	arginine degradation to spermidine	TAX-2
+BSUBPOLYAMSYN-PWY	spermidine biosynthesis	TAX-2157
+ASPARAGINE-DEG1-PWY	L-asparagine degradation I	TAX-33090
+ASPARAGINE-DEG1-PWY		TAX-4751
+ASPARAGINE-DEG1-PWY		TAX-33208
+ASPARAGINE-DEG1-PWY		TAX-2157
+ASPARAGINE-DEG1-PWY		TAX-2
+PWY-7388	octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)	TAX-2759
+PWY-7388	octanoyl-ACP biosynthesis (mitochondria, yeast)	TAX-4751
+PWY-5691	urate degradation to allantoin I	TAX-2
+PWY-5691		TAX-2759
+GLUCONSUPER-PWY	D-gluconate degradation	TAX-33154
+GLUCONSUPER-PWY	gluconate utilization	TAX-2
+PWY490-4	L-asparagine biosynthesis III (tRNA-dependent)	TAX-2157
+PWY490-4	L-asparaginyl-tRNAasn biosynthesis via transamidation	TAX-2
+ARGDEG-PWY	superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation	TAX-2
+ARGDEG-PWY	L-arginine utilization	
+ARGDEG-PWY	ADC pathway	
+PWY-6322	phosphinothricin tripeptide biosynthesis	TAX-201174
+PWY-6322	PTT biosynthesis	
+PWY-6322	bialaphos biosynthesis	
+PWY-2002	isoflavonoid biosynthesis I	TAX-3803
+PWY-7118	chitin degradation to ethanol	TAX-33154
+PWY-5057	L-valine degradation II	TAX-2
+PWY-5057	Ehrlich pathway	TAX-4751
+PWY-2722	trehalose degradation IV	TAX-4751
+PWY-2722		TAX-33682
+PWY-2722		TAX-2
+PWY-5321	quercetin glycoside biosynthesis (Arabidopsis)	TAX-3700
+PWY-6944	androstenedione degradation	TAX-2
+PWY-862	fructan degradation	TAX-3193
+PWY-862	fructan mobilization	
+PWY1F-353	glycine betaine biosynthesis III (plants)	TAX-33090
+PWY1F-353	glycine betaine biosynthesis	
+PWY-6507	4-deoxy-L-threo-hex-4-enopyranuronate degradation	TAX-2
+PWY-6507	5-dehydro-4-deoxy-D-glucuronate degradation	
+PWY-7803	tRNA splicing II	TAX-2157
+PWY-7803		TAX-33208
+PWY-6932	selenate reduction	TAX-4751
+PWY-6932	selenium metabolism	TAX-2
+PWY-6932	selenium assimilation	TAX-33090
+PWY-6641	superpathway of sulfolactate degradation	TAX-2
+PWY-6641	bifurcated pathway of 3-sulfolactate degradation	
+PWY-6736	sulfur volatiles biosynthesis	TAX-3700
+PWY-6736	biosynthesis of sulphur volatiles	
+PWY-7443	(4S)-carvone biosynthesis	TAX-71274
+PWY-7443	(+)-carvone biosynthesis	
+PWY-7443	D-carvone biosynthesis	
+PWY-63	UDP-L-arabinose biosynthesis I (from UDP-xylose)	TAX-82115
+PWY-63	UDP-L-arabinose biosynthesis (de novo synthesis)	TAX-3193
+ARGASEDEG-PWY	L-arginine degradation I (arginase pathway)	TAX-3193
+ARGASEDEG-PWY	L-arginase degradative pathway	TAX-33208
+ARGASEDEG-PWY	L-glutamate biosynthesis	TAX-2157
+ARGASEDEG-PWY		TAX-2
+PWY-5147	oleate biosynthesis I (plants)	TAX-33090
+PWY-5147	stearoyl-ACP desaturation pathway	TAX-33682
+PWY-6153	autoinducer AI-2 biosynthesis I	TAX-2
+FUCCAT-PWY	fucose degradation	TAX-2
+FUCCAT-PWY	fucose catabolism	
+PWY-7094	fatty acid salvage	TAX-2
+PWY-3841	folate transformations II	TAX-33090
+PWY-6599	guanine and guanosine salvage II	TAX-2759
+PWY-6599		TAX-2
+PWY-7119	sphingolipid recycling and degradation (yeast)	TAX-4751
+ARGDEGRAD-PWY	L-arginine degradation V (arginine deiminase pathway)	TAX-2157
+ARGDEGRAD-PWY	L-arginine dihydrolase pathway	TAX-2759
+ARGDEGRAD-PWY	L-arginine deiminase degradation	TAX-2
+PWY-5318	calystegine biosynthesis	TAX-4118
+PWY-5318		TAX-4070
+PWY-7432	L-phenylalanine biosynthesis III (cytosolic, plants)	TAX-33090
+PWY66-389	phytol degradation	TAX-40674
+P121-PWY	adenine and adenosine salvage I	TAX-33154
+P121-PWY	purine salvage	TAX-2
+P121-PWY	salvage pathway of adenosine nucleosides	TAX-2157
+P121-PWY	adenosine nucleosides salvage I	
+PWY4LZ-257	superpathway of fermentation (Chlamydomonas reinhardtii)	TAX-33090
+PWY4LZ-257	pyruvate fermentation (Chlamydomonas overview)	
+PWY4LZ-257	superpathway of fermentation from pyruvate (Chlamydomonas reinhardtii)	
+PWY-7084	nitrifier denitrification	TAX-2
+PWY-7084	nitrous oxide biosynthesis	
+PWY-7084	aerobic denitrification	
+PWY-5101	L-isoleucine biosynthesis II	TAX-183924
+PWY-5101		TAX-224756
+PWY-5101		TAX-183925
+PWY-5101		TAX-203691
+PWY-5101		TAX-183939
+POLYISOPRENSYN-PWY	polyisoprenoid biosynthesis (E. coli)	TAX-2759
+POLYISOPRENSYN-PWY		TAX-2
+POLYISOPRENSYN-PWY		TAX-2157
+PWY-5857	ubiquinol-10 biosynthesis (prokaryotic)	TAX-1224
+PWY-5857	Q10 biosynthesis	
+PWY-5857	ubiquinone-10 biosynthesis (prokaryotic)	
+PWY-5958	acridone alkaloid biosynthesis	TAX-16739
+PWY-5958		TAX-23513
+PWY-5181	toluene degradation III (aerobic) (via p-cresol)	TAX-1224
+PWY-7287	novobiocin biosynthesis	TAX-201174
+P108-PWY	pyruvate fermentation to propanoate I	TAX-2
+P108-PWY	succinate-propionate fermentation pathway	
+P108-PWY	pyruvate fermentation to propionate I	
+P108-PWY	succinate-propanoate fermentation pathway	
+PWY-7675	Kdo transfer to lipid IVA II	TAX-2
+PWY-6873	long chain fatty acid ester synthesis (engineered)	TAX-2
+PWY-7301	dTDP-4-O-demethyl-&beta;-L-noviose biosynthesis	TAX-201174
+PWY-82	UDP-L-arabinose biosynthesis II (from L-arabinose)	TAX-3193
+PWY-82	UDP-L-arabinose biosynthesis (salvage pathway)	
+PWY-6113	superpathway of mycolate biosynthesis	TAX-1762
+PWY-5034	GA12 biosynthesis	TAX-33090
+PWY-5034	gibberellin A12 biosynthesis	
+PWY0-1471	uracil degradation III	TAX-2
+PWY-7126	ethylene biosynthesis IV (engineered)	TAX-4890
+PWY-7126		TAX-1224
+PWY-5027	phylloquinol biosynthesis	TAX-1117
+PWY-5027	vitamin K1 biosynthesis	TAX-33090
+PWY-5027	phylloquinone biosynthesis	
+PWY-4981	L-proline biosynthesis II (from arginine)	TAX-2759
+PWY4FS-13	extended VTC2 cycle	TAX-33090
+PWY6666-2	dopamine degradation	TAX-33208
+PWY-481	ethylbenzene degradation (anaerobic)	TAX-1224
+PWY-481	anaerobic ethylbenzene oxidation	
+PWY-481	anaerobic ethylbenzene degradation	
+PWY-5987	sorgoleone biosynthesis	TAX-4557
+PWY-6859	all-trans-farnesol biosynthesis	TAX-2759
+PWY-6859	trans,trans-farnesol biosynthesis	
+PWY-7509	cardiolipin and phosphatidylethanolamine biosynthesis (Xanthomonas)	TAX-2
+PWY-5031	L-histidine degradation V	TAX-33208
+PWY0-1567	NADH to cytochrome bo oxidase electron transfer II	TAX-2
+PWY0-1567		TAX-2157
+PWY0-1546	muropeptide degradation	
+PWY66-374	C20 prostanoid biosynthesis	TAX-40674
+PWY-6441	spermine and spermidine degradation III	TAX-33090
+PWY-6441	polyamine degradation III	
+PWY-7101	5-deoxystrigol biosynthesis	TAX-33090
+SUCROSEUTIL2-PWY	sucrose degradation VII (sucrose 3-dehydrogenase)	TAX-1224
+PWY-7021	superpathway of neomycin biosynthesis	TAX-2
+PWY-5945	zeaxanthin, antheraxanthin and violaxanthin interconversion	TAX-4751
+PWY-5945	xanthophyll cycle	TAX-2763
+PWY-5945		TAX-1117
+PWY-5945		TAX-33090
+PWY-5862	superpathway of demethylmenaquinol-9 biosynthesis	TAX-2
+PWY-5862	superpathway of demethylmenaquinone-9 biosynthesis	
+PWY-1422	vitamin E biosynthesis (tocopherols)	TAX-1117
+PWY-1422	tocopherol biosynthesis	TAX-3041
+PWY-1422		TAX-2870
+PWY-1422		TAX-2763
+PWY-1422		TAX-33090
+PWY-7799	Arg/N-end rule pathway (eukaryotic)	TAX-33208
+PWY-7799		TAX-33090
+PWY-4361	S-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation	TAX-33208
+PWY-4361		TAX-2157
+PWY-4361		TAX-2
+PWY-4361		TAX-3193
+ARGSYN-PWY	L-arginine biosynthesis I (via L-ornithine)	TAX-2157
+ARGSYN-PWY		TAX-33090
+ARGSYN-PWY		TAX-2
+PWY-5424	superpathway of oleoresin turpentine biosynthesis	TAX-3313
+PWY-5897	superpathway of menaquinol-11 biosynthesis	TAX-85006
+PWY-5897	vitamin K2 biosynthesis	TAX-838
+PWY-5897	superpathway of menaquinone-11 biosynthesis	TAX-816
+HOMOCYSDEGR-PWY	L-cysteine biosynthesis III (from L-homocysteine)	TAX-33154
+HOMOCYSDEGR-PWY	L-homocysteine degradation	TAX-2157
+HOMOCYSDEGR-PWY		TAX-2
+PWY-7195	pyrimidine ribonucleosides salvage III	TAX-2157
+PWY-7195		TAX-4751
+PWY-7195		TAX-2
+PWY-5915	phycoerythrobilin biosynthesis I	TAX-1117
+PWY-5488	4-nitrophenol degradation II	TAX-2
+PWY-5488	p-nitrophenol degradation II	
+PWY-7000	kanamycin biosynthesis	TAX-201174
+PWY-6549	L-glutamine biosynthesis III	TAX-3193
+PWY-6549	L-glutamine biosynthesis (nitrogen remobilization from senescing leaves)	
+PWY-7373	superpathway of demethylmenaquinol-6 biosynthesis II	TAX-2
+PWY-7373	superpathway of demethylmenaquinone-6 biosynthesis II	
+PWY-5409	divinyl ether biosynthesis II	TAX-33090
+PWY-5409	etheroleate biosynthesis	
+PWY-5409	13-LOX and 13-DES pathway	
+PWY-1822	indole-3-acetate activation I	TAX-33090
+PWY-1822	IAA biosynthesis from amide-conjugates	
+PWY-1822	IAA deconjugation	
+PWY-1822	indole-3-acetic acid biosynthesis from amide-conjugates	
+PWY-1822	IAA activation I	
+PWY-7396	butanol and isobutanol biosynthesis (engineered)	TAX-2
+PWY-7396		TAX-4751
+PWY-7142	cyanide detoxification II	TAX-4751
+PWY-5022	4-aminobutanoate degradation V	TAX-1239
+PWY-5022	GABA degradation	
+PWY-7228	superpathway of guanosine nucleotides de novo biosynthesis I	TAX-2157
+PWY-7228		TAX-2759
+PWY-7228		TAX-2
+BETA-ALA-DEGRADATION-I-PWY	&beta;-alanine degradation I	TAX-40674
+PWY4FS-7	phosphatidylglycerol biosynthesis I (plastidic)	TAX-2759
+PWY4FS-7		TAX-2
+PWY-6475	trans-lycopene biosynthesis II (plants)	TAX-1117
+PWY-6475		TAX-2763
+PWY-6475		TAX-33090
+HEXITOLDEGSUPER-PWY	superpathway of hexitol degradation (bacteria)	TAX-2763
+HEXITOLDEGSUPER-PWY		TAX-2
+PWY-7452	cyanidin dimalonylglucoside biosynthesis	TAX-4210
+PWY-6537	4-aminobutanoate degradation II	TAX-4751
+PWY-6537		TAX-2
+KETOGLUCONMET-PWY	ketogluconate metabolism	TAX-2
+PWY-6562	norspermidine biosynthesis	TAX-641
+PWY-6562	sym-norspermidine biosynthesis	
+ARGININE-SYN4-PWY	L-ornithine biosynthesis II	TAX-33208
+PWY-6708	ubiquinol-8 biosynthesis (prokaryotic)	TAX-2
+PWY-6708	ubiquinone-8 biosynthesis (prokaryotic)	
+GLUTSYNIII-PWY	L-glutamate biosynthesis III	TAX-33154
+GLUTSYNIII-PWY		TAX-2
+GLUTSYNIII-PWY		TAX-2157
+PWY-7770	indolmycin biosynthesis	TAX-2
+PWY66-221	nicotine degradation V	TAX-40674
+PWY-5136	fatty acid &beta;-oxidation II (peroxisome)	TAX-33090
+PWY-5136	fatty acid &beta;-oxidation II (plants)	
+PWY-5129	sphingolipid biosynthesis (plants)	TAX-33090
+PWY-5129	ceramide biosynthesis (plants)	
+PWY-5397	crocetin biosynthesis	TAX-85894
+PWY-5397	safranal biosynthesis	TAX-4136
+PWY-5397		TAX-24966
+PWY-5397		TAX-26339
+PWY-7316	dTDP-N-acetylviosamine biosynthesis	TAX-2
+PWY-7316	dTDP-4-acetamido-4,6-dideoxy-&alpha;-D-glucose biosynthesis	
+PWY66-367	ketogenesis	TAX-7711
+PWY66-367	acetoacetate biosynthesis	
+PWY66-367	ketone body synthesis	
+PWY-4983	L-citrulline-nitric oxide cycle	TAX-33208
+PWY-4983	L-citrulline-NO cycle	
+PWY-4983	nitric oxide biosynthesis II	
+PWY-6387	UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)	TAX-2
+PWY-6954	superpathway of aromatic compound degradation via 2-oxopent-4-enoate	TAX-2
+PWY-7838	globo-series glycosphingolipids biosynthesis	TAX-33208
+PWY-7838	globoglycosphingolipids biosynthesis	
+PWY-7102	bisabolene biosynthesis (engineered)	TAX-2759
+PWY-7102		TAX-1224
+PWY-5785	di-trans,poly-cis-undecaprenyl phosphate biosynthesis	TAX-2
+PWY-6270	isoprene biosynthesis I	TAX-3193
+PWY2OL-4	superpathway of linalool biosynthesis	TAX-3398
+PWY2OL-4		TAX-4751
+PWY-6788	cellulose degradation II (fungi)	TAX-4751
+CYANCAT-PWY	cyanate degradation	TAX-33090
+CYANCAT-PWY	cyanate catabolism	TAX-2
+PWY-7720	ophiobolin F biosynthesis	TAX-4751
+PWY1F-FLAVSYN	flavonoid biosynthesis	TAX-58024
+PWY-6269	adenosylcobalamin salvage from cobinamide II	TAX-2157
+PWY-6269	vitamin B12 biosynthesis	TAX-2
+PWY-5274	sulfide oxidation II (sulfide dehydrogenase)	TAX-2
+LCYSDEG-PWY	L-cysteine degradation II	TAX-2
+LCYSDEG-PWY	L-cysteine catabolism	TAX-2759
+LCYSDEG-PWY	L-cysteine degradation	
+PWY-6948	sitosterol degradation to androstenedione	TAX-2
+KDO-NAGLIPASYN-PWY	superpathway of (Kdo)2-lipid A biosynthesis	TAX-200918
+KDO-NAGLIPASYN-PWY		TAX-200940
+KDO-NAGLIPASYN-PWY		TAX-544448
+KDO-NAGLIPASYN-PWY		TAX-508458
+KDO-NAGLIPASYN-PWY		TAX-203691
+KDO-NAGLIPASYN-PWY		TAX-1224
+KDO-NAGLIPASYN-PWY		TAX-40117
+KDO-NAGLIPASYN-PWY		TAX-142182
+KDO-NAGLIPASYN-PWY		TAX-32066
+KDO-NAGLIPASYN-PWY		TAX-1783270
+KDO-NAGLIPASYN-PWY		TAX-74152
+KDO-NAGLIPASYN-PWY		TAX-68297
+KDO-NAGLIPASYN-PWY		TAX-1297
+KDO-NAGLIPASYN-PWY		TAX-200930
+KDO-NAGLIPASYN-PWY		TAX-1117
+KDO-NAGLIPASYN-PWY		TAX-200938
+KDO-NAGLIPASYN-PWY		TAX-200795
+KDO-NAGLIPASYN-PWY		TAX-1783257
+KDO-NAGLIPASYN-PWY		TAX-67814
+KDO-NAGLIPASYN-PWY		TAX-68336
+KDO-NAGLIPASYN-PWY		TAX-200783
+PWY-5130	2-oxobutanoate degradation I	TAX-2759
+PWY-5130	2-oxobutyrate catabolism	TAX-2
+PWY-5130	2-oxobutyrate degradation	
+PWY-5308	superpathway of sulfur metabolism (Desulfocapsa sulfoexigens)	TAX-1224
+PWY-5059	pinobanksin biosynthesis	TAX-58024
+LIPAS-PWY	triacylglycerol degradation	TAX-2759
+LIPAS-PWY	triacylglyceride degradation	TAX-2
+LIPAS-PWY	triacylglycerol hydrolysis	TAX-2157
+LIPAS-PWY	lipolysis	
+PWY66-391	fatty acid &beta;-oxidation VI (peroxisome)	TAX-7742
+NADPHOS-DEPHOS-PWY-1	NAD phosphorylation and transhydrogenation	TAX-2
+NADPHOS-DEPHOS-PWY-1		TAX-2157
+NADPHOS-DEPHOS-PWY-1		TAX-2759
+PWY-7250	[2Fe-2S] iron-sulfur cluster biosynthesis	TAX-2759
+PWY-7250	[Fe-S] cluster biosynthesis	TAX-2
+PWY-7250	[2Fe-2S] cluster biosynthesis	TAX-2157
+PWY-5311	L-lysine degradation VII	TAX-4751
+PWY-5312	superpathway of anthocyanin biosynthesis (from pelargonidin 3-O-glucoside)	TAX-58024
+PWY-6614	tetrahydrofolate biosynthesis	TAX-33090
+PWY-6614	folic acid biosynthesis	TAX-4751
+PWY-6614	folate biosynthesis	TAX-2
+PWY-6614	THF biosynthesis	
+PWY-6633	caffeine degradation V (bacteria, via trimethylurate)	TAX-2
+PWY-6633	caffeine C-8 oxidation pathway	
+PWY-6633	caffeine degradation V (bacteria, to trimethylurate)	
+PWY-6697	oxalate degradation IV	TAX-2
+PWY-6697		TAX-33090
+PWY-6697		TAX-4751
+PWY-6749	CMP-legionaminate biosynthesis I	TAX-2
+PWY-6749	CMP-legionaminic acid biosynthesis I	
+PWY-6749	5,7-diacetamido-3,5,7,9-tetradeoxy-D-glycero-D-galacto-nonulosonic acid biosynthesis I	
+PWY-6749	CMP-N, N-diacetyllegionaminate biosynthesis I	
+ALANINE-DEG3-PWY	L-alanine degradation III	TAX-2759
+DENOVOPURINE2-PWY	superpathway of purine nucleotides de novo biosynthesis II	TAX-2
+PWY-5744	glyoxylate assimilation	TAX-200795
+PWY-5744		TAX-183924
+PWY-6445	fenchol biosynthesis II	TAX-4143
+PWY66-368	ketolysis	TAX-7711
+PWY66-368	ketone body metabolism	
+PWY66-368	ketone body degradation	
+PWY-5920	superpathway of heme biosynthesis from glycine	TAX-33630
+PWY-5920		TAX-33682
+PWY-5920		TAX-1224
+PWY-5920		TAX-33208
+PWY-5920		TAX-4751
+PPGPPMET-PWY	ppGpp biosynthesis	TAX-2
+PPGPPMET-PWY	guanosine 3'-diphosphate 5'-diphosphate biosynthesis	
+PWY-6842	glutathione-mediated detoxification II	TAX-33090
+PWY-6075	ergosterol biosynthesis I	TAX-4751
+PWY-6075	ergosterol biosynthesis I (fungi)	
+P224-PWY	sulfate reduction V (dissimilatory, to thiosulfate)	TAX-2
+P224-PWY	bisulfite reduction	
+PWY-6145	superpathway of CMP-sialic acids biosynthesis	TAX-2759
+PWY-6145		TAX-2
+PWY-7417	phospholipid remodeling (phosphatidate, yeast)	TAX-2759
+PWY-7117	C4 photosynthetic carbon assimilation cycle, PEPCK type	TAX-3398
+PWY-7117	C4 photosynthesis, PEPCK type	TAX-4479
+PWY-7392	taxadiene biosynthesis (engineered)	TAX-2157
+PWY-7392		TAX-2759
+PWY-7392		TAX-2
+PWY-5921	glutaminyl-tRNAgln biosynthesis via transamidation	TAX-2759
+PWY-5921		TAX-2
+PWY-5921		TAX-2157
+DISSULFRED-PWY	sulfate reduction IV (dissimilatory, to hydrogen sufide))	TAX-2157
+DISSULFRED-PWY	sulfate respiration	TAX-2
+PWY-5433	superpathway of lipoxygenase	TAX-3193
+PWY-5433	LOX superpathway	
+THISYNARA-PWY	superpathway of thiamine diphosphate biosynthesis III (eukaryotes)	TAX-33630
+THISYNARA-PWY	vitamin B1 biosynthesis IV (eukaryotes)	TAX-4751
+THISYNARA-PWY	thiamine diphosphate biosynthesis (plants)	TAX-33090
+P381-PWY	adenosylcobalamin biosynthesis II (aerobic)	TAX-2
+P381-PWY	adenosylcobalamin biosynthesis II (late cobalt incorporation)	TAX-2157
+P381-PWY	vitamin B12 biosynthesis	
+SALVADEHYPOX-PWY	adenosine nucleotides degradation II	TAX-2157
+SALVADEHYPOX-PWY	purine ribonucleotide/ribonucleoside metabolism	TAX-2759
+SALVADEHYPOX-PWY		TAX-2
+IDNCAT-PWY	L-idonate degradation	TAX-2
+IDNCAT-PWY	L-idonic acid catabolism	
+IDNCAT-PWY	L-idonate catabolism	
+PWY66-5	superpathway of cholesterol biosynthesis	TAX-33208
+PWY-6404	superpathway of mycolyl-arabinogalactan-peptidoglycan complex biosynthesis	TAX-1762
+PWY0-41	allantoin degradation IV (anaerobic)	TAX-2
+PWY-7305	superpathway of steroid hormone biosynthesis	TAX-40674
+PROUT-PWY	L-proline degradation	TAX-2759
+PROUT-PWY	L-proline utilization	TAX-2157
+PROUT-PWY		TAX-2
+PWY-5295	ternatin C5 biosynthesis	TAX-3398
+PWY-5086	chlorophyll a biosynthesis I	TAX-2763
+PWY-5086		TAX-1117
+PWY-5086		TAX-33682
+PWY-5086		TAX-33090
+PWY-5394	betalamic acid biosynthesis	TAX-4751
+PWY-5394		TAX-3524
+PWY-7779	methyl tert-butyl ether degradation	TAX-2
+PWY-7779	MTBE degradation	
+PWY-5855	ubiquinol-7 biosynthesis (prokaryotic)	TAX-2
+PWY-5855	ubiquinone-7 biosynthesis (prokaryotic)	
+PWY-7033	alkane biosynthesis II	TAX-4751
+PWY-7033		TAX-33090
+PWY-5464	superpathway of cytosolic glycolysis (plants), pyruvate dehydrogenase and TCA cycle	TAX-33090
+PWY-601	glucosinolate biosynthesis from tryptophan	TAX-3699
+PWY-601	indolylmethyl glucosinolate biosynthesis	
+PWY-7226	guanosine deoxyribonucleotides de novo biosynthesis I	TAX-2759
+PWY-7226		TAX-2157
+PWY-7226		TAX-2
+PWY-5074	mevalonate degradation	TAX-2
+PWY-6173	histamine biosynthesis	TAX-33208
+PWY-6173		TAX-2
+METHIONINE-DEG1-PWY	L-methionine degradation I (to L-homocysteine)	TAX-2157
+METHIONINE-DEG1-PWY		TAX-2
+METHIONINE-DEG1-PWY		TAX-2759
+PWY-701	L-methionine degradation II	TAX-3193
+PWY-701		TAX-4751
+PWY-701		TAX-33084
+PWY-701		TAX-2
+PWY-1581	plastoquinol-9 biosynthesis I	TAX-2870
+PWY-1581	plastoquinone biosynthesis I	TAX-2763
+PWY-1581	plastoquinone-9 biosynthesis I	TAX-33090
+PWY-1581	plastoquinol biosynthesis I	
+PWY-6872	retinoate biosynthesis I	TAX-33208
+PWY-6872	retinoic acid biosynthesis	
+PWY-7816	poly(ribitol phosphate) wall teichoic acid biosynthesis II (S. aureus)	TAX-1239
+PWY-7816	ribitol teichoic acid biosynthesis	
+PWY-6938	NADH repair	TAX-2759
+PWY-6938		TAX-2
+PWY-6938		TAX-2157
+PWY-6307	L-tryptophan degradation X (mammalian, via tryptamine)	TAX-40674
+PWY-6543	4-aminobenzoate biosynthesis	TAX-4751
+PWY-6543	pABA biosynthesis	TAX-2157
+PWY-6543	plastidial PABA biosynthesis	TAX-2
+PWY-6543	PABA biosynthesis in plastids	TAX-33090
+PWY-6543	p-aminobenzoate biosynthesis	
+GALACTCAT-PWY	D-galactonate degradation	TAX-2157
+GALACTCAT-PWY	D-galactonate catabolism	TAX-2
+PWY-5934	iron reduction and absorption	TAX-3398
+PWY-5934	Fe(III)-reduction	
+PWY-5934	Fe(II) transport	
+PWY-5934	Fe(III)-chelation and Fe(II) transport	
+GLYCOLYSIS-TCA-GLYOX-BYPASS	superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass	TAX-2
+PWY-6724	starch degradation II	TAX-33090
+PWY-6724	starch mobilization in chloroplast stroma	
+PWY-6724	transitory starch degradation in chloroplast stroma	
+PWY-6724	starch degradation in chloroplast stroma	
+PWY-5750	itaconate biosynthesis	TAX-4751
+PWY-6728	methylaspartate cycle	TAX-183963
+PWY-7356	thiamine salvage IV (yeast)	TAX-2
+PWY-7356	thiamin salvage IV (yeast)	TAX-4751
+PWY-5686	UMP biosynthesis I	TAX-2759
+PWY-5686	uridine-5'-phosphate biosynthesis I	TAX-2
+PWY-5686	de novo biosynthesis of uridine-5'-phosphate I	
+PWY-5686	de novo biosynthesis of uridine-5'-monophosphate I	
+PWY-7790	UMP biosynthesis II	TAX-33682
+PWY-7790	uridine-5'-phosphate biosynthesis II	TAX-4751
+PWY-7790	de novo biosynthesis of uridine-5'-phosphate II	TAX-2
+PWY-7790	de novo biosynthesis of uridine-5'-monophosphate II	
+PWY-6317	D-galactose degradation I (Leloir pathway)	TAX-4751
+PWY-6317	Leloir pathway	TAX-3193
+PWY-6317		TAX-2
+PWY-7528	L-methionine salvage cycle I (bacteria and plants)	TAX-2157
+PWY-7528	5'-methylthioadenosine cycle	TAX-2
+PWY-7528	MTA cycle	TAX-33090
+PWY-7528	Yang cycle	
+ILEUDEG-PWY	L-isoleucine degradation I	TAX-2759
+ILEUDEG-PWY		TAX-2157
+ILEUDEG-PWY		TAX-2
+UBISYN-PWY	superpathway of ubiquinol-8 biosynthesis (prokaryotic)	TAX-2
+UBISYN-PWY	superpathway of ubiquinone-8 biosynthesis (prokaryotic)	
+PWY-6165	chorismate biosynthesis II (archaea)	TAX-2157
+PWY-7776	ethene and chloroethene degradation	TAX-2
+PWY-7776	ethylene and chloroethylene degradation	
+PWY-7776	vinyl chloride degradation	
+PWY-5168	ferulate and sinapate biosynthesis	TAX-58024
+PWY-6012	acyl carrier protein metabolism	TAX-2
+PWY-6012	[acp] metabolism	
+PWY-6012	ACP metabolism	
+PWY3DJ-11470	sphingosine and sphingosine-1-phosphate metabolism	TAX-33154
+PWY3DJ-11470	ceramide degradation	
+P125-PWY	superpathway of (R,R)-butanediol biosynthesis	TAX-2
+P125-PWY	butylene glycol fermentation	
+P125-PWY	butanediol fermentation	
+THISYN-PWY	superpathway of thiamine diphosphate biosynthesis I	TAX-2
+THISYN-PWY	superpathway of thiamine diphosphate biosynthesis (E .coli)	
+THISYN-PWY	superpathway of vitamin B1 biosynthesis (E .coli)	
+PWY-7726	(4Z,7Z,10Z,13Z,16Z)-docosa-4,7,10,13,16-pentaenoate biosynthesis (6-desaturase)	TAX-2759
+PWY-7470	phosphatidylcholine biosynthesis VII	TAX-2
+PWY-6834	spermidine biosynthesis III	TAX-2
+PWY-6834		TAX-2157
+M-CRESOL-DEGRADATION-PWY	m-cresol degradation	TAX-1224
+M-CRESOL-DEGRADATION-PWY	3-methylphenol degradation	
+BRANCHED-CHAIN-AA-SYN-PWY	superpathway of branched chain amino acid biosynthesis	TAX-2759
+BRANCHED-CHAIN-AA-SYN-PWY	superpathway of L-leucine, L-valine, and L-isoleucine biosynthesis	TAX-2
+P461-PWY	hexitol fermentation to lactate, formate, ethanol and acetate	TAX-1239
+P461-PWY	sorbitol metabolism	
+P461-PWY	sorbitol fermentation	
+P461-PWY	mannitol fermentation	
+P461-PWY	sugar alcohol fermentation	
+PWY-7674	CMP-8-amino-3,8-dideoxy-D-manno-octulosonate biosynthesis	TAX-267890
+PWY-7674	CMP-Kdo8N biosynthesis I	
+PWY-7578	phycoviolobilin biosynthesis	TAX-1117
+PWY-5070	gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)	TAX-33090
+PWY-5070	gibberellin biosynthesis I (late C-3 hydroxylation)	
+PWY-5070	gibberellin biosynthesis I (late C-13 hydroxylation)	
+PWY-7446	sulfoquinovose degradation I	TAX-2
+PWY-7446	sulphoglycolysis	
+PWY-7446	sulfoglycolysis	
+PWY-5523	5,6-dimethylbenzimidazole biosynthesis I (aerobic)	TAX-2
+PWY-5523	DMB biosynthesis I	
+PWY0-1299	arginine dependent acid resistance	TAX-2
+PWY0-1280	ethylene glycol degradation	TAX-1224
+PWY-6799	fatty acid biosynthesis (plant mitochondria)	TAX-33090
+PWY4FS-5	superpathway of phosphatidylcholine biosynthesis	TAX-33090
+PWY-5386	methylglyoxal degradation I	TAX-33208
+PWY-5386		TAX-4751
+PWY-5386		TAX-2
+PWY-6627	salinosporamide A biosynthesis	TAX-201174
+PWY-5265	peptidoglycan biosynthesis II (staphylococci)	TAX-201174
+PWY-5265		TAX-1239
+PWY0-1544	proline to cytochrome bo oxidase electron transfer	TAX-2157
+PWY0-1544		TAX-2
+PWY-7391	isoprene biosynthesis II (engineered)	TAX-2157
+PWY-7391	isoprenoid pathway	TAX-33208
+PWY-7391	MVA pathway	TAX-4751
+PWY-7391		TAX-2
+PWY-7391		TAX-33090
+PWY-6055	dimethylsulfoniopropanoate biosynthesis II (Spartina)	TAX-33090
+PWY-6055	DMSP biosynthesis	
+PWY-6055	dimethylsulfoniopropionate biosynthesis II (Spartina)	
+PWY-6976	dTDP-L-mycarose biosynthesis	TAX-2
+PWY-3981	&beta;-alanine biosynthesis I	TAX-33090
+PWY-3981	&beta;-alanine biosynthesis from polyamines	
+PWY-5874	heme degradation	TAX-2759
+1CMET2-PWY	N10-formyl-tetrahydrofolate biosynthesis	TAX-4751
+1CMET2-PWY	N10-formyl-THF biosynthesis	TAX-33208
+1CMET2-PWY		TAX-2
+PWY-6124	inosine-5'-phosphate biosynthesis II	TAX-2759
+PWY-6124	IMP biosynthesis II	
+PWY-7091	linustatin bioactivation	TAX-58024
+METSYN-PWY	L-homoserine and L-methionine biosynthesis	
+PWY-3722	glycine betaine biosynthesis II (Gram-positive bacteria)	TAX-1239
+2PHENDEG-PWY	phenylethylamine degradation I	TAX-33208
+2PHENDEG-PWY		TAX-2
+PWY-5659	GDP-mannose biosynthesis	TAX-2157
+PWY-5659		TAX-2759
+PWY-5659		TAX-2
+PWY-3261	UDP-L-rhamnose biosynthesis	TAX-4751
+PWY-3261		TAX-33090
+ALLANTOINDEG-PWY	superpathway of allantoin degradation in yeast	TAX-4751
+ALLANTOINDEG-PWY	ureide degradation	
+UDPNACETYLGALSYN-PWY	UDP-N-acetyl-D-glucosamine biosynthesis II	TAX-2759
+UDPNACETYLGALSYN-PWY	UDP-N-acetylgalactosamine biosynthesis	
+PWY-6983	tetrahydrobiopterin biosynthesis III	TAX-68336
+PWY-6983		TAX-1117
+LPSSYN-PWY	superpathway of lipopolysaccharide biosynthesis	TAX-2
+PWY4FS-2	phosphatidylcholine biosynthesis II	TAX-33090
+ARGSPECAT-PWY	spermine biosynthesis	TAX-2759
+ARGSPECAT-PWY		TAX-2
+ARGSPECAT-PWY		TAX-2157
+PWY-5852	demethylmenaquinol-8 biosynthesis I	TAX-2
+PWY-5852	demethylmenaquinone-8 biosynthesis I	
+PWY-7169	hyperxanthone E biosynthesis	TAX-58023
+PWY-6258	patchoulol biosynthesis	TAX-33090
+PWY-1042	glycolysis IV (plant cytosol)	TAX-33090
+PWY-1042	glycolysis 4	
+PWY-5137	fatty acid &beta;-oxidation III (unsaturated, odd number)	TAX-2
+PWY-5137		TAX-2157
+PWY-5137		TAX-2759
+PWY-699	brassinosteroid biosynthesis I	TAX-3193
+PHESYN	L-phenylalanine biosynthesis I	TAX-2157
+PHESYN		TAX-4751
+PHESYN		TAX-2
+PWY-5080	very long chain fatty acid biosynthesis I	TAX-2
+PWY-5080	VLCFAs biosynthesis I	TAX-2759
+PWY-7214	baicalein degradation (hydrogen peroxide detoxification)	TAX-33090
+PWY-6696	oxalate degradation III	TAX-2
+PWY-7172		TAX-58024
+PWY-6074	zymosterol biosynthesis	TAX-33154
+PWY-7206	pyrimidine deoxyribonucleotides dephosphorylation	TAX-2157
+PWY-7206		TAX-2
+PWY-7206		TAX-33208
+PWY-7206		TAX-33090
+PWY-7514	L-tyrosine degradation IV (to 4-methylphenol)	TAX-186801
+PWY-5178	toluene degradation IV (aerobic) (via catechol)	TAX-1224
+PWY0-1582	glycerol-3-phosphate to fumarate electron transfer	TAX-2
+PWY0-1582		TAX-2157
+PWY-7209	superpathway of pyrimidine ribonucleosides degradation	TAX-33208
+PWY-7209		TAX-2
+PWY-7209		TAX-2157
+PWY-1001	cellulose biosynthesis	TAX-2759
+PWY-1001		TAX-2
+PWY-5941	glycogen degradation II	TAX-2157
+PWY-5941	glycogenolysis II	TAX-2
+PWY-5941		TAX-33154
+PWY-6927	chlorophyll a degradation II	TAX-33090
+PWY-6780	hydrogen production VI	TAX-2
+PWY-6473	4-aminobutanoate degradation IV	TAX-33090
+PWY-6473	GABA metabolism during fruit ripening	
+HEMESYN2-PWY	heme biosynthesis II (anaerobic)	TAX-4751
+HEMESYN2-PWY		TAX-33630
+HEMESYN2-PWY		TAX-2
+PWY-7262	rose anthocyanin biosynthesis II (via cyanidin 3-O-&beta;-D-glucoside)	TAX-3744
+PWY-4521	arsenite oxidation I (respiratory)	TAX-2
+PWY-5723	Rubisco shunt	TAX-58024
+PWY-761	rhizobactin 1021 biosynthesis	TAX-1224
+PWY-7180	2'-deoxy-&alpha;-D-ribose 1-phosphate degradation	TAX-2
+PWY-7019	butirosin biosynthesis	TAX-2
+PWY-5198	factor 420 biosynthesis	TAX-2157
+PWY-5198	F420 biosynthesis	TAX-201174
+PWY-5198		TAX-1117
+SERSYN-PWY	L-serine biosynthesis	TAX-2157
+SERSYN-PWY		TAX-2759
+SERSYN-PWY		TAX-2
+PEPTIDOGLYCANSYN-PWY	peptidoglycan biosynthesis I (meso-diaminopimelate containing)	TAX-2
+PWY-5497	purine nucleobases degradation II (anaerobic)	TAX-1239
+PWY-5497	purine fermentation	
+PWY-5751	phenylethanol biosynthesis	TAX-33090
+PWY-5751	phenyacetaldehyde biosynthesis	TAX-131567
+PWY-5751	phenylacetaldehyde and phenylethanol biosynthesis	
+PWY66-4	cholesterol biosynthesis III (via desmosterol)	TAX-33208
+PWY-6657	polyhydroxydecanoate biosynthesis	TAX-2157
+PWY-6657	medium chain length polyhydroxyalkanoate biosynthesis	TAX-2
+PWY-7168		TAX-58024
+PWY-7347	sucrose biosynthesis III	TAX-32011
+PWY-7347		TAX-40222
+PWY-7347		TAX-429
+PWY-7347		TAX-39773
+FUC-RHAMCAT-PWY	superpathway of fucose and rhamnose degradation	TAX-2
+FUC-RHAMCAT-PWY	fucose and rhamnose catabolism	
+PWY-6019	pseudouridine degradation	TAX-2759
+PWY-6019		TAX-2
+PWY-7205	CMP phosphorylation	TAX-2759
+PWY-7205		TAX-2
+PWY-7205		TAX-2157
+PWY-7285	methylwyosine biosynthesis	TAX-2157
+PWY-6910	hydroxymethylpyrimidine salvage	TAX-33090
+PWY-6910	HMP salvage	TAX-4751
+PWY-6910		TAX-2157
+PWY-6910		TAX-2
+PWY-6583	pyruvate fermentation to butanol I	TAX-186801
+PWY-5957	L-nicotianamine biosynthesis	TAX-33090
+PWY-7234	inosine-5'-phosphate biosynthesis III	TAX-2157
+PWY-7234	IMP biosynthesis I	
+PWY-5049	rosmarinic acid biosynthesis II	TAX-58023
+PWY-6557	glycosaminoglycan-protein linkage region biosynthesis	TAX-33208
+PWY-6557	heparan sulfate biosynthesis (early stages)	
+PWY-6557	chondroitin sulfate biosynthesis (early stages)	
+PWY-6557	GAG-protein linkage region biosynthesis	
+PWY0-1587	N6-L-threonylcarbamoyladenosine37-modified tRNA biosynthesis	TAX-2759
+PWY0-1587		TAX-2
+PWY0-1587		TAX-2157
+PWY-5529	superpathway of bacteriochlorophyll a biosynthesis	TAX-191411
+PWY-5529		TAX-135613
+PWY-5529		TAX-204441
+PWY-5529		TAX-204455
+PWYG-321	mycolate biosynthesis	TAX-1762
+12DICHLORETHDEG-PWY	1,2-dichloroethane degradation	TAX-2
+PWY-6200	2,4,5-trichlorophenoxyacetate degradation	TAX-2
+PWY-6200	2,4,5-trichlorophenoxyacetic acid degradation	
+PWY-6200	2,4,5-T degradation	
+PWY-7839	lacto-series glycosphingolipids biosynthesis	TAX-33208
+PWY-7839	lactoglycosphingolipids biosynthesis	
+PWY-7513	flaviolin dimer and mompain biosynthesis	TAX-2
+PWY-3502	superpathway of NAD biosynthesis in eukaryotes	TAX-2759
+PWY-7659	viridicatumtoxin biosynthesis	TAX-4751
+PWY-5097	L-lysine biosynthesis VI	TAX-183939
+PWY-5097		TAX-183925
+PWY-5097		TAX-1783257
+PWY-5097		TAX-1117
+PWY-5097		TAX-3398
+PWY1-2	L-alanine degradation IV	TAX-2
+PWY1-2		TAX-2157
+QUINATEDEG-PWY	quinate degradation I	TAX-2
+MANNCAT-PWY	D-mannose degradation	TAX-2759
+MANNCAT-PWY	mannose degradation	TAX-2
+MANNCAT-PWY		TAX-2157
+PWY-6436	perillyl aldehyde biosynthesis	TAX-4136
+PWY-6277	superpathway of 5-aminoimidazole ribonucleotide biosynthesis	TAX-2
+P124-PWY	Bifidobacterium shunt	TAX-201174
+P124-PWY	Bifidum fermentation	
+P124-PWY	Bifidum pathway	
+P124-PWY	fructose-6-phosphate pathway	
+P124-PWY	Bifidum shunt	
+P124-PWY	glucose fermentation to lactate (Bifidobacteria)	
+PWY-5917	phycocyanobilin biosynthesis	TAX-1117
+PWY-6806	carotenoid cleavage	TAX-1117
+PWY-6806	apocarotenoid biosynthesis	TAX-33154
+PWY-6806		TAX-2763
+PWY-6806		TAX-33090
+PWY-7761	NAD salvage pathway II	TAX-2
+PWY-7761	PNC IV cycle	
+PWY-7455	allopregnanolone biosynthesis	TAX-40674
+PWY-6693	D-galactose degradation IV	TAX-4751
+PWY-7344	UDP-D-galactose biosynthesis	TAX-2759
+PWY-7344		TAX-2
+PWY-7344		TAX-2157
+PWY-6982	umbelliferone biosynthesis	TAX-33090
+PWY-7128	nicotine degradation III (VPP pathway)	TAX-2
+GLUTAMINEFUM-PWY	L-glutamine degradation II	TAX-2157
+GLUTAMINEFUM-PWY		TAX-2
+DHGLUCONATE-PYR-CAT-PWY	glucose degradation (oxidative)	TAX-2
+DHGLUCONATE-PYR-CAT-PWY	2-dehydro-D-gluconate pyruvate catabolism	
+DHGLUCONATE-PYR-CAT-PWY	2-dehydro-D-gluconate pyruvate degradation	
+DHGLUCONATE-PYR-CAT-PWY	2-dehydro-D-gluconate degradation	
+PWY-5053	superpathway of gibberellin GA12 biosynthesis	TAX-396
+PWY-5053		TAX-55087
+PWY-5053		TAX-192
+PWY-5053		TAX-193
+PWY-5053		TAX-434
+PWY-5053		TAX-49222
+PWY-5053		TAX-55067
+PWY-5053		TAX-5127
+PWY-5053		TAX-131221
+POLYAMSYN-PWY	superpathway of polyamine biosynthesis I	TAX-2
+POLYAMSYN-PWY	spermidine biosynthesis	
+POLYAMSYN-PWY	putrescine biosynthesis	
+POLYAMSYN-PWY	polyamine biosynthesis I	
+POLYAMSYN-PWY	aminopropylcadaverine biosynthesis	
+PWY-6338	superpathway of vanillin and vanillate degradation	TAX-2
+PWY-7194	pyrimidine nucleobases salvage II	TAX-4751
+PWY-7194	cytosine salvage	TAX-2157
+PWY-7194		TAX-2
+PWY0-1576	hydrogen to fumarate electron transfer	TAX-2
+PWY0-1576		TAX-2157
+PWY-6556	pyrimidine ribonucleosides salvage II	TAX-2157
+PWY-6556		TAX-4751
+PWY-6556		TAX-2
+PWY-6556		TAX-33090
+PWY-7013	L-1,2-propanediol degradation	TAX-2
+PWY-7013	propylene glycol degradation	
+PWY-5474	hydroxycinnamic acid tyramine amides biosynthesis	TAX-3193
+PWY-5474	hydroxycinnamic acid amides biosynthesis	
+PLPSAL-PWY	pyridoxal 5'-phosphate salvage I	TAX-33208
+PLPSAL-PWY	vitamin B6 salvage I	TAX-4751
+PLPSAL-PWY		TAX-2
+PLPSAL-PWY		TAX-33090
+PWY-6922	L-N&delta;-acetylornithine biosynthesis	TAX-4751
+PWY-6922	L-N-delta-acetylornithine biosynthesis	TAX-33208
+PWY-6922	N&delta;-acetyl-L-ornithine biosynthesis	TAX-33090
+PWY-6922	L-N5-acetylornithine biosynthesis	
+PWY-4702	phytate degradation I	TAX-33090
+UDPNAGSYN-PWY	UDP-N-acetyl-D-glucosamine biosynthesis I	TAX-33154
+UDPNAGSYN-PWY	UDP-N-acetyl-D-glucosamine biosynthesis	TAX-2157
+UDPNAGSYN-PWY		TAX-2
+PWY-5873	ubiquinol-7 biosynthesis (eukaryotic)	TAX-4751
+PWY-5873	ubiquinone-7 biosynthesis (eukaryotic)	
+PWY-6266	superpathway of flavones and derivatives biosynthesis	TAX-33090
+PWY3O-450	phosphatidylcholine biosynthesis I	TAX-2
+PWY3O-450	CDP-choline pathway	TAX-2759
+PWY3O-450	Kennedy pathway	
+PWY-7332	superpathway of UDP-N-acetylglucosamine-derived O-antigen building blocks biosynthesis	TAX-2
+PWY-6823	molybdenum cofactor biosynthesis	TAX-2157
+PWY-6823	moco biosynthesis	TAX-2
+PWY-6823	molybdopterin biosynthesis	TAX-2759
+PWY-6958	icosapentaenoate biosynthesis I (lower eukaryotes)	TAX-3041
+PWY-6958	eicosapentaenoate biosynthesis I (lower eukaryotes)	TAX-3208
+PWY-7619	juniperonate biosynthesis	TAX-2759
+PWY-7619	5,11,14,17-icosatetraenoic acid biosynthesis	
+PWY-7619	5,11,14,17-icosatetraenoate biosynthesis	
+PWY-7619	juniperonic acid biosynthesis	
+PWY-6619	adenine and adenosine salvage VI	TAX-2759
+PWY-6619		TAX-2
+PWY-6619		TAX-2157
+PWY-1501	mandelate degradation I	TAX-1224
+PWY-5177	glutaryl-CoA degradation	TAX-33208
+PWY-5177		TAX-4751
+PWY-5177		TAX-2
+PWY-2055	superpathway of pterocarpan biosynthesis (via daidzein)	TAX-3803
+PWY-6182	superpathway of salicylate degradation	TAX-2
+PWY-7571	ferrichrome A biosynthesis	TAX-4751
+PWY-6766	salicin biosynthesis	TAX-40685
+PWY-6766		TAX-3689
+PWY-5661	GDP-glucose biosynthesis	TAX-2759
+PWY-5661		TAX-2
+PWY-5661		TAX-2157
+PWY-6664	di-myo-inositol phosphate biosynthesis	TAX-2
+PWY-6664		TAX-2157
+PWY-7426	mannosyl-glycoprotein N-acetylglucosaminyltransferases	TAX-2759
+GLYCOL-GLYOXDEG-PWY	superpathway of glycol metabolism and degradation	TAX-2
+PWY-6339	syringate degradation	TAX-2
+PWY-6287	neurosporene biosynthesis	TAX-2
+TYRSYN	L-tyrosine biosynthesis I	TAX-4751
+TYRSYN		TAX-33090
+TYRSYN		TAX-2
+TYRSYN		TAX-2157
+PWY-6232	chrysoeriol biosynthesis	TAX-33090
+PWY-6232	3'-O-Methylluteolin biosynthesis	
+PWY-6232	5,7,4'-trihydroxy-3'-methoxyflavone biosynthesis	
+PROPFERM-PWY	L-alanine fermentation to propanoate and acetate	TAX-1239
+PROPFERM-PWY	propionate fermentation, nonrandomizing pathway	
+PROPFERM-PWY	acrylate pathway	
+PROPFERM-PWY	propionate fermentation	
+PROPFERM-PWY	L-alanine fermentation to propionate and acetate	
+TRNA-CHARGING-PWY	tRNA charging	TAX-2759
+TRNA-CHARGING-PWY		TAX-2
+TRNA-CHARGING-PWY		TAX-2157
+PWY-6121	5-aminoimidazole ribonucleotide biosynthesis I	TAX-2
+PWY-6121		TAX-2759
+PWY-3561	choline biosynthesis III	TAX-2157
+PWY-3561		TAX-2
+PWY-3561		TAX-2759
+PWY-7328	superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis	TAX-2
+PWY-7414	dTDP-&alpha;-D-mycaminose biosynthesis	TAX-1883
+PWY-5826	hypoglycin biosynthesis	TAX-3193
+PWY-7229	superpathway of adenosine nucleotides de novo biosynthesis I	TAX-2759
+PWY-7229		TAX-2157
+PWY-7229		TAX-2
+PWY-6898	thiamine salvage III	TAX-4751
+PWY-6898	thiamin salvage III	TAX-2157
+PWY-6898		TAX-2
+PWY-7338	10-trans-heptadecenoyl-CoA degradation (reductase-dependent, yeast)	TAX-4751
+GLYSYN-PWY	glycine biosynthesis I	TAX-2
+GLYSYN-PWY		TAX-2759
+ARG-PRO-PWY	L-arginine degradation VI (arginase 2 pathway)	TAX-33090
+ARG-PRO-PWY	L-proline biosynthesis from arginine	TAX-1117
+ARG-PRO-PWY		TAX-4751
+NADSYN-PWY	NAD biosynthesis II (from tryptophan)	TAX-2759
+NADSYN-PWY	nicotinamide adenine dinucleotide biosynthesis	TAX-2
+PWY-6605	adenine and adenosine salvage II	TAX-2759
+PWY-6605	adenosine nucleosides salvage II	TAX-2
+PWY-7303	3-dimethylallyl-4-hydroxybenzoate biosynthesis	TAX-2062
+PWY-7279	aerobic respiration II (cytochrome c) (yeast)	TAX-4751
+HSERMETANA-PWY	L-methionine biosynthesis III	TAX-4751
+HSERMETANA-PWY	L-methionine biosynthesis by sulfhydrylation	TAX-2
+PWY-7159	3,8-divinyl-chlorophyllide a biosynthesis III (aerobic, light independent)	TAX-241806
+PWY-7159	light-independent aerobic 3,8-divinyl-chlorophyllide a biosynthesis	TAX-2
+PWY-7159		TAX-1117
+PWY-7159		TAX-3041
+PWY-7159		TAX-3312
+PWY-7159		TAX-3208
+PWY0-1321	nitrate reduction III (dissimilatory)	TAX-2
+PWY0-1321	formate to nitrate electron transfer	
+GLUTATHIONESYN-PWY	glutathione biosynthesis	TAX-2
+GLUTATHIONESYN-PWY		TAX-2759
+PWY-6109	mangrove triterpenoid biosynthesis	TAX-40029
+PWY-6109	taraxerol biosynthesis	
+PWY-6109	germanicol biosynthesis	
+PWY-7498	phenylpropanoids methylation (ice plant)	TAX-33090
+PWY-7072	hopanoid biosynthesis (bacteria)	TAX-2
+PWY-6767	4,4'-diapolycopenedioate biosynthesis	TAX-2
+PWY-7377	cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion)	TAX-2157
+PWY-7377		TAX-2
+PWY-6455	vancomycin resistance II	TAX-2
+PWY-6455	D-ala-D-serine biosynthesis	
+PWY-5815	rubber biosynthesis	TAX-33090
+PWY-7437	protein O-[N-acetyl]-glucosylation	TAX-2759
+GLUTAMATE-DEG1-PWY	L-glutamate degradation I	TAX-2759
+GLUTAMATE-DEG1-PWY	GDH shunt	TAX-2157
+GLUTAMATE-DEG1-PWY		TAX-2
+PWY-6323	benzoylanthranilate biosynthesis	TAX-3568
+PWY-6323	dianthalexins biosynthesis	TAX-3569
+PWY-6323	N-benzoyl-4-methoxyanthranilic acid biosynthesis	
+PWY4FS-6	phosphatidylethanolamine biosynthesis II	TAX-2759
+PWY4FS-6	Kennedy pathway	
+PWY0-1585	formate to nitrite electron transfer	
+PWY0-1568	NADH to cytochrome bd oxidase electron transfer II	TAX-2
+PWY0-1568		TAX-2157
+PWY-6118	glycerol-3-phosphate shuttle	TAX-2759
+PWY-6118	G3P shuttle	
+PWY-6118	glycerol-3-P shuttle	
+PWY-6577	farnesylcysteine salvage pathway	TAX-33090
+PWY-6577	farnesylcysteine detoxification pathway	
+PWY-6577	(E,E)-farnesyl diphosphate biosynthesis II	
+PWY-6577	all trans-farnesyl diphosphate biosynthesis II	
+PWY-6577	farnesylcysteine from farnesylated protein salvage pathway	
+PWY-7815	poly(ribitol phosphate) wall teichoic acid biosynthesis I (B. subtilis)	TAX-1239
+PWY-7815	ribitol teichoic acid biosynthesis	
+PWY-7184	pyrimidine deoxyribonucleotides de novo biosynthesis I	TAX-2157
+PWY-7184		TAX-2759
+PWY-7184		TAX-2
+PWY-3982	uracil degradation I (reductive)	TAX-2157
+PWY-3982	&beta;-alanine biosynthesis	TAX-300275
+PWY-3982		TAX-2
+PWY-3982		TAX-33090
+PWY-3982		TAX-40674
+PWY-5353	arachidonate biosynthesis I (6-desaturase, lower eukaryotes)	TAX-4751
+PWY-5353	arachidonic acid biosynthesis I (lower eukaryotes)	TAX-3041
+PWY-5353		TAX-3208
+PWY-2724	alkane oxidation	TAX-3193
+PWY-2724	fatty acid &omega;-oxidation	TAX-4751
+PWY-5109	2-methylbutanoate biosynthesis	TAX-33208
+PWY-5109	2-methylbutyrate biosynthesis	
+PWY-7511	protein ubiquitylation	TAX-2759
+PWY-7267	anthocyanin biosynthesis (pelargonidin 3-O-glucoside)	TAX-58024
+PWY-6372	1D-myo-inositol hexakisphosphate biosynthesis IV (Dictyostelium)	TAX-33083
+PWY-6372	lipid-independent phytic acid biosynthesis	
+PWY-6372	lipid-independent InsP6 biosynthesis	
+PWY-6372	lipid-independent phytate biosynthesis	
+PWY-6372	1D-myo-inositol hexakisphosphate biosynthesis (lipid-independent)	
+PWY-6372	phytate biosynthesis	
+PWY-7204	pyridoxal 5'-phosphate salvage II (plants)	TAX-33090
+PWY-7204	vitamin B6 salvage (plants)	
+PWY-7211	superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis	TAX-2759
+PWY-7211		TAX-2
+PWY-7211		TAX-2157
+PWY-7602	icosapentaenoate biosynthesis V (8-desaturase, lower eukaryotes)	TAX-33682
+PWY-7602		TAX-2830
+PWY-2582	brassinosteroid biosynthesis II	TAX-3193
+PWY-7174	S-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation II	TAX-2
+PWY-5989	stearate biosynthesis II (bacteria and plants)	TAX-33090
+PWY-5989	stearic acid biosynthesis	TAX-2
+PWY-6443	benzoate biosynthesis I (CoA-dependent, &beta;-oxidative)	TAX-3193
+PWY-6443	benzoic acid biosynthesis	
+PWY-5690	TCA cycle II (plants and fungi)	TAX-4751
+PWY-5690	TCA cycle -- aerobic respiration	TAX-33090
+PWY-5690	tricarboxylic acid cycle	
+PWY-5690	citric acid cycle	
+PWY-5690	Szent-Gyorgyi-Krebs cycle	
+PWY-5690	Krebs cycle	
+P42-PWY	incomplete reductive TCA cycle	TAX-224756
+P42-PWY	citric acid cycle variant	TAX-183939
+P42-PWY	tricarboxylic acid cycle variant	TAX-183925
+P42-PWY	TCA cycle variation I	
+P42-PWY	incomplete reductive tricarboxylic acid cycle	
+PWY0-162	superpathway of pyrimidine ribonucleotides de novo biosynthesis	TAX-2759
+PWY0-162	pyrimidine biosynthesis	TAX-2
+PWY-7387	hypotaurine degradation	TAX-2
+TEICHOICACID-PWY	poly(glycerol phosphate) wall teichoic acid biosynthesis	TAX-1239
+TEICHOICACID-PWY	major teichoic acid biosynthesis	
+TEICHOICACID-PWY	glycerol teichoic acid biosynthesis	
+PWY-5336	carbon disulfide oxidation II (aerobic)	TAX-40674
+PWY-5336	carbon disulphide oxidation	TAX-2
+PWY-7410	ipsdienol biosynthesis	TAX-50557
+PWY66-301	catecholamine biosynthesis	TAX-33208
+PWY66-301	dopamine biosynthesis	
+PWY66-301	noradrenaline biosynthesis	
+PWY66-301	adrenaline biosynthesis	
+PWY-5268	salvianin biosynthesis	TAX-3398
+PWY-5320	kaempferol glycoside biosynthesis (Arabidopsis)	TAX-3700
+BETSYN-PWY	glycine betaine biosynthesis I (Gram-negative bacteria)	TAX-1224
+TRPCAT-PWY	L-tryptophan degradation I (via anthranilate)	TAX-2
+TRPCAT-PWY	anthranilate pathway	
+PWY-6907	thiamine diphosphate biosynthesis III (Staphylococcus)	TAX-2
+PWY-6907	vitamin B1 biosynthesis III	
+PWY-6907	thiamin diphosphate biosynthesis III (Staphylococcus)	
+PWY-6342	noradrenaline and adrenaline degradation	TAX-7742
+PWY-6342	norepinephrine and epinephrine degradation	
+PWY-641	proanthocyanidins biosynthesis from flavanols	TAX-58023
+PWY-7339	10-trans-heptadecenoyl-CoA degradation (MFE-dependent, yeast)	TAX-4751
+PWY-7110	superpathway of megalomicin A biosynthesis	TAX-2
+P261-PWY	coenzyme M biosynthesis I	TAX-1224
+P261-PWY	CoM biosythesis	TAX-183988
+P261-PWY	2-mercaptoethanesulfonic acid biosynthesis	TAX-224756
+P261-PWY		TAX-183939
+P261-PWY		TAX-183925
+PWY3O-4106	NAD salvage pathway IV	TAX-33208
+PWY3O-4106	nicotinamide riboside salvage pathway	TAX-4751
+PWY3O-4106	nicotinamide adenine dinucleotide salvage	TAX-2
+PANTO-PWY	phosphopantothenate biosynthesis I	TAX-4751
+PANTO-PWY	vitamin B5 biosynthesis	TAX-33090
+PANTO-PWY		TAX-2
+PWY-6703	preQ0 biosynthesis	TAX-2
+PWY-6703	deazapurine biosynthesis	
+GLYCOCAT-PWY	glycogen degradation I	TAX-2
+GLYCOCAT-PWY	glycogen catabolism I	
+PWY0-1264	biotin-carboxyl carrier protein assembly	TAX-33090
+PWY0-1264	BCCP assembly	TAX-2
+GLUCUROCAT-PWY	superpathway of &beta;-D-glucuronide and D-glucuronate degradation	TAX-2
+GLUCUROCAT-PWY	D-glucuronate catabolism	
+GLUCUROCAT-PWY	D-glucuronate degradation	
+GLUCUROCAT-PWY	glucuronic acid degradation	
+GLUCUROCAT-PWY	glucuronate degradation	
+GLUCUROCAT-PWY	&beta;-D-glucuronide degradation	
+PWY-7520	terrequinone A biosynthesis	TAX-4890
+PWY-7520		TAX-4751
+PWY-7178	ethylene glycol biosynthesis (engineered)	TAX-1224
+PWY-5096	pyruvate fermentation to acetate and alanine	TAX-554915
+PWY-5096	modified Embden-Meyerhof pathway	TAX-2157
+PWY-5096	anaerobic glycolysis	
+PWY-5096	fermentation	
+PWY-5096	glycolysis 2	
+PWY-5096	Embden-Meyerhof-Parnas pathway	
+PWY-5096	EMP pathway	
+PWY-5096	glycolysis II	
+ASPARTATESYN-PWY	L-aspartate biosynthesis	TAX-2157
+ASPARTATESYN-PWY	L-aspartate biosynthesis and degradation	TAX-2759
+ASPARTATESYN-PWY		TAX-2
+PWY-5340	sulfate activation for sulfonation	TAX-2759
+PWY-5340	sulfation pathway	TAX-2
+PWY-5025	indole-3-acetate biosynthesis IV (bacteria)	TAX-1224
+PWY-5025	IAA biosynthesis IV (bacteria)	
+PWY-7275	L-homophenylalanine biosynthesis	TAX-2
+PWY-6176	superpathway of Allium flavor precursors	TAX-40553
+PWY-6176		TAX-131567
+PWY-7197	pyrimidine deoxyribonucleotide phosphorylation	TAX-2759
+PWY-7197		TAX-2
+PWY-7197		TAX-2157
+DTDPRHAMSYN-PWY	dTDP-L-rhamnose biosynthesis I	TAX-2157
+DTDPRHAMSYN-PWY		TAX-2
+PWY-5530	sorbitol biosynthesis II	TAX-1224
+PWY0-1298	superpathway of pyrimidine deoxyribonucleosides degradation	TAX-2
+PWY-5532	nucleoside and nucleotide degradation (archaea)	TAX-2157
+PWY-5427	naphthalene degradation (aerobic)	TAX-2
+PWY-6483	ceramide degradation	TAX-33090
+PWY-6483		TAX-33154
+PWYDQC-4	indole-3-acetate biosynthesis I	TAX-33090
+PWYDQC-4	auxin biosynthesis	
+PWYDQC-4	IPA auxin biosynthesis	
+PWYDQC-4	IAA biosynthesis I	
+PWY-6754	S-methyl-5'-thioadenosine degradation I	TAX-2157
+PWY-6754		TAX-2
+PWY-6754		TAX-3193
+LACTOSEUTIL-PWY	lactose degradation II	TAX-1224
+LACTOSEUTIL-PWY	lactose degradation 2	
+PWY-5153	anthocyanin biosynthesis (delphinidin 3-O-glucoside)	TAX-58024
+PWY-1722	formate assimilation into 5,10-methylenetetrahydrofolate	TAX-2759
+PWY-1722		TAX-2157
+PWY-1722		TAX-2
+PWY-5823	superpathway of CDP-glucose-derived O-antigen building blocks biosynthesis	TAX-91347
+PWY-5823	superpathway of CDP-3,6-dideoxyhexose biosynthesis	
+PWY-7824	prunasin and amygdalin biosynthesis	TAX-3745
+PWY-5172	acetyl-CoA biosynthesis III (from citrate)	TAX-7742
+PWY-5172		TAX-3193
+PWY-722	nicotinate degradation I	TAX-1224
+PWY-722	maleamate pathway	
+PWY-722	nicotinate degradation	
+PWY-4302	aerobic respiration III (alternative oxidase pathway)	TAX-33682
+PWY-4302	alternative oxidase pathway	TAX-4751
+PWY-4302		TAX-33090
+P345-PWY	aldoxime degradation	TAX-4751
+P345-PWY	aldoxime metabolism	TAX-2
+P161-PWY	acetylene degradation	TAX-2
+P161-PWY	acetylene fermentation	
+PWY-6830	superpathway of methanogenesis	TAX-28890
+PWY-6383	mono-trans, poly-cis decaprenyl phosphate biosynthesis	TAX-1762
+PWY-5151	L-tyrosine degradation II	TAX-1239
+PWY-5151		TAX-201174
+PWY-7286	7-(3-amino-3-carboxypropyl)-wyosine biosynthesis	TAX-28890
+PWY-7286	yW-72 biosynthesis	
+PWY-5183	superpathway of aerobic toluene degradation	TAX-1224
+PWY-5078	L-isoleucine degradation II	TAX-4751
+PWY-5078	Ehrlich pathway	
+PWY-6453	stigma estolide biosynthesis	TAX-4070
+PWY-5461	betanidin degradation	TAX-3524
+PWY-7164	chlorophyll a degradation III	TAX-3041
+GLUTDEG-PWY	L-glutamate degradation II	TAX-2
+GLUTDEG-PWY	L-aspartate degradation	
+PWY-6284	superpathway of unsaturated fatty acids biosynthesis (E. coli)	TAX-2
+PWY-7394	urate degradation to allantoin II	TAX-2
+PWY-5482	pyruvate fermentation to acetate II	TAX-2
+PWY-5154	L-arginine biosynthesis III (via N-acetyl-L-citrulline)	TAX-2
+URSIN-PWY	ureide biosynthesis	TAX-3803
+URSIN-PWY	ureide biogenesis	
+PWY-6594	superpathway of Clostridium acetobutylicum solventogenic fermentation	TAX-1239
+PWY-6594	acetobutylicum solventogenic fermentation	
+P23-PWY	reductive TCA cycle I	TAX-3052
+P23-PWY	reductive tricarboxylic acid cycle	TAX-1224
+P23-PWY	reductive tricarboxylic acid pathway	TAX-2157
+P23-PWY	reductive citric acid cycle	TAX-68336
+P23-PWY	reverse citric acid cycle	TAX-200783
+P23-PWY	carbon fixation	
+P23-PWY	CO2 fixation	
+P23-PWY	reductive carboxylic acid cycle	
+DENITRIFICATION-PWY	nitrate reduction I (denitrification)	TAX-4751
+DENITRIFICATION-PWY	denitrification	TAX-2157
+DENITRIFICATION-PWY	nitrate respiration	TAX-2
+PWY-5189	tetrapyrrole biosynthesis II (from glycine)	TAX-1883
+PWY-5189		TAX-33682
+PWY-5189		TAX-33630
+PWY-5189		TAX-1224
+PWY-5189		TAX-33208
+PWY-5189		TAX-4751
+PWY-6012-1	acyl carrier protein activation	TAX-2157
+PWY-6012-1	[acp] metabolism	TAX-2759
+PWY-6012-1	ACP metabolism	
+PWY-6466	pyridoxal 5'-phosphate biosynthesis II	TAX-33090
+PWY-6466	vitamin B6 biosynthesis	TAX-4751
+PWY-6466		TAX-2157
+PWY-6466		TAX-2
+PWY-7082	ammonia oxidation IV (autotrophic ammonia oxidizers)	TAX-914
+PWY-7082		TAX-1227
+PWY-7082		TAX-35798
+PWY-6039	chlorogenic acid biosynthesis I	TAX-33090
+PWY-6039		TAX-24966
+PWY-7165	L-ascorbate biosynthesis VI (engineered pathway)	TAX-2
+PWY-6122	5-aminoimidazole ribonucleotide biosynthesis II	TAX-2157
+PWY-6122		TAX-2
+PWY-7153	grixazone biosynthesis	TAX-1760
+PWY-6609	adenine and adenosine salvage III	TAX-2157
+PWY-6609	adenosine nucleotides salvage III	TAX-2759
+PWY-6609		TAX-2
+PWY-7308	acrylonitrile degradation I	TAX-1224
+PWY-7308		TAX-201174
+PWY-5271	phaseic acid biosynthesis	TAX-3398
+PWY-5271	abscisate degradation I	
+PWY-5271	abscisic acid degradation I	
+PWY-5271	ABA hydroxylation pathway	
+PWY-5271	abscisic acid hydroxylation pathway	
+PWY-5271	8'-hydroxylation pathway	
+PWY-6333	acetaldehyde biosynthesis I	TAX-33090
+PWY-6333	anoxic acetaldehyde biosynthesis	
+PWY-6333	flooding related acetaldehyde biosynthesis	
+ORNARGDEG-PWY	superpathway of L-arginine and L-ornithine degradation	TAX-2
+ASPARTATE-DEG1-PWY	L-aspartate degradation I	TAX-2759
+ASPARTATE-DEG1-PWY		TAX-2157
+ASPARTATE-DEG1-PWY		TAX-2
+PWY-5173	superpathway of acetyl-CoA biosynthesis	TAX-3398
+PWY-6630	superpathway of L-tyrosine biosynthesis	TAX-2
+PWY-7535	lovastatin biosynthesis	TAX-4751
+HEME-BIOSYNTHESIS-II	heme biosynthesis I (aerobic)	TAX-2
+HEME-BIOSYNTHESIS-II		TAX-2759
+P162-PWY	L-glutamate degradation V (via hydroxyglutarate)	TAX-1239
+P162-PWY	L-glutamate fermentation	TAX-32066
+PWYQT-4429	CO2 fixation into oxaloacetate (anaplerotic)	TAX-1117
+PWYQT-4429		TAX-2157
+PWYQT-4429		TAX-33090
+PWY-6787	flavonoid biosynthesis (in equisetum)	TAX-33090
+PWY-6787		TAX-3257
+PWY-7379	mRNA capping II	TAX-10239
+PWY-7379		TAX-33208
+PWY-6366	D-myo-inositol (1,4,5,6)-tetrakisphosphate biosynthesis	TAX-2759
+PWY-6785	hydrogen production VIII	TAX-3041
+PWY-6785	photosynthetic hydrogen generation	TAX-1117
+PWY-1121	suberin monomers biosynthesis	TAX-58023
+PWY-6649	glycolate and glyoxylate degradation III	TAX-2
+PWY-6649	3-hydroxyaspartate pathway	
+PWY-6649	&beta;-hydroxyaspartate pathway	
+PWY-31	canavanine degradation	TAX-3803
+PWY-5531	3,8-divinyl-chlorophyllide a biosynthesis II (anaerobic)	TAX-2
+PWY-7661	protein N-glycosylation (Haloferax volcanii)	TAX-2157
+PWY-6942	dTDP-D-desosamine biosynthesis	TAX-2
+PWY-7800	Ac/N-end rule pathway	TAX-2759
+PWY-7800	N-Terminal acetylation-targeted N-End Rule pathway	
+ACETATEUTIL-PWY	superpathway of acetate utilization and formation	TAX-2
+ACETATEUTIL-PWY		TAX-2157
+P303-PWY	ammonia oxidation II (anaerobic)	TAX-203682
+P303-PWY	anammox	
+P303-PWY	ammonium oxidation (anaerobic)	
+P303-PWY	anaerobic ammonium oxidation	
+PWY-6857	retinol biosynthesis	TAX-33208
+PWY-6857	vitamin A biosynthesis	
+PWY-6857	retinal biosynthesis	
+PWY-6857	retinoid biosynthesis	
+PWY-6773	1,3-&beta;-D-glucan biosynthesis	TAX-2759
+PWY-6773	callose biosynthesis	TAX-2157
+PWY-6773		TAX-2
+TOLUENE-DEG-DIOL-PWY	toluene degradation to 2-oxopent-4-enoate (via toluene-cis-diol)	TAX-1224
+TOLUENE-DEG-DIOL-PWY	toluene degradation via toluene-cis-diol	
+PWY-7111	pyruvate fermentation to isobutanol (engineered)	TAX-2157
+PWY-7111	isobutanol biosynthesis	TAX-2759
+PWY-7111		TAX-2
+PWYQT-4427	sulfoquinovosyl diacylglycerol biosynthesis	TAX-2
+PWYQT-4427	SQDG biosynthesis	TAX-33634
+PWYQT-4427		TAX-2763
+PWYQT-4427		TAX-33090
+PWY-4061	glutathione-mediated detoxification I	TAX-33154
+PWY-5046	2-oxoisovalerate decarboxylation to isobutanoyl-CoA	TAX-2759
+PWY-5046	2-oxo acid dehydrogenase complex	TAX-2
+PWY-5046	branched-chain &alpha;-keto acid dehydrogenase complex	TAX-2157
+PWY-5676	acetyl-CoA fermentation to butanoate II	TAX-1239
+PWY-7664	oleate biosynthesis IV (anaerobic)	TAX-2
+PWY-7664	cis-7-hexadecenoate biosynthesis	
+PWY-7664	cis-9-octadecenoate biosynthesis	
+PWY-7664	(7Z)-hexadec-7-enoate biosynthesis	
+PWY-7664	(9Z)-octadec-9-enoate biosynthesis	
+PWY-7664	(7Z)-hexadecenoate biosynthesis	
+PWY-7664	(9Z)-octadecenoate biosynthesis	
+PWY-1801	formaldehyde oxidation II (glutathione-dependent)	TAX-2759
+PWY-1801	formaldehyde oxidation II (GSH-dependent)	TAX-2
+PWY-1186	L-homomethionine biosynthesis	TAX-3699
+PWY-1186	L-methionine chain elongation pathway	
+PWY-5425	oleoresin sesquiterpene volatiles biosynthesis	TAX-3313
+PWY-7420	monoacylglycerol metabolism (yeast)	TAX-2759
+TRESYN-PWY	trehalose biosynthesis I	TAX-6656
+TRESYN-PWY	trehalose biosynthesis	TAX-2
+TRESYN-PWY		TAX-4751
+PWY-6105	botryococcenes and methylated squalene biosynthesis	TAX-38879
+PWY-6105	botryococcene hydrocarbon biosynthesis	
+PWY0-661	PRPP biosynthesis II	TAX-2
+PWY0-661	5-phosphoribosyl 1-pyrophosphate biosynthesis	
+PWY-5525	D-glucuronate degradation I	TAX-7742
+PWY-5525	pentose pathway	
+PWY-5525	glucuronic acid oxidation pathway	
+PWY-5525	glucuronate/xylulose pathway	
+PWY-5525	glucuronate degradation	
+PWY-5800	xylan biosynthesis	TAX-33090
+PWY-7438	superpathway of dTDP-glucose-derived antibiotic building blocks biosynthesis	TAX-2037
+PWY-6035	2,3-cis-flavanols biosynthesis	TAX-33090
+PWY-6035	2,3-cis-flavan-3-ols biosynthesis	
+PWY-381	nitrate reduction II (assimilatory)	TAX-33090
+PWY-381	nitrate assimilation	TAX-2763
+PWY-7717	3-hydroxy-4-methyl-anthranilate biosynthesis I	TAX-85011
+PWY-7717	3-hydroxy-4-methyl-anthranilic acid biosynthesis I	
+PWY-7601	arachidonate biosynthesis IV (8-detaturase, lower eukaryotes)	TAX-2759
+PWY-7466	acetone degradation III (to propane-1,2-diol)	TAX-40674
+PWY-723	alkylnitronates degradation	TAX-4751
+PWY-723	2-nitropropane degradation	
+TRIGLSYN-PWY	diacylglycerol and triacylglycerol biosynthesis	TAX-2759
+TRIGLSYN-PWY	triglyceride biosynthesis	
+TRIGLSYN-PWY	Kennedy pathway	
+TRIGLSYN-PWY	TAG biosynthesis	
+PWY-7196	superpathway of pyrimidine ribonucleosides salvage	TAX-2157
+PWY-7196		TAX-4751
+PWY-7196		TAX-2
+PWY-7196		TAX-33090
+PWY-5033	nicotinate degradation II	TAX-1239
+PWY-5067	glycogen biosynthesis II (from UDP-D-Glucose)	TAX-4751
+PWY-5067		TAX-33208
+PWY-6943	testosterone and androsterone degradation to androstendione	TAX-2
+PWY-6943	testosterone and androsterone degradation to androst-4-en-3,17-dione	
+PHOTOALL-PWY	oxygenic photosynthesis	TAX-38254
+PHOTOALL-PWY	C3 photosynthesis	TAX-2830
+PHOTOALL-PWY		TAX-543769
+PHOTOALL-PWY		TAX-33634
+PHOTOALL-PWY		TAX-3027
+PHOTOALL-PWY		TAX-33682
+PHOTOALL-PWY		TAX-2763
+PHOTOALL-PWY		TAX-1117
+PHOTOALL-PWY		TAX-33090
+POLYAMINSYN3-PWY	superpathway of polyamine biosynthesis II	TAX-2759
+POLYAMINSYN3-PWY	polyamn	TAX-2
+PWY-6622	heptadecane biosynthesis	TAX-33090
+PWY-6622	alkane biosynthesis	TAX-4751
+PWY-6622		TAX-2
+PWY-6491	D-galacturonate degradation III	TAX-4751
+PWY-7832	biosynthesis of ABH and Lewis epitopes from type 1 precursor disaccharide	TAX-33208
+PWY-7821	tunicamycin biosynthesis	TAX-2
+PWY-5994	palmitate biosynthesis I (animals and fungi)	TAX-33154
+PWY-5994	palmitic acid biosynthesis	
+PWY-5994	de novo lipogenesis	
+PWY-5196	factor 430 biosynthesis	TAX-224756
+PWY-5196	F430 biosynthesis	TAX-183939
+PWY-5196		TAX-183925
+PWY-7036	very long chain fatty acid biosynthesis II	TAX-2759
+PWY-7036	cerotate biosynthesis	TAX-2
+PWY-7036	hexacosanoate biosynthesis	
+PWY-4242	pantothenate and coenzyme A biosynthesis III	TAX-33090
+GLUTSYN-PWY	L-glutamate biosynthesis I	TAX-33090
+GLUTSYN-PWY		TAX-4751
+GLUTSYN-PWY		TAX-2
+GLUTSYN-PWY		TAX-2157
+PWY-5508	adenosylcobalamin biosynthesis from cobyrinate a,c-diamide II	TAX-2
+PWY-5508		TAX-2157
+PWY-5156	superpathway of fatty acid biosynthesis II (plant)	TAX-33090
+PWY-4861	UDP-D-galacturonate biosynthesis I (from UDP-D-glucuronate)	TAX-2
+PWY-4861	UDP-galacturonic acid biosynthesis	TAX-3193
+PWY-4861	UDP-GalA biosynthesis	
+PWY0-1275	lipoate biosynthesis and incorporation II	TAX-4751
+PWY0-1275		TAX-2
+LYXMET-PWY	L-lyxose degradation	TAX-2
+LYXMET-PWY	L-lyxose metabolism	
+PWY-5910	superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	TAX-2759
+PWY-5910	GGPP biosynthesis	TAX-2
+PWY-7433	mucin core 1 and core 2 O-glycosylation	TAX-33208
+PWY0-1356	formate to dimethyl sulfoxide electron transfer	TAX-2
+PWY0-1329	succinate to cytochrome bo oxidase electron transfer	TAX-2
+GLYSYN-ALA-PWY	glycine biosynthesis III	TAX-2
+GLYSYN-ALA-PWY		TAX-2157
+GLYSYN-ALA-PWY		TAX-2759
+PWY0-1584	nitrate reduction X (dissimilatory, periplasmic)	TAX-2157
+PWY0-1584	periplasmic glycerol-3-phosphate to nitrate electron transfer	TAX-2
+PWY-6683	sulfate reduction III (assimilatory)	TAX-2
+PWY-6683	sulfur metabolism	
+PWY-6683	sulfur assimilation	
+PWY-2501	fatty acid &alpha;-oxidation I	TAX-3193
+PWY-2501	fatty acid &alpha;-oxidation	
+PWY-6737	starch degradation V	TAX-2157
+PWY-5179	toluene degradation V (aerobic) (via toluene-cis-diol)	TAX-1224
+ENTNER-DOUDOROFF-PWY	Entner-Doudoroff pathway I	TAX-2759
+ENTNER-DOUDOROFF-PWY	ED pathway	TAX-2
+PWY-6618	guanine and guanosine salvage III	TAX-2157
+PWY-6618		TAX-33090
+PWY-6618		TAX-2
+PWY3DJ-12	ceramide de novo biosynthesis	TAX-2759
+PWY-5197	lactate biosynthesis (archaea)	TAX-2
+PWY-5197		TAX-183988
+PWY-5197		TAX-224756
+PWY-5197		TAX-183939
+PWY-5197		TAX-183925
+PWY-2942	L-lysine biosynthesis III	TAX-2
+PWY-6906	chitin derivatives degradation	TAX-641
+PWY-7367	phosphatidylcholine resynthesis via glycerophosphocholine	TAX-2
+PWY-7367		TAX-2759
+PWY-6367	D-myo-inositol-5-phosphate metabolism	TAX-2759
+PWY-2301	myo-inositol biosynthesis	TAX-2759
+PWY-2301		TAX-2
+PWY-2301		TAX-2157
+PWY-6596	adenosine nucleotides degradation I	TAX-3193
+PWY-6596	purine nucleotide catabolism	
+PWY-7219	adenosine ribonucleotides de novo biosynthesis	TAX-2759
+PWY-7219		TAX-2157
+PWY-7219		TAX-2
+PWY-6974	dTDP-L-olivose biosynthesis	TAX-2
+PWY-6673	caffeoylglucarate biosynthesis	TAX-33090
+PWY-5084	2-oxoglutarate decarboxylation to succinyl-CoA	TAX-2759
+PWY-5084	2-oxoglutarate dehydrogenase complex	TAX-2
+PWY-5084	2-ketoglutarate dehydrogenase complex	TAX-2157
+PWY-6555	superpathway of 1D-myo-inositol hexakisphosphate biosynthesis (plants)	TAX-33090
+PWY-6555	phytate biosynthesis	
+PWY-5768	pyruvate fermentation to acetate VIII	TAX-4751
+PWY-5672	ginsenosides biosynthesis	TAX-4036
+PWY-5672	ginseng biosynthesis	
+PWY-7833	biosynthesis of Lewis epitopes (H. pylori)	TAX-1224
+PWY-6142	gluconeogenesis II (Methanobacterium thermoautotrophicum)	TAX-2157
+PWY-6142	carbohydrate biosynthesis (Methanobacterium thermoautotrophicum)	
+PWY-6808	dTDP-D-forosamine biosynthesis	TAX-201174
+PWY-6808	TDP-D-forosamine biosynthesis	
+GDPRHAMSYN-PWY	GDP-D-rhamnose biosynthesis	TAX-1239
+GDPRHAMSYN-PWY	GDP-&alpha;-D-rhamnose biosynthesis	TAX-1224
+PWY-5103	L-isoleucine biosynthesis III	TAX-1224
+PWY-3221	dTDP-L-rhamnose biosynthesis II	TAX-3398
+PWY-5301	ajmaline and sarpagine biosynthesis	TAX-4056
+PWY-5316	nicotine biosynthesis	TAX-4070
+GALLATE-DEGRADATION-II-PWY	gallate degradation I	TAX-2
+PWY-6174	mevalonate pathway II (archaea)	TAX-2157
+PWY-6174	isoprenoid pathway	
+PWY-6174	MVA pathway	
+PWY-5980	xylogalacturonan biosynthesis	TAX-33090
+PWY-6636	salicylate degradation III	TAX-4751
+PWY-6001	linoleate biosynthesis II (animals)	TAX-29828
+PWY-6001		TAX-50557
+PWY-7596	superpathway of stearidonate biosynthesis (cyanobacteria)	TAX-1117
+PWY66-397	resolvin D biosynthesis	TAX-40674
+PWY-7654	(8E,10E)-dodeca-8,10-dienol biosynthesis	TAX-7088
+PWY-5486	pyruvate fermentation to ethanol II	TAX-4751
+PWY-5486		TAX-2
+PWY-5486		TAX-33090
+PWY-6941	styrene degradation	TAX-2
+PWY-5526	bacteriochlorophyll a biosynthesis	TAX-93681
+PWY-5526		TAX-204457
+PWY-5526		TAX-204455
+PWY-5526		TAX-356
+PWY-5526		TAX-191412
+PWY-5526		TAX-1046
+PWY-5526		TAX-204441
+PWY-6352	3-phosphoinositide biosynthesis	TAX-2759
+PWY-6352	phosphatidylinositol-3,4-bisphosphate biosynthesis	
+PWY-6352	phosphatidylinositol 3-phosphate biosynthesis	
+PWY-6352	phosphatidylinositol-3,4,5-triphosphate biosynthesis	
+PWY0-1337	oleate &beta;-oxidation	TAX-2
+THIOREDOX-PWY	thioredoxin pathway	TAX-2759
+THIOREDOX-PWY		TAX-2
+THIOREDOX-PWY		TAX-2157
+PWY-5062	superpathway of nicotinate degradation	TAX-2
+PWY0-541	cyclopropane fatty acid (CFA) biosynthesis	TAX-2
+SO4ASSIM-PWY	sulfate reduction I (assimilatory)	TAX-4751
+SO4ASSIM-PWY		TAX-2
+PWY-5886	4-hydroxyphenylpyruvate biosynthesis	TAX-2157
+PWY-5886		TAX-2759
+PWY-5886		TAX-2
+PWY-5389	3-methylthiopropanoate biosynthesis	TAX-2
+PWY-5389	methylthiopropionate biosynthesis	TAX-33090
+PWY-6305	putrescine biosynthesis IV	TAX-33090
+PWY-6305	putrescine biosynthesis in plants	
+PWY-6305	ODC and ADC putrescine biosynthesis	
+NAGLIPASYN-PWY	lipid IVA biosynthesis	TAX-33090
+NAGLIPASYN-PWY	lipid-A-precursor biosynthesis	TAX-2
+PWY-7375	mRNA capping I	TAX-10239
+PWY-7375		TAX-33208
+PWY-7375		TAX-4751
+PWY-7636	astaxanthin biosynthesis (flowering plants)	TAX-1463139
+PWY-7340	9-cis, 11-trans-octadecadienoyl-CoA degradation (isomerase-dependent, yeast)	TAX-4751
+PWY-6896	thiamine salvage I	TAX-1236
+PWY-6896	thiamin salvage I	
+PWY66-373	sucrose degradation V (sucrose &alpha;-glucosidase)	TAX-40674
+PWY-5653	NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde	TAX-2759
+PWY-5653		TAX-2
+PWY-1187	glucosinolate biosynthesis from homomethionine	TAX-3699
+PWY-7198	pyrimidine deoxyribonucleotides de novo biosynthesis IV	TAX-2157
+PWY-6344	L-ornithine degradation II (Stickland reaction)	TAX-200918
+PWY-6344		TAX-201174
+PWY-6344		TAX-1239
+GLNSYN-PWY	L-glutamine biosynthesis I	TAX-2759
+GLNSYN-PWY		TAX-2
+GLNSYN-PWY		TAX-2157
+LYSINE-DEG1-PWY	L-lysine degradation XI (mammalian)	TAX-2759
+PWY-3282	superpathway of ammonia assimilation (plants)	TAX-33090
+PWY-3282	GS/GOGAT pathway	
+PWY-5048	rosmarinic acid biosynthesis I	TAX-58023
+PWY-6933	seleno-amino acid detoxification and volatilization III	TAX-33090
+PWY-6933	Se volatilization III	
+PWY-6933	Se-amino acid detoxification and volatilization III	
+PWY-6933	selenium volatilization III	
+PWY-6933	seleno-compound volatilization III	
+PWY-6933	dimethyldiselenide biosynthesis	
+PWY-6933	DMeDSe biosynthesis	
+PWY-6933	DMDSe biosynthesis	
+PWY-5348	kaempferol triglucoside biosynthesis	TAX-3803
+PWY-3181	L-tryptophan degradation VI (via tryptamine)	TAX-2
+PWY-3181		TAX-33090
+PWY-7345	superpathway of anaerobic sucrose degradation	TAX-33090
+PWY-7345	sucrose degradation to ethanol and lactate (anaerobic)	
+P3-PWY	gallate degradation III (anaerobic)	TAX-1239
+PWY-6917	vernolate biosynthesis III	TAX-33090
+PWY-6917	oat seed peroxygenase pathway	
+PWY-6396	superpathway of 2,3-butanediol biosynthesis	TAX-4751
+PWY-6396	butylene glycol fermentation	TAX-2
+PWY-6396	butanediol fermentation	
+PWY-621	sucrose degradation III (sucrose invertase)	TAX-2157
+PWY-621	sucrose mobilization	TAX-2
+PWY-621		TAX-2759
+PWY-6908	thiamine diphosphate biosynthesis IV (eukaryotes)	TAX-4751
+PWY-6908	thiamin diphosphate biosynthesis IV (eukaryotes)	TAX-33630
+PWY-6908	vitamin B1 biosynthesis IV (eukaryotes)	TAX-33090
+PWY-6908	thiamine diphosphate biosynthesis (plants)	
+PWY-5329	L-cysteine degradation III	TAX-40674
+PWY-5335	superpathway of sulfide oxidation (Starkeya novella)	TAX-2
+PWY-6054	dimethylsulfoniopropanoate biosynthesis I (Wollastonia)	TAX-33090
+PWY-6054	DMSP biosynthesis	
+PWY-6054	dimethylsulfoniopropionate biosynthesis I (Wollastonia)	
+PWY-7718	actinomycin D biosynthesis	TAX-85008
+PWY-7718	actinomycin C1 biosynthesis	TAX-85011
+PWY-5517	L-arabinose degradation III	TAX-2
+PWY-6632	caffeine degradation IV (bacteria, via demethylation and oxidation)	TAX-2
+PWY-6282	palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)	TAX-2
+PWY-6282	palmitoleic acid biosynthesis I	
+PWY-6282	palmitoleate biosynthesis (anaerobic)	
+TYRFUMCAT-PWY	L-tyrosine degradation I	TAX-1224
+TYRFUMCAT-PWY	tyrosine fumarate catabolism	TAX-4751
+TYRFUMCAT-PWY		TAX-40674
+PWY-5060	luteolin biosynthesis	TAX-3398
+PWY-3821	D-galactose degradation III	TAX-3193
+PWY-3821	UDP-D-galatose biosynthesis (from D-galactose)	
+PWY-6751	superpathway of hydrogen production	TAX-2
+PWY-6751		TAX-2157
+PWY-5871	ubiquinol-9 biosynthesis (eukaryotic)	TAX-2759
+PWY-5871	Q9 biosynthesis	
+PWY-5871	ubiquinone-9 biosynthesis (eukaryotic)	
+ETOH-ACETYLCOA-ANA-PWY	ethanol degradation I	TAX-2
+ETOH-ACETYLCOA-ANA-PWY	acetyl-CoA biosynthesis (from alcohol)	
+OANTIGEN-PWY	O-antigen building blocks biosynthesis (E. coli)	TAX-200918
+OANTIGEN-PWY		TAX-200940
+OANTIGEN-PWY		TAX-544448
+OANTIGEN-PWY		TAX-508458
+OANTIGEN-PWY		TAX-203691
+OANTIGEN-PWY		TAX-203682
+OANTIGEN-PWY		TAX-40117
+OANTIGEN-PWY		TAX-142182
+OANTIGEN-PWY		TAX-32066
+OANTIGEN-PWY		TAX-1783270
+OANTIGEN-PWY		TAX-74152
+OANTIGEN-PWY		TAX-68297
+OANTIGEN-PWY		TAX-1297
+OANTIGEN-PWY		TAX-200930
+OANTIGEN-PWY		TAX-1117
+OANTIGEN-PWY		TAX-200938
+OANTIGEN-PWY		TAX-200795
+OANTIGEN-PWY		TAX-1783257
+OANTIGEN-PWY		TAX-67814
+OANTIGEN-PWY		TAX-68336
+OANTIGEN-PWY		TAX-200783
+OANTIGEN-PWY		TAX-1224
+PWY-6457	trans-cinnamoyl-CoA biosynthesis	TAX-3193
+PWY-6457	(E)-cinnamoyl-CoA biosynthesis	TAX-2
+PWY-6457	trans-cinnamoyl-coenzyme A biosynthesis	
+PWY-6457	cinnamoyl-CoA biosynthesis	
+PWY-7213	wogonin metabolism	TAX-33090
+PWY-5963	thio-molybdenum cofactor biosynthesis	TAX-2
+PWY-5963	molybdenum cofactor (sulfide) biosynthesis	TAX-2157
+PWY-5963		TAX-2759
+PWY-283	benzoate degradation II (aerobic and anaerobic)	TAX-2
+PWY-283	benzoic acid degradation	
+PWY-7450	anthocyanidin modification (Arabidopsis)	TAX-3398
+PWY-7450	Arabidopsis anthocyanin A11 biosynthesis	
+RIBOSYN2-PWY	flavin biosynthesis I (bacteria and plants)	TAX-33090
+RIBOSYN2-PWY	riboflavin, FMN and FAD biosynthesis	TAX-2
+RIBOSYN2-PWY	vitamin B2 biosynthesis	
+PWY-6535	4-aminobutanoate degradation I	TAX-33154
+PWY-6535	&gamma;-amino-butyrate shunt	TAX-33090
+PWY-6535	GABA degradation	TAX-2
+PWY-5875	staphyloxanthin biosynthesis	TAX-1239
+PWY-7248	pectin degradation III	TAX-2
+PWY-5860	superpathway of demethylmenaquinol-6 biosynthesis I	TAX-724
+PWY-5860	superpathway of demethylmenaquinone-6 biosynthesis	
+ENTBACSYN-PWY	enterobactin biosynthesis	TAX-1224
+PWY66-387	fatty acid &alpha;-oxidation II	TAX-33208
+FOLSYN-PWY	superpathway of tetrahydrofolate biosynthesis and salvage	TAX-4751
+FOLSYN-PWY		TAX-2
+PWY0-781	aspartate superpathway	TAX-2
+PWY-7154	ergosterol biosynthesis II	TAX-3041
+PWY-7154	ergosterol biosynthesis II (Chlamydomonas)	
+PWY-7154	ergosterol biosynthesis II (green algae)	
+P562-PWY	myo-inositol degradation I	TAX-4751
+P562-PWY		TAX-2
+PWY-6650	juvenile hormone III biosynthesis II	TAX-7088
+PWY-6650	JH III biosynthesis	
+PWY-6650	methyl-10R,11-epoxy-3,7,11-trimethyl-2E,6E-dodecadienoate biosynthesis	
+PWY-6650	methyl (2E,6E)-(10R)-10,11-epoxy-3,7,11-trimethyl-2,6-dodecadienoate biosynthesis	
+PWY-6771	rhamnogalacturonan type I degradation II (bacteria)	TAX-2
+PWY-6771		TAX-4751
+BENZCOA-PWY	anaerobic aromatic compound degradation (Thauera aromatica)	TAX-1224
+PWY-5966	fatty acid biosynthesis initiation II	TAX-33084
+PWY-5966		TAX-33208
+PWY-5966		TAX-4751
+PWY-5966		TAX-2
+PWY0-1296	purine ribonucleosides degradation	TAX-2157
+PWY0-1296		TAX-33154
+PWY0-1296		TAX-2
+PWY-5918	superpathay of heme biosynthesis from glutamate	TAX-33682
+PWY-5918		TAX-2157
+PWY-5918		TAX-3398
+PWY-5918		TAX-1224
+P344-PWY	superpathway of acrylonitrile degradation	TAX-1224
+P344-PWY		TAX-201174
+PWY-5041	S-adenosyl-L-methionine cycle II	TAX-2
+PWY-5041	activated methyl cycle	TAX-2759
+PWY-5041	SAM cycle	
+PWY-6448	hordatine biosynthesis	TAX-4512
+PWY-6999	theophylline degradation	TAX-2
+PWY-5304	superpathway of sulfur oxidation (Acidianus ambivalens)	TAX-183924
+PWY-6643	coenzyme M biosynthesis II	TAX-2191
+PWY-6643	CoM biosynthesis II	TAX-94695
+PWY-6292	superpathway of L-cysteine biosynthesis (mammalian)	TAX-33154
+PWY-6292		TAX-2157
+PWY-6292		TAX-2
+PWY-5428	m-xylene degradation to m-toluate	TAX-2
+PWY-6887	kauralexin biosynthesis	TAX-3193
+VALDEG-PWY	L-valine degradation I	TAX-2759
+VALDEG-PWY		TAX-201174
+VALDEG-PWY		TAX-1224
+VALDEG-PWY		TAX-1239
+TRPKYNCAT-PWY	L-tryptophan degradation IV (via indole-3-lactate)	TAX-1239
+TRPKYNCAT-PWY	tryptophan kynurenine degradation	
+ECASYN-PWY	enterobacterial common antigen biosynthesis	TAX-1224
+ECASYN-PWY	ECA biosynthesis	
+PWY-7246	pectin degradation II	TAX-4751
+PWY-7246		TAX-2
+GLYCINE-SYN2-PWY	glycine biosynthesis II	TAX-33154
+PWY-5697	allantoin degradation to ureidoglycolate I (urea producing)	TAX-2759
+PWY-5697		TAX-2
+PWY-6735	starch degradation IV	TAX-2157
+PWY-7161	polymethylated quercetin biosynthesis	TAX-91827
+PWY-5913	partial TCA cycle (obligate autotrophs)	TAX-1118
+PWY-5913	TCA cycle VI (obligate autotrophs)	TAX-1217
+PWY-5913		TAX-1224
+PWY-6524	lychnose and isolychnose biosynthesis	TAX-3568
+PWY-7224	purine deoxyribonucleosides salvage	TAX-33208
+PWY-7224		TAX-33090
+PWY-7224		TAX-2
+PWY-7224		TAX-2157
+PWY-7679	anthocyanidin acylglucoside and acylsambubioside biosynthesis	TAX-3398
+PWY-6769	rhamnogalacturonan type I degradation I (fungi)	TAX-4751
+PWY-7638	echinenone and zeaxanthin biosynthesis (Synechocystis)	TAX-2
+PWY-7238	sucrose biosynthesis II	TAX-33090
+PWY-7238	sucrose biosynthesis II (from starch degradation intermediates)	
+PWY-7238	sucrose biosynthesis II (plant cytosol)	
+PYRUVDEHYD-PWY	pyruvate decarboxylation to acetyl CoA	TAX-2157
+PYRUVDEHYD-PWY	pyruvate dehydrogenase complex	TAX-2759
+PYRUVDEHYD-PWY	acetyl-CoA biosynthesis I (pyruvate dehydrogenase complex)	TAX-2
+PWY-5861	superpathway of demethylmenaquinol-8 biosynthesis	TAX-2
+PWY-5861	superpathway of demethylmenaquinone-8 biosynthesis	
+PWY-6147	6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	TAX-4751
+PWY-6147		TAX-33090
+PWY-6147		TAX-2
+PWY-5388	N-glucosylnicotinate metabolism	TAX-3398
+PWY-7208	superpathway of pyrimidine nucleobases salvage	TAX-4751
+PWY-7208		TAX-33090
+PWY-7208		TAX-2
+PWY-7208		TAX-2157
+PWY-5480	pyruvate fermentation to ethanol I	TAX-3041
+PWY-5480		TAX-4751
+PWY-5480		TAX-2
+PWY-6432	curcuminoid biosynthesis	TAX-99568
+PWY0-1353	succinate to cytochrome bd oxidase electron transfer	TAX-2
+PWY-5509	adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I	TAX-2
+PWY-5509		TAX-2157
+PWY-43	putrescine biosynthesis II	TAX-33090
+PWY-43		TAX-1239
+PWY-43		TAX-1224
+PWY-6151	S-adenosyl-L-methionine cycle I	TAX-2157
+PWY-6151	SAM cycle	TAX-2
+PWY-6151	activated methyl cycle	
+PWY-6151	AMC	
+PWY-6261	thyroid hormone metabolism II (via conjugation and/or degradation)	TAX-7742
+PWY66-423	fructose 2,6-bisphosphate biosynthesis	TAX-2759
+PWY-6977	superpathway of erythromycin biosynthesis	TAX-2
+PWY-7606	docosahexaenoate biosynthesis III (6-desaturase, mammals)	TAX-33208
+PWY-7606		TAX-2759
+CRNFORCAT-PWY	creatinine degradation I	TAX-2
+CRNFORCAT-PWY	creatinine catabolism	
+PWY-5123	trans, trans-farnesyl diphosphate biosynthesis	TAX-2157
+PWY-5123	FPP biosynthesis	TAX-2759
+PWY-5123		TAX-2
+P105-PWY	TCA cycle IV (2-oxoglutarate decarboxylase)	TAX-1117
+P105-PWY	citric acid cycle	TAX-3035
+P105-PWY	tricarboxylic acid cycle	TAX-1224
+P105-PWY	Szent-Gyorgyi-Krebs cycle	TAX-201174
+P105-PWY	Krebs cycle	
+PWY-5313	superpathway of anthocyanin biosynthesis (from cyanidin and cyanidin 3-O-glucoside)	TAX-58024
+PWY0-1336	NADH to fumarate electron transfer	TAX-2
+PWY-5098	chlorophyll a degradation I	TAX-33090
+PWY-5740	GDP-L-colitose biosynthesis	TAX-1224
+ARG+POLYAMINE-SYN	superpathway of arginine and polyamine biosynthesis	TAX-2
+PWY-7318	dTDP-3-acetamido-3,6-dideoxy-&alpha;-D-glucose biosynthesis	TAX-2
+PWY-7318	dTDP-3-acetamido-3,6-dideoxy-&alpha;-D-glucopyranose biosynthesis	
+PWYQT-4472	glucosinolate biosynthesis from trihomomethionine	TAX-3699
+PWY-5737	(5R)-carbapenem carboxylate biosynthesis	TAX-2
+PWY-5737	(R)-1-carbapen-2-em-3-carboxylate biosynthesis	
+PWY-5737	(5R)-carbapenem-3-carboxylate biosynthesis	
+PROPIONMET-PWY	propanoyl CoA degradation I	TAX-2759
+PROPIONMET-PWY	propionyl CoA degradation I	TAX-33154
+PROPIONMET-PWY		TAX-2
+PROPIONMET-PWY		TAX-2157
+PWY-5695	urate biosynthesis/inosine 5'-phosphate degradation	TAX-2
+PWY-5695	ureide biogenesis	TAX-33208
+PWY-5695	inosine 5'-phosphate degradation	TAX-3803
+PWY-5695	IMP degradation	
+PWY-5695	urate biosynthesis	
+PWY0-901	L-selenocysteine biosynthesis I (bacteria)	TAX-2
+GALACTARDEG-PWY	D-galactarate degradation I	TAX-2
+GALACTARDEG-PWY	D-galactarate catabolism	
+PWY-4942	sterculate biosynthesis	TAX-3193
+PWY-4942	cyclopropane and cyclopropene fatty acid biosynthesis	
+PWY-5345	superpathway of L-methionine biosynthesis (by sulfhydrylation)	TAX-2
+PWY-5345		TAX-4751
+PWY-6607	guanosine nucleotides degradation I	TAX-3193
+PWY-743	thiocyanate degradation II	TAX-2
+PWY-743	thiocyanate metabolism II	
+PWY-743	thiocyanate utilization II	
+PWY-743	carbonyl sulfide pathway	
+PWY-7445	luteolin triglucuronide degradation	TAX-3398
+PWY-6512	hydrogen oxidation III (anaerobic, NADP)	TAX-2157
+PWY-6512		TAX-2
+PWY-7626	bacilysin biosynthesis	TAX-2
+GLYCOLATEMET-PWY	glycolate and glyoxylate degradation I	TAX-2
+GLYCOLATEMET-PWY	glycolate utilization I	
+GLYCOLATEMET-PWY	glycolate degradation I	
+PWY-1164	carbon disulfide oxidation I (anaerobic)	TAX-2157
+PWY-1164	carbon disulphide oxidation	TAX-2
+PWY1F-823	leucopelargonidin and leucocyanidin biosynthesis	TAX-58024
+PWY-7269	NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)	TAX-4751
+PWY-5307	gentiodelphin biosynthesis	TAX-3398
+PWY-7709	(3R)-linalool biosynthesis	TAX-3398
+PWY-7709	(R)-linalool biosynthesis	TAX-4751
+PWY-282	cuticular wax biosynthesis	TAX-33090
+PWY-6733	sporopollenin precursors biosynthesis	TAX-3193
+PWY-6733	sporopollenin monomer biosynthesis	
+PWY-7494	choline degradation IV	TAX-4751
+PWY-7220	adenosine deoxyribonucleotides de novo biosynthesis II	TAX-2
+PWY-6956	naphthalene degradation to acetyl-CoA	TAX-2
+PWY0-1535	D-serine degradation	TAX-2759
+PWY0-1535		TAX-2
+PWY-3341	L-proline biosynthesis III	TAX-33090
+PWY-7310	D-glucosaminate degradation	TAX-2
+PWY-7791	UMP biosynthesis III	TAX-201174
+PWY-7791	uridine-5'-phosphate biosynthesis III	TAX-1239
+PWY-7791	de novo biosynthesis of uridine-5'-phosphate III	TAX-2157
+PWY-7791	de novo biosynthesis of uridine-5'-monophosphate III	
+HISTSYN-PWY	L-histidine biosynthesis	TAX-2157
+HISTSYN-PWY		TAX-4751
+HISTSYN-PWY		TAX-33090
+HISTSYN-PWY		TAX-2
+PWY-7173	quercetin triglucoside biosynthesis	TAX-3803
+PWY-6590	superpathway of Clostridium acetobutylicum acidogenic fermentation	TAX-1239
+PWY-6590	acetobutylicum acidogenic fermentation	
+PWY-7317	superpathway of dTDP-glucose-derived O-antigen building blocks biosynthesis	TAX-2
+PWY-6117	spermine and spermidine degradation I	TAX-33154
+PWY-6117	polyamine degradation I	TAX-5794
+GLYCOGENSYNTH-PWY	glycogen biosynthesis I (from ADP-D-Glucose)	TAX-2
+PWY-7805	aminomethylphosphonate degradation	TAX-2
+ERGOSTEROL-SYN-PWY	superpathway of ergosterol biosynthesis I	TAX-4751
+ERGOSTEROL-SYN-PWY	superpathway of ergosterol biosynthesis I (fungi)	
+PWY-1701	methanol and methylamine oxidation to formaldehyde	TAX-1224
+PWY-1701	methylotrophy	
+PWY-5104	L-isoleucine biosynthesis IV	TAX-2
+PWY-5104		TAX-224756
+PWY-5104		TAX-183925
+PWY-5188	tetrapyrrole biosynthesis I (from glutamate)	TAX-33682
+PWY-5188		TAX-1117
+PWY-5188		TAX-1224
+PWY-5188		TAX-2157
+PWY-5188		TAX-3398
+PWY-7277	sphingolipid biosynthesis (mammals)	TAX-33208
+PWY-7442	drosopterin and aurodrosopterin biosynthesis	TAX-7215
+PWY0-501	lipoate biosynthesis and incorporation I	TAX-33090
+PWY0-501		TAX-2
+PWY0-501		TAX-2759
+PWY-5694	allantoin degradation to glyoxylate I	TAX-2
+PWY-5694		TAX-4751
+PWY-5972	stearate biosynthesis I (animals and fungi)	TAX-33154
+PWY-5972	stearic acid biosynthesis	TAX-2
+PWY4FS-4	phosphatidylcholine biosynthesis IV	TAX-33090
+PWY-6565	superpathway of polyamine biosynthesis III	TAX-641
+PWY-2762	glyceollin biosynthesis II	TAX-3803
+PWY-5366	palmitoleate biosynthesis II (plants and bacteria)	TAX-2759
+PWY-5366	palmitoleic acid biosynthesis	TAX-2
+PWY-7380	biotin biosynthesis from 8-amino-7-oxononanoate II	TAX-1239
+PWY-7380	biotin biosynthesis from 7-keto-8-aminopelargonate II	
+PWY-102	gibberellin inactivation I (2&beta;-hydroxylation)	TAX-3195
+PWY-102	gibberellin 2&beta;-hydroxylation	TAX-58023
+PWY-102		TAX-2
+PWY-102		TAX-4751
+PWY-5996	oleate biosynthesis II (animals and fungi)	TAX-33154
+PWY-4621	arsenate detoxification II (glutaredoxin)	TAX-4751
+PWY-4621		TAX-2
+PWY-4621		TAX-2157
+PWY-5121	superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)	TAX-2
+PWY-5121	GGPP biosynthesis II (plastidic)	TAX-33090
+PWY-6430	thymine degradation	TAX-300275
+PWY-6430	uracil degradation (reductive)	TAX-2
+PWY-6430		TAX-33090
+PWY-6430		TAX-40674
+P401-PWY	cyanide degradation	TAX-33090
+P401-PWY		TAX-2
+PWY-7182	linalool biosynthesis I	TAX-2759
+ARO-PWY	chorismate biosynthesis I	TAX-33682
+ARO-PWY	aromatic amino acid biosynthesis	TAX-3041
+ARO-PWY	shikimate pathway	TAX-2763
+ARO-PWY		TAX-287987
+ARO-PWY		TAX-5204
+ARO-PWY		TAX-2836
+ARO-PWY		TAX-4762
+ARO-PWY		TAX-4890
+ARO-PWY		TAX-5794
+ARO-PWY		TAX-33090
+ARO-PWY		TAX-2
+MALATE-ASPARTATE-SHUTTLE-PWY	L-aspartate degradation II	TAX-33208
+MALATE-ASPARTATE-SHUTTLE-PWY	malate/L-aspartate shuttle pathway	TAX-4751
+PWY-5971	palmitate biosynthesis II (bacteria and plants)	TAX-33090
+PWY-5971	palmitic acid biosynthesis	TAX-2
+PWY-5971	de novo lipogenesis	
+GALACTITOLCAT-PWY	galactitol degradation	TAX-1224
+GALACTITOLCAT-PWY	galactitol catabolism	
+THRESYN-PWY	superpathway of L-threonine biosynthesis	TAX-4751
+THRESYN-PWY		TAX-33090
+THRESYN-PWY		TAX-2
+THRESYN-PWY		TAX-2157
+PWY-5143	long-chain fatty acid activation	TAX-2157
+PWY-5143	long-chain acyl-CoA synthetase pathway	TAX-2
+PWY-5143		TAX-2759
+PWY-7413	dTDP-6-deoxy-&alpha;-D-allose biosynthesis	TAX-2
+GLUCARDEG-PWY	D-glucarate degradation I	TAX-2
+GLUCARDEG-PWY	D-glucarate catabolism	
+PWY-6759	hydrogen production III	TAX-2
+PWY-6759		TAX-2157
+PWY-6353	purine nucleotides degradation II (aerobic)	TAX-33154
+PWY-6353	purine nucleotides catabolism	TAX-2157
+PWY-6353		TAX-2
+PWY-3801	sucrose degradation II (sucrose synthase)	TAX-1117
+PWY-3801		TAX-33090
+PWY66-21	ethanol degradation II	TAX-2759
+PWY66-21		TAX-2
+PWY66-21		TAX-2157
+PWY-7723	bacterial bioluminescence	TAX-267890
+PWY-7723		TAX-543
+PWY-7723		TAX-641
+PWY-40	putrescine biosynthesis I	TAX-7742
+PWY-40		TAX-2
+PWY-5310	superpathway of anthocyanin biosynthesis (from delphinidin 3-O-glucoside)	TAX-58024
+PWY-6523	nitrite-dependent anaerobic methane oxidation	TAX-2
+PWY-6523	intra-aerobic nitrite reduction	
+PWY-6523	N-DAMO	
+PWY66-428	L-threonine degradation V	TAX-40674
+PWY-5725	farnesene biosynthesis	TAX-91827
+PWY66-161	ethanol degradation III	TAX-33208
+KDOSYN-PWY	Kdo transfer to lipid IVA I	TAX-33090
+KDOSYN-PWY		TAX-1783257
+KDOSYN-PWY		TAX-1224
+PWY-7186	superpathway of scopolin and esculin biosynthesis	TAX-58023
+PWY-7186	post-harvest physiological deterioration hydroxycoumarin and hydrocycoumarin glucoside biosynthesis	
+PWY-7186	PPD hydroxycoumarin and hydrocycoumarin glucoside biosynthesis	
+PANTOSYN-PWY	pantothenate and coenzyme A biosynthesis I	TAX-2
+PWY-7436	vitamin E biosynthesis (tocotrienols)	TAX-3398
+PWY-7436	tocotrienol biosynthesis	
+PWY-7546	diphthamide biosynthesis (eukaryotes)	TAX-2759
+PWY-5079	L-phenylalanine degradation III	TAX-4751
+PWY-5079	Ehrlich pathway	
+PWY66-241	bupropion degradation	TAX-40674
+PWY-6714	L-rhamnose degradation III	TAX-2
+PWY-6714	diketo-hydrolase pathway	
+PWY-5350	thiosulfate disproportionation IV (rhodanese)	TAX-2
+PWY-5350		TAX-2759
+PWY-7759	bacteriochlorophyll c biosynthesis	TAX-191412
+PWY-5899	superpathway of menaquinol-13 biosynthesis	TAX-33882
+PWY-5899	vitamin K2 biosynthesis	TAX-838
+PWY-5899	superpathway of menaquinone-13 biosynthesis	
+PWY-4984	urea cycle	TAX-2
+PWY-4984	Krebs ornithine cycle	TAX-2759
+PWY-4984	Krebs-Henseleit cycle	
+PWY-5382	hydrogen oxidation II (aerobic, NAD)	TAX-2
+PWY-5139	pelargonidin conjugates biosynthesis	TAX-3398
+PWY-5514	UDP-N-acetyl-D-galactosamine biosynthesis II	TAX-68459
+PWY-7766	heme biosynthesis IV (Gram-positive bacteria)	TAX-1239
+PWY-7766		TAX-201174
+PWY-3781	aerobic respiration I (cytochrome c)	TAX-2
+PWY-3781		TAX-2759
+PWY-7131	CMP-legionaminate biosynthesis II	TAX-2
+ALANINE-SYN2-PWY	L-alanine biosynthesis II	TAX-2759
+ALANINE-SYN2-PWY		TAX-2
+PWY-7836	ganglio-series glycosphingolipids biosynthesis	TAX-33208
+PWY-7836	ganglioglycosphingolipids biosynthesis	
+PWY-7836	ganglioside biosynthesis	
+PWY-6520	nonaprenyl diphosphate biosynthesis II	TAX-33090
+PWY-6520	solanesyl diphosphate biosynthesis	
+PWY-6520	solanesyl pyrophosphate biosynthesis	
+PWY-6126	superpathway of adenosine nucleotides de novo biosynthesis II	TAX-2759
+PWY-6126		TAX-2157
+PWY-6126		TAX-2
+PWY-6973	dTDP-D-olivose, dTDP-D-oliose and dTDP-D-mycarose biosynthesis	TAX-2
+PWY-6309	L-tryptophan degradation XI (mammalian, via kynurenine)	TAX-40674
+PWY-6902	chitin degradation II (Vibrio)	TAX-33090
+PWY-6902		TAX-33154
+PWY-6902		TAX-1239
+PWY-6902		TAX-201174
+PWY-6902		TAX-976
+PWY-6902		TAX-1224
+PWY-7299	progesterone biosynthesis	TAX-33208
+P542-PWY	choline-O-sulfate degradation	TAX-1224
+P542-PWY	choline sulfate degradation	
+METHYLGALLATE-DEGRADATION-PWY	methylgallate degradation	TAX-2
+PWY-6505	L-tryptophan degradation XII (Geobacillus)	TAX-2
+PWY-I9	L-cysteine biosynthesis VI (from L-methionine)	TAX-2
+PWY-I9	reverse transsulfuration	
+PWY-I9	methionine to cysteine transsulfuration	
+PWY-6100	L-carnitine biosynthesis	TAX-2759
+PWY-6100	(R)-carnitine biosynthesis	
+PWY-5863	superpathway of phylloquinol biosynthesis	TAX-33090
+PWY-5863	superpathway of phylloquinone biosynthesis	TAX-1117
+PWY-6502	oxidized GTP and dGTP detoxification	TAX-33154
+PWY-6502	8-oxo-(d)GTP detoxification	TAX-33090
+PWY-6502	oxidized guanosine triphosphate and deoxyguanosine triphosphate detoxification	TAX-2
+PWY-6502	8-oxo-7,8-dihydro-guanosine-triphosphate and 8-oxo-7,8-dihydro-deoxyguanosine-triphosphate	
+PWY-6662	superpathway of quinolone and alkylquinolone biosynthesis	TAX-2
+PWY-5298	L-lysine degradation VI	TAX-201174
+PWY-5298		TAX-1224
+PWY66-422	D-galactose degradation V (Leloir pathway)	TAX-2759
+PWY66-422	Leloir pathway	
+FORMASS-PWY	formaldehyde oxidation IV (thiol-independent)	TAX-1224
+PWY-5207	coenzyme B/coenzyme M regeneration	TAX-183988
+PWY-5207	coB/coM regeneration	TAX-224756
+PWY-5207		TAX-183925
+PWY-5207		TAX-183939
+PWY-5391	syringetin biosynthesis	TAX-58024
+LIPASYN-PWY	phospholipases	TAX-2759
+LIPASYN-PWY	phospholipase pathway	TAX-2
+LIPASYN-PWY		TAX-2157
+PWY3O-19	ubiquinol-6 biosynthesis from 4-hydroxybenzoate (eukaryotic)	TAX-4751
+PWY3O-19	Q-6 biosynthesis	
+PWY3O-19	ubiquinone-6 biosynthesis (eukaryotic)	
+PWY-5707	propanethial S-oxide biosynthesis	TAX-40553
+PWY-5707	onion lachrymatory factor biosynthesis	
+PWY-5652	2-amino-3-carboxymuconate semialdehyde degradation to glutaryl-CoA	TAX-4751
+PWY-5652		TAX-33208
+PWY-6960	L-ascorbate degradation III	TAX-33090
+PWYQT-4450	aliphatic glucosinolate biosynthesis, side chain elongation cycle	TAX-3699
+PWYQT-4450	methionine elongation	
+PWY-6120	L-tyrosine biosynthesis III	TAX-3193
+PWY-6120		TAX-4751
+PWY-6120		TAX-2
+PWY-6318	L-phenylalanine degradation IV (mammalian, via side chain)	TAX-33208
+PWY-6281	L-selenocysteine biosynthesis II (archaea and eukaryotes)	TAX-2759
+PWY-6281		TAX-2157
+PWY-6992	1,5-anhydrofructose degradation	TAX-2
+PWY-6351	D-myo-inositol (1,4,5)-trisphosphate biosynthesis	TAX-2759
+PWY-6351	IP3 biosynthesis	
+METHGLYUT-PWY	superpathway of methylglyoxal degradation	TAX-2
+PWY-7393	&beta;-carotene biosynthesis (engineered)	TAX-33090
+PWY-7393	Golden Rice	TAX-2
+LYSINE-AMINOAD-PWY	L-lysine biosynthesis IV	TAX-33682
+LYSINE-AMINOAD-PWY		TAX-4751
+PWY0-1297	superpathway of purine deoxyribonucleosides degradation	TAX-2
+PWY-3581	(S)-reticuline biosynthesis I	TAX-3440
+PWY-3581		TAX-3465
+PWY-3581		TAX-3455
+PWY-3581		TAX-3401
+PWY-3581		TAX-41773
+PWY-7179-1	purine deoxyribonucleosides degradation II	TAX-40674
+PWY-3661	glycine betaine degradation I	TAX-2759
+PWY-3661		TAX-2157
+PWY-3661		TAX-2
+PWY-7472	D-carnitine degradation II	TAX-1224
+PWY-6115	avenacin biosynthesis, initial reactions	TAX-4496
+PWY0-1261	anhydromuropeptides recycling	TAX-2
+PWY0-1261	1,6-anhydro-N-acetylmuramic acid recycling	
+PWY0-1261	cell wall recycling	
+PWY-6527	stachyose degradation	TAX-33090
+ASPSYNII-PWY	cyanide detoxification I	TAX-3193
+ASPSYNII-PWY	&beta;-cyanoalanine biosynthesis	
+ASPSYNII-PWY	asparagine biosynthesis II	
+PWY0-1334	NADH to cytochrome bd oxidase electron transfer I	TAX-33208
+PWY0-1334		TAX-2
+PWY-7315	dTDP-N-acetylthomosamine biosynthesis	TAX-1224
+PWY-7315	dTDP-4-acetamido-&alpha;-D-fucose biosynthesis	
+PWY-7315	dTDP-4-acetamido-4,6-dideoxy-&alpha;-D-galactose biosynthesis	
+PWY-6471	peptidoglycan biosynthesis IV (Enterococcus faecium)	TAX-186826
+PWY-4321	L-glutamate degradation IV	TAX-33090
+PWY-4321	GABA shunt	
+PWY-4321	4-aminobutyrate shunt	
+PWY-4321	&gamma;-aminobutyrate shunt	
+PWY-6358	superpathway of D-myo-inositol (1,4,5)-trisphosphate metabolism	TAX-2759
+PWY-7698	2,5-xylenol and 3,5-xylenol degradation	TAX-1224
+PWY-5870	ubiquinol-8 biosynthesis (eukaryotic)	TAX-4890
+PWY-5870	ubiquinone-8 biosynthesis (eukaryotic)	
+PWY-7778	2-methylpropene degradation	TAX-2
+PWY-7492	paspaline biosynthesis	TAX-4751
+PWY-6612	superpathway of tetrahydrofolate biosynthesis	TAX-33090
+PWY-6612	folic acid biosynthesis	TAX-4751
+PWY-6612	folate biosynthesis	TAX-2
+PWY-6612	THF biosynthesis	
+SUCUTIL-PWY	sucrose degradation I (sucrose phosphotransferase)	TAX-4751
+SUCUTIL-PWY		TAX-1224
+SUCUTIL-PWY		TAX-1239
+PWY-6013	crepenynate biosynthesis	TAX-4751
+PWY-6013	crepenynic acid biosynthesis	TAX-33090
