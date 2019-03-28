@@ -1,3 +1,0 @@
-Contrast	context1_of@Context	context2_of@Context
-RootsvsLeaves	Roots	Leaves
-LeavesvsRoots	Leaves	Roots

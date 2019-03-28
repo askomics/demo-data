@@ -1,0 +1,3 @@
+MetabolicNetwork	name	db_ref_name	db_ref_version	taxonomic_range
+ath_mn	Arabidopsis thaliana metabolic network	ath_mn	1.0	
+bn_mn	Brassica napus metabolic network	bn_mn	1.1	

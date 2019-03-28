@@ -1,0 +1,6 @@
+Region	type	organism	chromosome	start	end
+ATAC1	ATAC	Arabidopsis thaliana	AT1	1	100000
+ATAC2	ATAC	Arabidopsis thaliana	AT2	1	100000
+ATAC3	ATAC	Arabidopsis thaliana	AT3	1	100000
+ATAC4	ATAC	Brassica napus	BN1	1	100000
+ATAC5	ATAC	Brassica napus	BN2	1	100000

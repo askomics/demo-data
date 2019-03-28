@@ -1,0 +1,5 @@
+Compound	INCHI_key	molecular_weight	common_name	smiles
+CPD-108	InChIKey=IWDCLRJOBJJRNH-UHFFFAOYSA-N	108.14    	4-methylphenol	CC1(C=CC(=CC=1)O)
+CPD-7867	InChIKey=LQZZUXJYWNFBMV-UHFFFAOYSA-N	186.337    	1-dodecanol	CCCCCCCCCCCCO
+CPD-10818	InChIKey=QMZRXYCCCYYMHF-UHFFFAOYSA-L	164.097    	isopentenyl phosphate	C=C(CCOP(=O)([O-])[O-])C
+CPD-1081	InChIKey=PESKGJQREUXSRR-UXIWKSIVSA-N	386.66    	5&alpha;-cholestan-3-one	CC(C)CCCC(C)[CH]3(CC[CH]4([CH]2(CC[CH]1(CC(=O)CCC(C)1[CH]2CCC(C)34))))

@@ -1,0 +1,5 @@
+TranscriptionFactor	organism	chromosome	start	end
+TF1	Homo_sapiens	HC01	125439835	125439843
+TF2	Homo_sapiens	HC01	125438326	125438338
+TF3	Homo_sapiens	HC02	8696981	8696990
+TF4	Mus_musculus	MC02	87969422	87969436

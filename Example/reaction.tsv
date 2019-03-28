@@ -1,0 +1,7 @@
+Reaction	in@MetabolicNetwork	direction	ec_number	common_name
+RXN-1	bn_mn	reversible	EC-1.3.1.22	cholestenone 5-alpha-reductase
+RXN-7651	ath_mn	left to right	EC-1.14.13.21	flavonoid 3'-monooxygenase
+RXN-13684	ath_mn	reversible	EC-3.5.1.14	aminoacylase
+RXN-17130	ath_mn	left to right	EC-1.4.3.2	L-amino-acid oxidase
+RXN-17607	bn_mn	reversible	EC-3.5.5.1	nitrilase
+GCVP-RXN	bn_mn	reversible	EC-1.4.4.2	glycine decarboxylase
